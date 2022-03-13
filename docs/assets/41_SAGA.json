@@ -1,0 +1,125 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 41,
+      "cityCode": "41201",
+      "cityName": "佐賀市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41202",
+      "cityName": "唐津市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41203",
+      "cityName": "鳥栖市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41204",
+      "cityName": "多久市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41205",
+      "cityName": "伊万里市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41206",
+      "cityName": "武雄市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41207",
+      "cityName": "鹿島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41208",
+      "cityName": "小城市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41209",
+      "cityName": "嬉野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41210",
+      "cityName": "神埼市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41327",
+      "cityName": "吉野ヶ里町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41341",
+      "cityName": "基山町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41345",
+      "cityName": "上峰町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41346",
+      "cityName": "みやき町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41387",
+      "cityName": "玄海町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41401",
+      "cityName": "有田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41423",
+      "cityName": "大町町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41424",
+      "cityName": "江北町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41425",
+      "cityName": "白石町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41441",
+      "cityName": "太良町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

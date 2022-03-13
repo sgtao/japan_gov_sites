@@ -1,0 +1,125 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 38,
+      "cityCode": "38201",
+      "cityName": "松山市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38202",
+      "cityName": "今治市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38203",
+      "cityName": "宇和島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38204",
+      "cityName": "八幡浜市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38205",
+      "cityName": "新居浜市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38206",
+      "cityName": "西条市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38207",
+      "cityName": "大洲市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38210",
+      "cityName": "伊予市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38213",
+      "cityName": "四国中央市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38214",
+      "cityName": "西予市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38215",
+      "cityName": "東温市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38356",
+      "cityName": "上島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38386",
+      "cityName": "久万高原町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38401",
+      "cityName": "松前町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38402",
+      "cityName": "砥部町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38422",
+      "cityName": "内子町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38442",
+      "cityName": "伊方町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38484",
+      "cityName": "松野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38488",
+      "cityName": "鬼北町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38506",
+      "cityName": "愛南町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

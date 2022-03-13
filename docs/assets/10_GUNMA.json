@@ -1,0 +1,215 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 10,
+      "cityCode": "10201",
+      "cityName": "前橋市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10202",
+      "cityName": "高崎市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10203",
+      "cityName": "桐生市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10204",
+      "cityName": "伊勢崎市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10205",
+      "cityName": "太田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10206",
+      "cityName": "沼田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10207",
+      "cityName": "館林市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10208",
+      "cityName": "渋川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10209",
+      "cityName": "藤岡市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10210",
+      "cityName": "富岡市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10211",
+      "cityName": "安中市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10212",
+      "cityName": "みどり市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10344",
+      "cityName": "榛東村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10345",
+      "cityName": "吉岡町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10366",
+      "cityName": "上野村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10367",
+      "cityName": "神流町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10382",
+      "cityName": "下仁田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10383",
+      "cityName": "南牧村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10384",
+      "cityName": "甘楽町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10421",
+      "cityName": "中之条町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10424",
+      "cityName": "長野原町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10425",
+      "cityName": "嬬恋村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10426",
+      "cityName": "草津町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10428",
+      "cityName": "高山村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10429",
+      "cityName": "東吾妻町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10443",
+      "cityName": "片品村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10444",
+      "cityName": "川場村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10448",
+      "cityName": "昭和村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10449",
+      "cityName": "みなかみ町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10464",
+      "cityName": "玉村町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10521",
+      "cityName": "板倉町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10522",
+      "cityName": "明和町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10523",
+      "cityName": "千代田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10524",
+      "cityName": "大泉町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10525",
+      "cityName": "邑楽町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

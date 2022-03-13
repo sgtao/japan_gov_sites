@@ -1,0 +1,443 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 11,
+      "cityCode": "11100",
+      "cityName": "さいたま市",
+      "bigCityFlag": "2"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11101",
+      "cityName": "さいたま市西区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11102",
+      "cityName": "さいたま市北区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11103",
+      "cityName": "さいたま市大宮区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11104",
+      "cityName": "さいたま市見沼区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11105",
+      "cityName": "さいたま市中央区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11106",
+      "cityName": "さいたま市桜区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11107",
+      "cityName": "さいたま市浦和区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11108",
+      "cityName": "さいたま市南区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11109",
+      "cityName": "さいたま市緑区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11110",
+      "cityName": "さいたま市岩槻区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11201",
+      "cityName": "川越市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11202",
+      "cityName": "熊谷市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11203",
+      "cityName": "川口市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11206",
+      "cityName": "行田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11207",
+      "cityName": "秩父市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11208",
+      "cityName": "所沢市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11209",
+      "cityName": "飯能市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11210",
+      "cityName": "加須市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11211",
+      "cityName": "本庄市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11212",
+      "cityName": "東松山市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11214",
+      "cityName": "春日部市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11215",
+      "cityName": "狭山市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11216",
+      "cityName": "羽生市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11217",
+      "cityName": "鴻巣市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11218",
+      "cityName": "深谷市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11219",
+      "cityName": "上尾市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11221",
+      "cityName": "草加市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11222",
+      "cityName": "越谷市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11223",
+      "cityName": "蕨市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11224",
+      "cityName": "戸田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11225",
+      "cityName": "入間市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11227",
+      "cityName": "朝霞市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11228",
+      "cityName": "志木市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11229",
+      "cityName": "和光市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11230",
+      "cityName": "新座市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11231",
+      "cityName": "桶川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11232",
+      "cityName": "久喜市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11233",
+      "cityName": "北本市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11234",
+      "cityName": "八潮市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11235",
+      "cityName": "富士見市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11237",
+      "cityName": "三郷市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11238",
+      "cityName": "蓮田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11239",
+      "cityName": "坂戸市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11240",
+      "cityName": "幸手市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11241",
+      "cityName": "鶴ヶ島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11242",
+      "cityName": "日高市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11243",
+      "cityName": "吉川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11245",
+      "cityName": "ふじみ野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11246",
+      "cityName": "白岡市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11301",
+      "cityName": "伊奈町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11324",
+      "cityName": "三芳町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11326",
+      "cityName": "毛呂山町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11327",
+      "cityName": "越生町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11341",
+      "cityName": "滑川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11342",
+      "cityName": "嵐山町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11343",
+      "cityName": "小川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11346",
+      "cityName": "川島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11347",
+      "cityName": "吉見町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11348",
+      "cityName": "鳩山町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11349",
+      "cityName": "ときがわ町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11361",
+      "cityName": "横瀬町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11362",
+      "cityName": "皆野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11363",
+      "cityName": "長瀞町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11365",
+      "cityName": "小鹿野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11369",
+      "cityName": "東秩父村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11381",
+      "cityName": "美里町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11383",
+      "cityName": "神川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11385",
+      "cityName": "上里町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11408",
+      "cityName": "寄居町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11442",
+      "cityName": "宮代町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11464",
+      "cityName": "杉戸町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11465",
+      "cityName": "松伏町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

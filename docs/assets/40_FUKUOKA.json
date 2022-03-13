@@ -1,0 +1,449 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 40,
+      "cityCode": "40100",
+      "cityName": "北九州市",
+      "bigCityFlag": "2"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40101",
+      "cityName": "北九州市門司区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40103",
+      "cityName": "北九州市若松区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40105",
+      "cityName": "北九州市戸畑区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40106",
+      "cityName": "北九州市小倉北区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40107",
+      "cityName": "北九州市小倉南区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40108",
+      "cityName": "北九州市八幡東区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40109",
+      "cityName": "北九州市八幡西区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40130",
+      "cityName": "福岡市",
+      "bigCityFlag": "2"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40131",
+      "cityName": "福岡市東区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40132",
+      "cityName": "福岡市博多区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40133",
+      "cityName": "福岡市中央区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40134",
+      "cityName": "福岡市南区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40135",
+      "cityName": "福岡市西区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40136",
+      "cityName": "福岡市城南区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40137",
+      "cityName": "福岡市早良区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40202",
+      "cityName": "大牟田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40203",
+      "cityName": "久留米市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40204",
+      "cityName": "直方市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40205",
+      "cityName": "飯塚市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40206",
+      "cityName": "田川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40207",
+      "cityName": "柳川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40210",
+      "cityName": "八女市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40211",
+      "cityName": "筑後市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40212",
+      "cityName": "大川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40213",
+      "cityName": "行橋市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40214",
+      "cityName": "豊前市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40215",
+      "cityName": "中間市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40216",
+      "cityName": "小郡市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40217",
+      "cityName": "筑紫野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40218",
+      "cityName": "春日市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40219",
+      "cityName": "大野城市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40220",
+      "cityName": "宗像市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40221",
+      "cityName": "太宰府市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40223",
+      "cityName": "古賀市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40224",
+      "cityName": "福津市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40225",
+      "cityName": "うきは市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40226",
+      "cityName": "宮若市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40227",
+      "cityName": "嘉麻市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40228",
+      "cityName": "朝倉市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40229",
+      "cityName": "みやま市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40230",
+      "cityName": "糸島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40231",
+      "cityName": "那珂川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40341",
+      "cityName": "宇美町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40342",
+      "cityName": "篠栗町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40343",
+      "cityName": "志免町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40344",
+      "cityName": "須恵町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40345",
+      "cityName": "新宮町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40348",
+      "cityName": "久山町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40349",
+      "cityName": "粕屋町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40381",
+      "cityName": "芦屋町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40382",
+      "cityName": "水巻町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40383",
+      "cityName": "岡垣町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40384",
+      "cityName": "遠賀町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40401",
+      "cityName": "小竹町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40402",
+      "cityName": "鞍手町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40421",
+      "cityName": "桂川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40447",
+      "cityName": "筑前町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40448",
+      "cityName": "東峰村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40503",
+      "cityName": "大刀洗町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40522",
+      "cityName": "大木町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40544",
+      "cityName": "広川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40601",
+      "cityName": "香春町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40602",
+      "cityName": "添田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40604",
+      "cityName": "糸田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40605",
+      "cityName": "川崎町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40608",
+      "cityName": "大任町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40609",
+      "cityName": "赤村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40610",
+      "cityName": "福智町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40621",
+      "cityName": "苅田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40625",
+      "cityName": "みやこ町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40642",
+      "cityName": "吉富町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40646",
+      "cityName": "上毛町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40647",
+      "cityName": "築上町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

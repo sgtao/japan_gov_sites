@@ -1,0 +1,245 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 4,
+      "cityCode": "04100",
+      "cityName": "仙台市",
+      "bigCityFlag": "2"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04101",
+      "cityName": "仙台市青葉区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04102",
+      "cityName": "仙台市宮城野区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04103",
+      "cityName": "仙台市若林区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04104",
+      "cityName": "仙台市太白区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04105",
+      "cityName": "仙台市泉区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04202",
+      "cityName": "石巻市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04203",
+      "cityName": "塩竈市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04205",
+      "cityName": "気仙沼市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04206",
+      "cityName": "白石市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04207",
+      "cityName": "名取市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04208",
+      "cityName": "角田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04209",
+      "cityName": "多賀城市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04211",
+      "cityName": "岩沼市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04212",
+      "cityName": "登米市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04213",
+      "cityName": "栗原市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04214",
+      "cityName": "東松島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04215",
+      "cityName": "大崎市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04216",
+      "cityName": "富谷市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04301",
+      "cityName": "蔵王町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04302",
+      "cityName": "七ヶ宿町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04321",
+      "cityName": "大河原町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04322",
+      "cityName": "村田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04323",
+      "cityName": "柴田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04324",
+      "cityName": "川崎町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04341",
+      "cityName": "丸森町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04361",
+      "cityName": "亘理町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04362",
+      "cityName": "山元町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04401",
+      "cityName": "松島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04404",
+      "cityName": "七ヶ浜町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04406",
+      "cityName": "利府町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04421",
+      "cityName": "大和町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04422",
+      "cityName": "大郷町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04424",
+      "cityName": "大衡村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04444",
+      "cityName": "色麻町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04445",
+      "cityName": "加美町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04501",
+      "cityName": "涌谷町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04505",
+      "cityName": "美里町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04581",
+      "cityName": "女川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "04606",
+      "cityName": "南三陸町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

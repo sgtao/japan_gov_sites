@@ -1,0 +1,161 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 45,
+      "cityCode": "45201",
+      "cityName": "宮崎市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45202",
+      "cityName": "都城市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45203",
+      "cityName": "延岡市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45204",
+      "cityName": "日南市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45205",
+      "cityName": "小林市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45206",
+      "cityName": "日向市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45207",
+      "cityName": "串間市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45208",
+      "cityName": "西都市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45209",
+      "cityName": "えびの市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45341",
+      "cityName": "三股町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45361",
+      "cityName": "高原町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45382",
+      "cityName": "国富町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45383",
+      "cityName": "綾町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45401",
+      "cityName": "高鍋町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45402",
+      "cityName": "新富町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45403",
+      "cityName": "西米良村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45404",
+      "cityName": "木城町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45405",
+      "cityName": "川南町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45406",
+      "cityName": "都農町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45421",
+      "cityName": "門川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45429",
+      "cityName": "諸塚村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45430",
+      "cityName": "椎葉村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45431",
+      "cityName": "美郷町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45441",
+      "cityName": "高千穂町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45442",
+      "cityName": "日之影町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45443",
+      "cityName": "五ヶ瀬町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

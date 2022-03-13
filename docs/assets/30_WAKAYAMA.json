@@ -1,0 +1,185 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 30,
+      "cityCode": "30201",
+      "cityName": "和歌山市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30202",
+      "cityName": "海南市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30203",
+      "cityName": "橋本市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30204",
+      "cityName": "有田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30205",
+      "cityName": "御坊市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30206",
+      "cityName": "田辺市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30207",
+      "cityName": "新宮市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30208",
+      "cityName": "紀の川市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30209",
+      "cityName": "岩出市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30304",
+      "cityName": "紀美野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30341",
+      "cityName": "かつらぎ町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30343",
+      "cityName": "九度山町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30344",
+      "cityName": "高野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30361",
+      "cityName": "湯浅町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30362",
+      "cityName": "広川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30366",
+      "cityName": "有田川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30381",
+      "cityName": "美浜町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30382",
+      "cityName": "日高町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30383",
+      "cityName": "由良町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30390",
+      "cityName": "印南町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30391",
+      "cityName": "みなべ町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30392",
+      "cityName": "日高川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30401",
+      "cityName": "白浜町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30404",
+      "cityName": "上富田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30406",
+      "cityName": "すさみ町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30421",
+      "cityName": "那智勝浦町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30422",
+      "cityName": "太地町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30424",
+      "cityName": "古座川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30427",
+      "cityName": "北山村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30428",
+      "cityName": "串本町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

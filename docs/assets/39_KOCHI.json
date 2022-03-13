@@ -1,0 +1,209 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 39,
+      "cityCode": "39201",
+      "cityName": "高知市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39202",
+      "cityName": "室戸市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39203",
+      "cityName": "安芸市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39204",
+      "cityName": "南国市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39205",
+      "cityName": "土佐市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39206",
+      "cityName": "須崎市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39208",
+      "cityName": "宿毛市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39209",
+      "cityName": "土佐清水市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39210",
+      "cityName": "四万十市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39211",
+      "cityName": "香南市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39212",
+      "cityName": "香美市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39301",
+      "cityName": "東洋町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39302",
+      "cityName": "奈半利町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39303",
+      "cityName": "田野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39304",
+      "cityName": "安田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39305",
+      "cityName": "北川村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39306",
+      "cityName": "馬路村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39307",
+      "cityName": "芸西村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39341",
+      "cityName": "本山町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39344",
+      "cityName": "大豊町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39363",
+      "cityName": "土佐町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39364",
+      "cityName": "大川村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39386",
+      "cityName": "いの町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39387",
+      "cityName": "仁淀川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39401",
+      "cityName": "中土佐町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39402",
+      "cityName": "佐川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39403",
+      "cityName": "越知町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39405",
+      "cityName": "梼原町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39410",
+      "cityName": "日高村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39411",
+      "cityName": "津野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39412",
+      "cityName": "四万十町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39424",
+      "cityName": "大月町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39427",
+      "cityName": "三原村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39428",
+      "cityName": "黒潮町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

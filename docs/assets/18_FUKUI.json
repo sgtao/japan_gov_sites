@@ -1,0 +1,107 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 18,
+      "cityCode": "18201",
+      "cityName": "福井市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18202",
+      "cityName": "敦賀市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18204",
+      "cityName": "小浜市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18205",
+      "cityName": "大野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18206",
+      "cityName": "勝山市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18207",
+      "cityName": "鯖江市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18208",
+      "cityName": "あわら市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18209",
+      "cityName": "越前市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18210",
+      "cityName": "坂井市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18322",
+      "cityName": "永平寺町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18382",
+      "cityName": "池田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18404",
+      "cityName": "南越前町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18423",
+      "cityName": "越前町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18442",
+      "cityName": "美浜町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18481",
+      "cityName": "高浜町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18483",
+      "cityName": "おおい町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18501",
+      "cityName": "若狭町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

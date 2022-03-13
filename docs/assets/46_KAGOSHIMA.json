@@ -1,0 +1,263 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 46,
+      "cityCode": "46201",
+      "cityName": "鹿児島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46203",
+      "cityName": "鹿屋市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46204",
+      "cityName": "枕崎市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46206",
+      "cityName": "阿久根市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46208",
+      "cityName": "出水市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46210",
+      "cityName": "指宿市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46213",
+      "cityName": "西之表市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46214",
+      "cityName": "垂水市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46215",
+      "cityName": "薩摩川内市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46216",
+      "cityName": "日置市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46217",
+      "cityName": "曽於市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46218",
+      "cityName": "霧島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46219",
+      "cityName": "いちき串木野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46220",
+      "cityName": "南さつま市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46221",
+      "cityName": "志布志市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46222",
+      "cityName": "奄美市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46223",
+      "cityName": "南九州市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46224",
+      "cityName": "伊佐市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46225",
+      "cityName": "姶良市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46303",
+      "cityName": "三島村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46304",
+      "cityName": "十島村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46392",
+      "cityName": "さつま町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46404",
+      "cityName": "長島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46452",
+      "cityName": "湧水町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46468",
+      "cityName": "大崎町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46482",
+      "cityName": "東串良町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46490",
+      "cityName": "錦江町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46491",
+      "cityName": "南大隅町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46492",
+      "cityName": "肝付町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46501",
+      "cityName": "中種子町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46502",
+      "cityName": "南種子町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46505",
+      "cityName": "屋久島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46523",
+      "cityName": "大和村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46524",
+      "cityName": "宇検村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46525",
+      "cityName": "瀬戸内町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46527",
+      "cityName": "龍郷町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46529",
+      "cityName": "喜界町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46530",
+      "cityName": "徳之島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46531",
+      "cityName": "天城町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46532",
+      "cityName": "伊仙町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46533",
+      "cityName": "和泊町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46534",
+      "cityName": "知名町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46535",
+      "cityName": "与論町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

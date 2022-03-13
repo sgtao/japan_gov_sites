@@ -1,0 +1,305 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 43,
+      "cityCode": "43100",
+      "cityName": "熊本市",
+      "bigCityFlag": "2"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43101",
+      "cityName": "熊本市中央区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43102",
+      "cityName": "熊本市東区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43103",
+      "cityName": "熊本市西区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43104",
+      "cityName": "熊本市南区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43105",
+      "cityName": "熊本市北区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43202",
+      "cityName": "八代市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43203",
+      "cityName": "人吉市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43204",
+      "cityName": "荒尾市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43205",
+      "cityName": "水俣市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43206",
+      "cityName": "玉名市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43208",
+      "cityName": "山鹿市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43210",
+      "cityName": "菊池市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43211",
+      "cityName": "宇土市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43212",
+      "cityName": "上天草市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43213",
+      "cityName": "宇城市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43214",
+      "cityName": "阿蘇市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43215",
+      "cityName": "天草市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43216",
+      "cityName": "合志市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43348",
+      "cityName": "美里町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43364",
+      "cityName": "玉東町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43367",
+      "cityName": "南関町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43368",
+      "cityName": "長洲町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43369",
+      "cityName": "和水町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43403",
+      "cityName": "大津町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43404",
+      "cityName": "菊陽町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43423",
+      "cityName": "南小国町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43424",
+      "cityName": "小国町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43425",
+      "cityName": "産山村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43428",
+      "cityName": "高森町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43432",
+      "cityName": "西原村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43433",
+      "cityName": "南阿蘇村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43441",
+      "cityName": "御船町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43442",
+      "cityName": "嘉島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43443",
+      "cityName": "益城町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43444",
+      "cityName": "甲佐町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43447",
+      "cityName": "山都町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43468",
+      "cityName": "氷川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43482",
+      "cityName": "芦北町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43484",
+      "cityName": "津奈木町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43501",
+      "cityName": "錦町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43505",
+      "cityName": "多良木町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43506",
+      "cityName": "湯前町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43507",
+      "cityName": "水上村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43510",
+      "cityName": "相良村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43511",
+      "cityName": "五木村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43512",
+      "cityName": "山江村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43513",
+      "cityName": "球磨村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43514",
+      "cityName": "あさぎり町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43531",
+      "cityName": "苓北町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

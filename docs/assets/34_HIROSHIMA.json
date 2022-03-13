@@ -1,0 +1,191 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 34,
+      "cityCode": "34100",
+      "cityName": "広島市",
+      "bigCityFlag": "2"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34101",
+      "cityName": "広島市中区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34102",
+      "cityName": "広島市東区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34103",
+      "cityName": "広島市南区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34104",
+      "cityName": "広島市西区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34105",
+      "cityName": "広島市安佐南区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34106",
+      "cityName": "広島市安佐北区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34107",
+      "cityName": "広島市安芸区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34108",
+      "cityName": "広島市佐伯区",
+      "bigCityFlag": "1"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34202",
+      "cityName": "呉市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34203",
+      "cityName": "竹原市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34204",
+      "cityName": "三原市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34205",
+      "cityName": "尾道市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34207",
+      "cityName": "福山市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34208",
+      "cityName": "府中市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34209",
+      "cityName": "三次市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34210",
+      "cityName": "庄原市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34211",
+      "cityName": "大竹市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34212",
+      "cityName": "東広島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34213",
+      "cityName": "廿日市市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34214",
+      "cityName": "安芸高田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34215",
+      "cityName": "江田島市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34302",
+      "cityName": "府中町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34304",
+      "cityName": "海田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34307",
+      "cityName": "熊野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34309",
+      "cityName": "坂町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34368",
+      "cityName": "安芸太田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34369",
+      "cityName": "北広島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34431",
+      "cityName": "大崎上島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34462",
+      "cityName": "世羅町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34545",
+      "cityName": "神石高原町",
+      "bigCityFlag": "0"
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "message": null,
+  "result": [
+    {
+      "prefCode": 20,
+      "cityCode": "20201",
+      "cityName": "長野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20202",
+      "cityName": "松本市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20203",
+      "cityName": "上田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20204",
+      "cityName": "岡谷市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20205",
+      "cityName": "飯田市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20206",
+      "cityName": "諏訪市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20207",
+      "cityName": "須坂市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20208",
+      "cityName": "小諸市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20209",
+      "cityName": "伊那市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20210",
+      "cityName": "駒ヶ根市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20211",
+      "cityName": "中野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20212",
+      "cityName": "大町市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20213",
+      "cityName": "飯山市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20214",
+      "cityName": "茅野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20215",
+      "cityName": "塩尻市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20217",
+      "cityName": "佐久市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20218",
+      "cityName": "千曲市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20219",
+      "cityName": "東御市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20220",
+      "cityName": "安曇野市",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20303",
+      "cityName": "小海町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20304",
+      "cityName": "川上村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20305",
+      "cityName": "南牧村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20306",
+      "cityName": "南相木村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20307",
+      "cityName": "北相木村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20309",
+      "cityName": "佐久穂町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20321",
+      "cityName": "軽井沢町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20323",
+      "cityName": "御代田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20324",
+      "cityName": "立科町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20349",
+      "cityName": "青木村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20350",
+      "cityName": "長和町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20361",
+      "cityName": "下諏訪町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20362",
+      "cityName": "富士見町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20363",
+      "cityName": "原村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20382",
+      "cityName": "辰野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20383",
+      "cityName": "箕輪町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20384",
+      "cityName": "飯島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20385",
+      "cityName": "南箕輪村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20386",
+      "cityName": "中川村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20388",
+      "cityName": "宮田村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20402",
+      "cityName": "松川町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20403",
+      "cityName": "高森町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20404",
+      "cityName": "阿南町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20407",
+      "cityName": "阿智村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20409",
+      "cityName": "平谷村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20410",
+      "cityName": "根羽村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20411",
+      "cityName": "下條村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20412",
+      "cityName": "売木村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20413",
+      "cityName": "天龍村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20414",
+      "cityName": "泰阜村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20415",
+      "cityName": "喬木村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20416",
+      "cityName": "豊丘村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20417",
+      "cityName": "大鹿村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20422",
+      "cityName": "上松町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20423",
+      "cityName": "南木曽町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20425",
+      "cityName": "木祖村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20429",
+      "cityName": "王滝村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20430",
+      "cityName": "大桑村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20432",
+      "cityName": "木曽町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20446",
+      "cityName": "麻績村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20448",
+      "cityName": "生坂村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20450",
+      "cityName": "山形村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20451",
+      "cityName": "朝日村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20452",
+      "cityName": "筑北村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20481",
+      "cityName": "池田町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20482",
+      "cityName": "松川村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20485",
+      "cityName": "白馬村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20486",
+      "cityName": "小谷村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20521",
+      "cityName": "坂城町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20541",
+      "cityName": "小布施町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20543",
+      "cityName": "高山村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20561",
+      "cityName": "山ノ内町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20562",
+      "cityName": "木島平村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20563",
+      "cityName": "野沢温泉村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20583",
+      "cityName": "信濃町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20588",
+      "cityName": "小川村",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20590",
+      "cityName": "飯綱町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20602",
+      "cityName": "栄村",
+      "bigCityFlag": "0"
+    }
+  ]
+}
