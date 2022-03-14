@@ -1,4 +1,4 @@
-# japan_gov_sites
+# japan_local_gov_sites
 - a japan-map content with links to local goverments of each prefecture
   - a content use japan-map library (https://github.com/HemingwayLee/japan-map-js)
 
