@@ -5,210 +5,245 @@
       "prefCode": 6,
       "cityCode": "06201",
       "cityName": "山形市",
+      "wikiName": "山形市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06202",
       "cityName": "米沢市",
+      "wikiName": "米沢市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06203",
       "cityName": "鶴岡市",
+      "wikiName": "鶴岡市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06204",
       "cityName": "酒田市",
+      "wikiName": "酒田市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06205",
       "cityName": "新庄市",
+      "wikiName": "新庄市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06206",
       "cityName": "寒河江市",
+      "wikiName": "寒河江市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06207",
       "cityName": "上山市",
+      "wikiName": "上山市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06208",
       "cityName": "村山市",
+      "wikiName": "村山市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06209",
       "cityName": "長井市",
+      "wikiName": "長井市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06210",
       "cityName": "天童市",
+      "wikiName": "天童市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06211",
       "cityName": "東根市",
+      "wikiName": "東根市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06212",
       "cityName": "尾花沢市",
+      "wikiName": "尾花沢市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06213",
       "cityName": "南陽市",
+      "wikiName": "南陽市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06301",
       "cityName": "山辺町",
+      "wikiName": "山辺町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06302",
       "cityName": "中山町",
+      "wikiName": "中山町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06321",
       "cityName": "河北町",
+      "wikiName": "河北町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06322",
       "cityName": "西川町",
+      "wikiName": "西川町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06323",
       "cityName": "朝日町",
+      "wikiName": "朝日町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06324",
       "cityName": "大江町",
+      "wikiName": "大江町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06341",
       "cityName": "大石田町",
+      "wikiName": "大石田町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06361",
       "cityName": "金山町",
+      "wikiName": "金山町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06362",
       "cityName": "最上町",
+      "wikiName": "最上町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06363",
       "cityName": "舟形町",
+      "wikiName": "舟形町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06364",
       "cityName": "真室川町",
+      "wikiName": "真室川町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06365",
       "cityName": "大蔵村",
+      "wikiName": "大蔵村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06366",
       "cityName": "鮭川村",
+      "wikiName": "鮭川村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06367",
       "cityName": "戸沢村",
+      "wikiName": "戸沢村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06381",
       "cityName": "高畠町",
+      "wikiName": "高畠町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06382",
       "cityName": "川西町",
+      "wikiName": "川西町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06401",
       "cityName": "小国町",
+      "wikiName": "小国町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06402",
       "cityName": "白鷹町",
+      "wikiName": "白鷹町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06403",
       "cityName": "飯豊町",
+      "wikiName": "飯豊町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06426",
       "cityName": "三川町",
+      "wikiName": "三川町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06428",
       "cityName": "庄内町",
+      "wikiName": "庄内町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 6,
       "cityCode": "06461",
       "cityName": "遊佐町",
+      "wikiName": "遊佐町",
       "bigCityFlag": "0"
     }
   ]

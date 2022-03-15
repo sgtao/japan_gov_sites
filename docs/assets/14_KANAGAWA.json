@@ -5,366 +5,427 @@
       "prefCode": 14,
       "cityCode": "14100",
       "cityName": "横浜市",
+      "wikiName": "横浜市",
       "bigCityFlag": "2"
     },
     {
       "prefCode": 14,
       "cityCode": "14101",
       "cityName": "横浜市鶴見区",
+      "wikiName": "鶴見区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14102",
       "cityName": "横浜市神奈川区",
+      "wikiName": "神奈川区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14103",
       "cityName": "横浜市西区",
+      "wikiName": "西区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14104",
       "cityName": "横浜市中区",
+      "wikiName": "中区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14105",
       "cityName": "横浜市南区",
+      "wikiName": "南区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14106",
       "cityName": "横浜市保土ケ谷区",
+      "wikiName": "保土ケ谷区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14107",
       "cityName": "横浜市磯子区",
+      "wikiName": "磯子区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14108",
       "cityName": "横浜市金沢区",
+      "wikiName": "金沢区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14109",
       "cityName": "横浜市港北区",
+      "wikiName": "港北区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14110",
       "cityName": "横浜市戸塚区",
+      "wikiName": "戸塚区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14111",
       "cityName": "横浜市港南区",
+      "wikiName": "港南区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14112",
       "cityName": "横浜市旭区",
+      "wikiName": "旭区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14113",
       "cityName": "横浜市緑区",
+      "wikiName": "緑区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14114",
       "cityName": "横浜市瀬谷区",
+      "wikiName": "瀬谷区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14115",
       "cityName": "横浜市栄区",
+      "wikiName": "栄区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14116",
       "cityName": "横浜市泉区",
+      "wikiName": "泉区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14117",
       "cityName": "横浜市青葉区",
+      "wikiName": "青葉区_(横浜市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14118",
       "cityName": "横浜市都筑区",
+      "wikiName": "都筑区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14130",
       "cityName": "川崎市",
+      "wikiName": "川崎市",
       "bigCityFlag": "2"
     },
     {
       "prefCode": 14,
       "cityCode": "14131",
       "cityName": "川崎市川崎区",
+      "wikiName": "川崎区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14132",
       "cityName": "川崎市幸区",
+      "wikiName": "幸区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14133",
       "cityName": "川崎市中原区",
+      "wikiName": "中原区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14134",
       "cityName": "川崎市高津区",
+      "wikiName": "高津区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14135",
       "cityName": "川崎市多摩区",
+      "wikiName": "多摩区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14136",
       "cityName": "川崎市宮前区",
+      "wikiName": "宮前区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14137",
       "cityName": "川崎市麻生区",
+      "wikiName": "麻生区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14150",
       "cityName": "相模原市",
+      "wikiName": "相模原市",
       "bigCityFlag": "2"
     },
     {
       "prefCode": 14,
       "cityCode": "14151",
       "cityName": "相模原市緑区",
+      "wikiName": "緑区_(相模原市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14152",
       "cityName": "相模原市中央区",
+      "wikiName": "中央区_(相模原市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14153",
       "cityName": "相模原市南区",
+      "wikiName": "南区_(相模原市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 14,
       "cityCode": "14201",
       "cityName": "横須賀市",
+      "wikiName": "横須賀市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14203",
       "cityName": "平塚市",
+      "wikiName": "平塚市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14204",
       "cityName": "鎌倉市",
+      "wikiName": "鎌倉市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14205",
       "cityName": "藤沢市",
+      "wikiName": "藤沢市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14206",
       "cityName": "小田原市",
+      "wikiName": "小田原市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14207",
       "cityName": "茅ヶ崎市",
+      "wikiName": "茅ヶ崎市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14208",
       "cityName": "逗子市",
+      "wikiName": "逗子市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14210",
       "cityName": "三浦市",
+      "wikiName": "三浦市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14211",
       "cityName": "秦野市",
+      "wikiName": "秦野市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14212",
       "cityName": "厚木市",
+      "wikiName": "厚木市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14213",
       "cityName": "大和市",
+      "wikiName": "大和市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14214",
       "cityName": "伊勢原市",
+      "wikiName": "伊勢原市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14215",
       "cityName": "海老名市",
+      "wikiName": "海老名市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14216",
       "cityName": "座間市",
+      "wikiName": "座間市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14217",
       "cityName": "南足柄市",
+      "wikiName": "南足柄市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14218",
       "cityName": "綾瀬市",
+      "wikiName": "綾瀬市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14301",
       "cityName": "葉山町",
+      "wikiName": "葉山町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14321",
       "cityName": "寒川町",
+      "wikiName": "寒川町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14341",
       "cityName": "大磯町",
+      "wikiName": "大磯町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14342",
       "cityName": "二宮町",
+      "wikiName": "二宮町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14361",
       "cityName": "中井町",
+      "wikiName": "中井町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14362",
       "cityName": "大井町",
+      "wikiName": "大井町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14363",
       "cityName": "松田町",
+      "wikiName": "松田町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14364",
       "cityName": "山北町",
+      "wikiName": "山北町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14366",
       "cityName": "開成町",
+      "wikiName": "開成町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14382",
       "cityName": "箱根町",
+      "wikiName": "箱根町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14383",
       "cityName": "真鶴町",
+      "wikiName": "真鶴町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14384",
       "cityName": "湯河原町",
+      "wikiName": "湯河原町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14401",
       "cityName": "愛川町",
+      "wikiName": "愛川町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 14,
       "cityCode": "14402",
       "cityName": "清川村",
+      "wikiName": "清川村",
       "bigCityFlag": "0"
     }
   ]

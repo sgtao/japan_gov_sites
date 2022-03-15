@@ -5,198 +5,231 @@
       "prefCode": 3,
       "cityCode": "03201",
       "cityName": "盛岡市",
+      "wikiName": "盛岡市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03202",
       "cityName": "宮古市",
+      "wikiName": "宮古市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03203",
       "cityName": "大船渡市",
+      "wikiName": "大船渡市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03205",
       "cityName": "花巻市",
+      "wikiName": "花巻市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03206",
       "cityName": "北上市",
+      "wikiName": "北上市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03207",
       "cityName": "久慈市",
+      "wikiName": "久慈市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03208",
       "cityName": "遠野市",
+      "wikiName": "遠野市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03209",
       "cityName": "一関市",
+      "wikiName": "一関市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03210",
       "cityName": "陸前高田市",
+      "wikiName": "陸前高田市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03211",
       "cityName": "釜石市",
+      "wikiName": "釜石市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03213",
       "cityName": "二戸市",
+      "wikiName": "二戸市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03214",
       "cityName": "八幡平市",
+      "wikiName": "八幡平市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03215",
       "cityName": "奥州市",
+      "wikiName": "奥州市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03216",
       "cityName": "滝沢市",
+      "wikiName": "滝沢市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03301",
       "cityName": "雫石町",
+      "wikiName": "雫石町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03302",
       "cityName": "葛巻町",
+      "wikiName": "葛巻町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03303",
       "cityName": "岩手町",
+      "wikiName": "岩手町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03321",
       "cityName": "紫波町",
+      "wikiName": "紫波町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03322",
       "cityName": "矢巾町",
+      "wikiName": "矢巾町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03366",
       "cityName": "西和賀町",
+      "wikiName": "西和賀町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03381",
       "cityName": "金ケ崎町",
+      "wikiName": "金ケ崎町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03402",
       "cityName": "平泉町",
+      "wikiName": "平泉町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03441",
       "cityName": "住田町",
+      "wikiName": "住田町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03461",
       "cityName": "大槌町",
+      "wikiName": "大槌町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03482",
       "cityName": "山田町",
+      "wikiName": "山田町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03483",
       "cityName": "岩泉町",
+      "wikiName": "岩泉町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03484",
       "cityName": "田野畑村",
+      "wikiName": "田野畑村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03485",
       "cityName": "普代村",
+      "wikiName": "普代村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03501",
       "cityName": "軽米町",
+      "wikiName": "軽米町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03503",
       "cityName": "野田村",
+      "wikiName": "野田村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03506",
       "cityName": "九戸村",
+      "wikiName": "九戸村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03507",
       "cityName": "洋野町",
+      "wikiName": "洋野町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 3,
       "cityCode": "03524",
       "cityName": "一戸町",
+      "wikiName": "一戸町",
       "bigCityFlag": "0"
     }
   ]

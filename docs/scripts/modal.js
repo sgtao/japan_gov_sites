@@ -40,7 +40,11 @@ async function click_prefectures(data) {
   async function append_modal_text(data) {
     let append_html = "";
     await data.result.forEach(item => {
-      let link_url = "https://ja.wikipedia.org/wiki/"  + item.cityName;
+      if (typeof item.wikiName === 'undefined') {
+        link_url = "https://ja.wikipedia.org/wiki/" + item.cityName;
+      } else {
+        link_url = "https://ja.wikipedia.org/wiki/"  + item.wikiName;
+      }
       append_html += 
         '<a href="' + link_url + '" target="_blank">'
         + item.cityName + '</a>' + '、';

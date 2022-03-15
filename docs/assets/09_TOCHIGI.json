@@ -5,150 +5,175 @@
       "prefCode": 9,
       "cityCode": "09201",
       "cityName": "宇都宮市",
+      "wikiName": "宇都宮市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09202",
       "cityName": "足利市",
+      "wikiName": "足利市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09203",
       "cityName": "栃木市",
+      "wikiName": "栃木市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09204",
       "cityName": "佐野市",
+      "wikiName": "佐野市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09205",
       "cityName": "鹿沼市",
+      "wikiName": "鹿沼市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09206",
       "cityName": "日光市",
+      "wikiName": "日光市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09208",
       "cityName": "小山市",
+      "wikiName": "小山市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09209",
       "cityName": "真岡市",
+      "wikiName": "真岡市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09210",
       "cityName": "大田原市",
+      "wikiName": "大田原市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09211",
       "cityName": "矢板市",
+      "wikiName": "矢板市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09213",
       "cityName": "那須塩原市",
+      "wikiName": "那須塩原市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09214",
       "cityName": "さくら市",
+      "wikiName": "さくら市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09215",
       "cityName": "那須烏山市",
+      "wikiName": "那須烏山市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09216",
       "cityName": "下野市",
+      "wikiName": "下野市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09301",
       "cityName": "上三川町",
+      "wikiName": "上三川町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09342",
       "cityName": "益子町",
+      "wikiName": "益子町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09343",
       "cityName": "茂木町",
+      "wikiName": "茂木町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09344",
       "cityName": "市貝町",
+      "wikiName": "市貝町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09345",
       "cityName": "芳賀町",
+      "wikiName": "芳賀町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09361",
       "cityName": "壬生町",
+      "wikiName": "壬生町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09364",
       "cityName": "野木町",
+      "wikiName": "野木町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09384",
       "cityName": "塩谷町",
+      "wikiName": "塩谷町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09386",
       "cityName": "高根沢町",
+      "wikiName": "高根沢町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09407",
       "cityName": "那須町",
+      "wikiName": "那須町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 9,
       "cityCode": "09411",
       "cityName": "那珂川町",
+      "wikiName": "那珂川町",
       "bigCityFlag": "0"
     }
   ]
