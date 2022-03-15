@@ -4,16 +4,25 @@
   const mask = document.querySelector('#mask');
   const modal = document.querySelector('#modal');
   const close = document.querySelector('#close');
-  const chosen_site  = document.querySelector('#site-chosen');
-  chosen_site.addEventListener('change', ()=> {
-    console.log(chosen_site);
+  const siteSelect  = document.querySelector('#siteSelect');
+  var acc_site = siteSelect.value;
+  var modal_msg_wiki = modal.querySelector('p').textContent;
+  var modal_init_msg = modal_msg_wiki;
+  siteSelect.addEventListener('change', ()=> {
+    console.log('change acc-site to ' + siteSelect.value);
+    acc_site = siteSelect.value;
+    if (acc_site === "google") {
+      modal_init_msg = "各自治体のGoogle検索ページへリンクします。"
+    } else { // wiki
+      modal_init_msg = modal_msg_wiki;
+    }
   });
   //
   // clickイベントの設定
   open.addEventListener('click', () => {
     // console.log('open clicked');
     const modal_text = document.querySelector('#modal > p');
-    modal_text.textContent = '都道府県をクリックすると、その自治体の市区町村Wikipediaを表示します。(一部、リンク先がありません)';
+    modal_text.textContent = modal_init_msg;
     modal.classList.remove('hidden');
     mask.classList.remove('hidden');
   });
@@ -35,19 +44,27 @@
 async function click_prefectures(data) {
   // console.log('show info. of ', data);
   const modal_text = document.querySelector('#modal > p');
-  let link_url = "https://ja.wikipedia.org/wiki/" + data.name;
+  let link_url;
+  if (acc_site === "google") {
+    link_url = "https://www.google.com/search?q=" + data.name;
+  } else { // wiki 
+    link_url = "https://ja.wikipedia.org/wiki/" + data.name;
+  }
 
-  modal_text.innerHTML = '<p>市区町村 Wiki of '
-   + '<a href="' + link_url + '" target="_blank">'
+  modal_text.innerHTML = modal_init_msg + '<p><a href="' + link_url + '" target="_blank">'
    + data.name + '</a>：</p>';
-  console.log('to ', modal_text.textContent);
+  // console.log('to ', modal_text.textContent);
   async function append_modal_text(data) {
     let append_html = "";
     await data.result.forEach(item => {
-      if (typeof item.wikiName === 'undefined') {
-        link_url = "https://ja.wikipedia.org/wiki/" + item.cityName;
-      } else {
-        link_url = "https://ja.wikipedia.org/wiki/"  + item.wikiName;
+      if (acc_site === "google") {
+        link_url = "https://www.google.com/search?q=" + item.cityName;
+      } else { // wiki
+        if (typeof item.wikiName === 'undefined') {
+          link_url = "https://ja.wikipedia.org/wiki/" + item.cityName;
+        } else {
+          link_url = "https://ja.wikipedia.org/wiki/"  + item.wikiName;
+        }
       }
       append_html += 
         '<a href="' + link_url + '" target="_blank">'

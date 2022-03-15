@@ -12,9 +12,8 @@
     <header>
       <h1>japan_gov_sites</h1>
       <p>links to local goverments of each prefecture. (use a library "<a href="https://github.com/HemingwayLee/japan-map-js" target="_blank" rel="noopener noreferrer">japan-map-js</a>")</p>
-<select name="site" id="site-chosen">
-    <option value="">--Please select acc. site--</option>
-    <option value="wiki">Wikipedia</option>
+<select name="site" id="siteSelect">
+    <option value="wiki" selected>Wikipedia</option>
     <option value="google">Google検索</option>
 </select>      
       <div id="open">詳細を見る</div>
@@ -29,7 +28,8 @@
   </div>
   <section id="modal" class="hidden">
     <p>
-      都道府県をクリックすると、その自治体の市区町村Wikipediaを表示します。(一部、リンク先がありません)
+      <!-- modal.js 内でメッセージを生成 -->
+      都道府県をクリックすると、その自治体の市区町村Wikipediaを表示します。(全リンクの確認をしてないので、一部、リンク先がない可能性があります)
     </p>
     <div id="close">
       閉じる
