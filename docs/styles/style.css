@@ -2,6 +2,11 @@ body {
   /* 文字を小さめに設定 */
   /* font-size: 14px; */
 }
+select {
+    font-size: .9rem;
+    padding: 2px 5px;
+}
+
 #mask {
   /* うっすらと暗くする */
   background: rgba(0, 0, 0, 0.4);

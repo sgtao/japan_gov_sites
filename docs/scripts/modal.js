@@ -4,6 +4,10 @@
   const mask = document.querySelector('#mask');
   const modal = document.querySelector('#modal');
   const close = document.querySelector('#close');
+  const chosen_site  = document.querySelector('#site-chosen');
+  chosen_site.addEventListener('change', ()=> {
+    console.log(chosen_site);
+  });
   //
   // clickイベントの設定
   open.addEventListener('click', () => {
