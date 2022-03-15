@@ -55,7 +55,7 @@ async function click_prefectures(data) {
    + data.name + '</a>：</p>';
   // console.log('to ', modal_text.textContent);
   async function append_modal_text(data) {
-    let append_html = "";
+    let append_html = "(リンク数＝" + data.result.length + ')：'
     await data.result.forEach(item => {
       if (acc_site === "google") {
         link_url = "https://www.google.com/search?q=" + item.cityName;

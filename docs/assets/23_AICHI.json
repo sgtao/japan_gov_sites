@@ -1,424 +1,494 @@
-{
+﻿{
   "message": null,
   "result": [
     {
       "prefCode": 23,
       "cityCode": "23100",
       "cityName": "名古屋市",
+      "wikiName": "名古屋市",
       "bigCityFlag": "2"
     },
     {
       "prefCode": 23,
       "cityCode": "23101",
       "cityName": "名古屋市千種区",
+      "wikiName": "千種区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23102",
       "cityName": "名古屋市東区",
+      "wikiName": "東区_(名古屋市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23103",
       "cityName": "名古屋市北区",
+      "wikiName": "北区_(名古屋市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23104",
       "cityName": "名古屋市西区",
+      "wikiName": "西区_(名古屋市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23105",
       "cityName": "名古屋市中村区",
+      "wikiName": "中村区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23106",
       "cityName": "名古屋市中区",
+      "wikiName": "中区_(名古屋市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23107",
       "cityName": "名古屋市昭和区",
+      "wikiName": "昭和区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23108",
       "cityName": "名古屋市瑞穂区",
+      "wikiName": "瑞穂区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23109",
       "cityName": "名古屋市熱田区",
+      "wikiName": "熱田区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23110",
       "cityName": "名古屋市中川区",
+      "wikiName": "中川区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23111",
       "cityName": "名古屋市港区",
+      "wikiName": "港区_(名古屋市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23112",
       "cityName": "名古屋市南区",
+      "wikiName": "南区_(名古屋市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23113",
       "cityName": "名古屋市守山区",
+      "wikiName": "守山区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23114",
       "cityName": "名古屋市緑区",
+      "wikiName": "緑区_(名古屋市)",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23115",
       "cityName": "名古屋市名東区",
+      "wikiName": "名東区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23116",
       "cityName": "名古屋市天白区",
+      "wikiName": "天白区",
       "bigCityFlag": "1"
     },
     {
       "prefCode": 23,
       "cityCode": "23201",
       "cityName": "豊橋市",
+      "wikiName": "豊橋市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23202",
       "cityName": "岡崎市",
+      "wikiName": "岡崎市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23203",
       "cityName": "一宮市",
+      "wikiName": "一宮市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23204",
       "cityName": "瀬戸市",
+      "wikiName": "瀬戸市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23205",
       "cityName": "半田市",
+      "wikiName": "半田市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23206",
       "cityName": "春日井市",
+      "wikiName": "春日井市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23207",
       "cityName": "豊川市",
+      "wikiName": "豊川市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23208",
       "cityName": "津島市",
+      "wikiName": "津島市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23209",
       "cityName": "碧南市",
+      "wikiName": "碧南市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23210",
       "cityName": "刈谷市",
+      "wikiName": "刈谷市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23211",
       "cityName": "豊田市",
+      "wikiName": "豊田市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23212",
       "cityName": "安城市",
+      "wikiName": "安城市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23213",
       "cityName": "西尾市",
+      "wikiName": "西尾市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23214",
       "cityName": "蒲郡市",
+      "wikiName": "蒲郡市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23215",
       "cityName": "犬山市",
+      "wikiName": "犬山市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23216",
       "cityName": "常滑市",
+      "wikiName": "常滑市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23217",
       "cityName": "江南市",
+      "wikiName": "江南市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23219",
       "cityName": "小牧市",
+      "wikiName": "小牧市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23220",
       "cityName": "稲沢市",
+      "wikiName": "稲沢市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23221",
       "cityName": "新城市",
+      "wikiName": "新城市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23222",
       "cityName": "東海市",
+      "wikiName": "東海市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23223",
       "cityName": "大府市",
+      "wikiName": "大府市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23224",
       "cityName": "知多市",
+      "wikiName": "知多市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23225",
       "cityName": "知立市",
+      "wikiName": "知立市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23226",
       "cityName": "尾張旭市",
+      "wikiName": "尾張旭市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23227",
       "cityName": "高浜市",
+      "wikiName": "高浜市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23228",
       "cityName": "岩倉市",
+      "wikiName": "岩倉市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23229",
       "cityName": "豊明市",
+      "wikiName": "豊明市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23230",
       "cityName": "日進市",
+      "wikiName": "日進市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23231",
       "cityName": "田原市",
+      "wikiName": "田原市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23232",
       "cityName": "愛西市",
+      "wikiName": "愛西市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23233",
       "cityName": "清須市",
+      "wikiName": "清須市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23234",
       "cityName": "北名古屋市",
+      "wikiName": "北名古屋市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23235",
       "cityName": "弥富市",
+      "wikiName": "弥富市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23236",
       "cityName": "みよし市",
+      "wikiName": "みよし市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23237",
       "cityName": "あま市",
+      "wikiName": "あま市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23238",
       "cityName": "長久手市",
+      "wikiName": "長久手市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23302",
       "cityName": "東郷町",
+      "wikiName": "東郷町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23342",
       "cityName": "豊山町",
+      "wikiName": "豊山町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23361",
       "cityName": "大口町",
+      "wikiName": "大口町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23362",
       "cityName": "扶桑町",
+      "wikiName": "扶桑町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23424",
       "cityName": "大治町",
+      "wikiName": "大治町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23425",
       "cityName": "蟹江町",
+      "wikiName": "蟹江町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23427",
       "cityName": "飛島村",
+      "wikiName": "飛島村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23441",
       "cityName": "阿久比町",
+      "wikiName": "阿久比町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23442",
       "cityName": "東浦町",
+      "wikiName": "東浦町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23445",
       "cityName": "南知多町",
+      "wikiName": "南知多町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23446",
       "cityName": "美浜町",
+      "wikiName": "美浜町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23447",
       "cityName": "武豊町",
+      "wikiName": "武豊町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23501",
       "cityName": "幸田町",
+      "wikiName": "幸田町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23561",
       "cityName": "設楽町",
+      "wikiName": "設楽町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23562",
       "cityName": "東栄町",
+      "wikiName": "東栄町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 23,
       "cityCode": "23563",
       "cityName": "豊根村",
+      "wikiName": "豊根村",
       "bigCityFlag": "0"
     }
   ]
