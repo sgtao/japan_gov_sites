@@ -8,15 +8,6 @@
   var acc_site = "wiki";
   var modal_msg_wiki = modal.querySelector('p').textContent;
   var modal_init_msg = modal_msg_wiki;
-  // siteSelect.addEventListener('change', ()=> {
-  //   console.log('change acc-site to ' + siteSelect.value);
-  //   acc_site = siteSelect.value;
-  //   if (acc_site === "google") {
-  //     modal_init_msg = "各自治体のGoogle検索ページへリンクします。"
-  //   } else { // wiki
-  //     modal_init_msg = modal_msg_wiki;
-  //   }
-  // });
   //
   // clickイベントの設定
   open.addEventListener('click', () => {
@@ -56,9 +47,18 @@ async function click_prefectures(data) {
   // console.log('to ', modal_text.textContent);
   async function append_modal_text(data) {
     let append_html = "(リンク数＝" + data.result.length + ')：'
+    // google検索のワード追加
+    let add_keyword="";
+    let google_keyword = document.querySelector("#googleKeyword").value;
+    if (google_keyword !== '') {
+      let keyword_lists = google_keyword.split(/,|\s/);
+      keyword_lists.forEach(keyword => {
+        add_keyword += "+" + keyword;
+      });
+    }
     await data.result.forEach(item => {
       if (acc_site === "google") {
-        link_url = "https://www.google.com/search?q=" + item.cityName;
+        link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
       } else { // wiki
         if (typeof item.wikiName === 'undefined') {
           link_url = "https://ja.wikipedia.org/wiki/" + item.cityName;

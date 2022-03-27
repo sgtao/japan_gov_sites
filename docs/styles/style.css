@@ -149,8 +149,8 @@ body {
   margin-top: 15px;
 }
 
-.navigation ul li a {
-  /* display: block; */
+.navigation ul li p {
+  display: block;
   position: relative;
   text-decoration: none;
   color: white;
@@ -161,7 +161,7 @@ body {
   /* ナビラベル（テキスト）のずれを修正 */
 }
 
-.navigation ul li a .icon {
+.navigation ul li p .icon {
   display: block;
   min-width: 45px;
   height: 60px;
@@ -169,18 +169,18 @@ body {
   text-align: center;
 }
 
-.navigation ul li a .icon {
+.navigation ul li p .icon {
   font-size: 1.5em;
 }
 
-.navigation ul li a .title {
+.navigation ul li p .title {
   padding-left: 10px;
   height: 60px;
   line-height: 60px;
   white-space: nowrap;
 }
 
-.navigation ul li.active a::before {
+.navigation ul li.active p::before {
   content: "";
   position: absolute;
   width: 30px;
@@ -193,7 +193,7 @@ body {
           box-shadow: 15px 15px 0 #c74;
 }
 
-.navigation ul li.active a::after {
+.navigation ul li.active p::after {
   content: "";
   position: absolute;
   width: 30px;
@@ -204,6 +204,32 @@ body {
   border-radius: 50%;
   -webkit-box-shadow: 15px -15px 0 #c74;
           box-shadow: 15px -15px 0 #c74;
+}
+
+.navigation ul div {
+  color: white;
+  width: 100%;
+}
+
+.navigation ul div p {
+  width: 200px;
+  margin-left: 40px;
+  overflow-x: hidden;
+}
+
+.navigation ul div p input {
+  width: 80%;
+}
+
+.navigation ul div .label {
+  font-weight: bold;
+}
+
+.navigation ul div .supplement {
+  width: 80%;
+  font-weight: light;
+  font-size: 0.7em;
+  overflow: auto;
 }
 
 /********************************
