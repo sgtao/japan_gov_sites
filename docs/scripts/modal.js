@@ -14,6 +14,14 @@
     // console.log('open clicked');
     const modal_text = document.querySelector('#modal > p');
     modal_text.textContent = modal_init_msg;
+    // Google検索のときは追加キーワードも表示する
+    if (acc_site === "google") {
+      if (get_add_keyword() === "") {
+        modal_text.textContent += "（検索ワード：「市区町村名」）"
+      } else {
+        modal_text.textContent += "（検索ワード：「市区町村名」" + get_add_keyword() +"）"
+      }
+    }
     modal.classList.remove('hidden');
     mask.classList.remove('hidden');
   });
@@ -31,6 +39,19 @@
   });
   // 
 }
+// google検索のワード追加
+function get_add_keyword() {
+  let add_keyword="";
+  let google_keyword = document.querySelector("#googleKeyword").value;
+  if (google_keyword !== '') {
+    let keyword_lists = google_keyword.split(/,|\s/);
+    keyword_lists.forEach(keyword => {
+      add_keyword += "+" + keyword;
+    });
+  }
+  return add_keyword;
+}
+
 // show modal window and replace text
 async function click_prefectures(data) {
   // console.log('show info. of ', data);
@@ -41,21 +62,23 @@ async function click_prefectures(data) {
   } else { // wiki 
     link_url = "https://ja.wikipedia.org/wiki/" + data.name;
   }
+  // google検索時のワード表示
+  let append_msg_google = "";
+  if (acc_site === "google") {
+    if (get_add_keyword() === "") {
+      append_msg_google = "（検索ワード：「市区町村名」）"
+    } else {
+      append_msg_google = "（検索ワード：「市区町村名」" + get_add_keyword() +"）"
+    }
+  }
 
   modal_text.innerHTML = modal_init_msg + '<p><a href="' + link_url + '" target="_blank">'
-   + data.name + '</a>：</p>';
+   + data.name + '</a>：' + append_msg_google + '</p>';
   // console.log('to ', modal_text.textContent);
   async function append_modal_text(data) {
     let append_html = "(リンク数＝" + data.result.length + ')：'
     // google検索のワード追加
-    let add_keyword="";
-    let google_keyword = document.querySelector("#googleKeyword").value;
-    if (google_keyword !== '') {
-      let keyword_lists = google_keyword.split(/,|\s/);
-      keyword_lists.forEach(keyword => {
-        add_keyword += "+" + keyword;
-      });
-    }
+    let add_keyword=get_add_keyword();
     await data.result.forEach(item => {
       if (acc_site === "google") {
         link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
