@@ -137,7 +137,7 @@
         font : "MS Mincho",
         // font : "Arial",
         fontSize : fontSize,
-        showsPrefectureName: (window.innerWidth>=540?true:false), //都道府県名を表示させる
+        showsPrefectureName: (window.innerWidth>=640?true:false), //都道府県名を表示させる
         lang : "ja",
         // lang : "en",
         fontColor : "#000",
@@ -151,6 +151,7 @@
   <!-- script for navigator -->
   <script>
     document.addEventListener('DOMContentLoaded', function () {
+      console.log('page loaded. window.width : ' + window.innerWidth);
       const list = document.querySelectorAll(".navlist");
       // console.log(list);
       select_menu('ホーム');
@@ -187,6 +188,12 @@
       list.forEach((item) => {
         item.addEventListener("click", activeLink);
       });
+    });
+  </script>
+  <!-- script for reload at window resize event -->
+  <script>
+    window.addEventListener('resize', function(){
+      location.reload();
     });
   </script>
 </body>

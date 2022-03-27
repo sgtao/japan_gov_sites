@@ -19,6 +19,11 @@ body {
 /********************************
   modal window:
 *********************************/
+#open, #close {
+  cursor: pointer;
+  width: 200px;
+}
+
 #mask {
   /* うっすらと暗くする */
   background: rgba(0, 0, 0, 0.4);
@@ -32,6 +37,7 @@ body {
   /* 重ね合わせの優先を、body -> mask -> modalの順にする */
   /* maskは110。modalを120。にする */
   z-index: 110;
+  cursor: pointer;
 }
 
 #modal {
