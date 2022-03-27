@@ -4,19 +4,19 @@
   const mask = document.querySelector('#mask');
   const modal = document.querySelector('#modal');
   const close = document.querySelector('#close');
-  const siteSelect  = document.querySelector('#siteSelect');
-  var acc_site = siteSelect.value;
+  // const siteSelect  = document.querySelector('#siteSelect');
+  var acc_site = "wiki";
   var modal_msg_wiki = modal.querySelector('p').textContent;
   var modal_init_msg = modal_msg_wiki;
-  siteSelect.addEventListener('change', ()=> {
-    console.log('change acc-site to ' + siteSelect.value);
-    acc_site = siteSelect.value;
-    if (acc_site === "google") {
-      modal_init_msg = "各自治体のGoogle検索ページへリンクします。"
-    } else { // wiki
-      modal_init_msg = modal_msg_wiki;
-    }
-  });
+  // siteSelect.addEventListener('change', ()=> {
+  //   console.log('change acc-site to ' + siteSelect.value);
+  //   acc_site = siteSelect.value;
+  //   if (acc_site === "google") {
+  //     modal_init_msg = "各自治体のGoogle検索ページへリンクします。"
+  //   } else { // wiki
+  //     modal_init_msg = modal_msg_wiki;
+  //   }
+  // });
   //
   // clickイベントの設定
   open.addEventListener('click', () => {

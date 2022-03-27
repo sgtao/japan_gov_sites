@@ -1,25 +1,40 @@
+@charset "UTF-8";
+/********************************
+  Stylesheet: ベーススタイル
+*********************************/
 body {
-  /* 文字を小さめに設定 */
-  /* font-size: 14px; */
-}
-select {
-    font-size: .9rem;
-    padding: 2px 5px;
+  font-family: "Kameron", "Noto Sans JP", sans-serif;
+  margin: 0 auto;
+  font-size: 14px;
 }
 
+.container {
+  min-height: 100vh;
+}
+
+select {
+  font-size: .9rem;
+  padding: 2px 5px;
+}
+
+/********************************
+  modal window:
+*********************************/
 #mask {
   /* うっすらと暗くする */
   background: rgba(0, 0, 0, 0.4);
   /* 画面いっぱいに表示したいので、positionはfixed、位置を0と設定 */
   position: fixed;
+  min-width: 100vw;
   top: 0;
   bottom: 0;
   right: 0;
   left: 0;
   /* 重ね合わせの優先を、body -> mask -> modalの順にする */
-  /* maskは10。modalを20。にする */
-  z-index: 10;
+  /* maskは110。modalを120。にする */
+  z-index: 110;
 }
+
 #modal {
   /* モーダルウィンドウのスタイリング */
   opacity: 1;
@@ -33,25 +48,180 @@ select {
   left: 0;
   right: 0;
   margin: 0 auto;
+  opacity: 1;
   /* アニメーションの効果をつける */
-  transition: transform .4s;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
   /* 重ね合わせの優先を、body -> mask -> modalの順にする */
-  /* maskは10。modalを20。にする */
-  z-index: 20;
+  /* maskは110。modalを120。にする */
+  z-index: 120;
 }
+
 /* モーダルウィンドウ内の上の余白を狭くする(topを0pxにする) */
 #modal > p {
   margin: 0 0 20px;
 }
+
 #modal > p > a {
   font-weight: bold;
 }
+
 /* マスクを隠すスタイル */
 #mask.hidden {
   display: none;
 }
+
 /* モーダルウィンドウを隠すスタイル（上に隠す） */
 #modal.hidden {
-  transform: translateY(-2500px);
-  transition: transform 1s;
+  -webkit-transform: translateY(-2500px);
+          transform: translateY(-2500px);
+  -webkit-transition: -webkit-transform .4s;
+  transition: -webkit-transform .4s;
+  transition: transform .4s;
+  transition: transform .4s, -webkit-transform .4s;
 }
+
+/********************************
+  navigation_slidebar:
+*********************************/
+.navigation {
+  /* border: 2px solid black; */
+  height: 100vh;
+  /* width:300px; */
+  position: absolute;
+  top: 0;
+  right: 10px;
+  background-color: #448;
+  -webkit-box-shadow: 10px 0 0 #c74;
+          box-shadow: 10px 0 0 #c74;
+  border-left: 10px solid #448;
+  width: 60px;
+  overflow-x: hidden;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+  z-index: 11;
+}
+
+.navigation:hover {
+  width: 240px;
+}
+
+.navigation ul {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.navigation ul li {
+  list-style: none;
+  display: block;
+  /* display: flex; */
+  width: 100%;
+  position: relative;
+  border-radius: 15px;
+  /* background-color: gray; */
+}
+
+.navigation ul li:hover {
+  background-color: #225;
+  width: 150%;
+}
+
+.navigation ul li.active {
+  background-color: #c74;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  z-index: 12;
+}
+
+.navigation ul li .material-icons-outlined,
+.navigation ul li .material-icons-round {
+  font-size: 2rem;
+  padding: 0;
+  margin-top: 15px;
+}
+
+.navigation ul li a {
+  /* display: block; */
+  position: relative;
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  /* ナビラベル（テキスト）のずれを修正 */
+}
+
+.navigation ul li a .icon {
+  display: block;
+  min-width: 45px;
+  height: 60px;
+  line-height: 70px;
+  text-align: center;
+}
+
+.navigation ul li a .icon {
+  font-size: 1.5em;
+}
+
+.navigation ul li a .title {
+  padding-left: 10px;
+  height: 60px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.navigation ul li.active a::before {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  /* background-color: red; */
+  top: -30px;
+  right: 0;
+  border-radius: 50%;
+  -webkit-box-shadow: 15px 15px 0 #c74;
+          box-shadow: 15px 15px 0 #c74;
+}
+
+.navigation ul li.active a::after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  /* background-color: red; */
+  top: 60px;
+  right: 0;
+  border-radius: 50%;
+  -webkit-box-shadow: 15px -15px 0 #c74;
+          box-shadow: 15px -15px 0 #c74;
+}
+
+/********************************
+  content:
+*********************************/
+.contents {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(100% - 100px);
+  z-index: 1;
+}
+
+/********************************
+  幅1280以上
+*********************************/
+@media (min-width: 1280px) {
+  .navigation {
+    width: 240px;
+    right: 0px;
+  }
+  .conetnts {
+    width: calc(100% - 240px);
+  }
+}
+/*# sourceMappingURL=style.css.map */

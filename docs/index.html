@@ -1,30 +1,66 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>japan_local_gov_sites</title>
+  <!-- reboot CSS -->
   <link rel="stylesheet" href="styles/vendors/bootstrap-reboot.css">
+  <!-- for material-design-icons -->
+  <!-- Outlined -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
+  rel="stylesheet">
+  <!-- Rounded -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round"
+      rel="stylesheet">
+  <!-- local styles -->
   <link rel="stylesheet" href="styles/style.css">
-</head>
+  <!-- icons refered from ionicons<https://ionic.io/ionicons> -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script></head>
 <body>
   <div class="container">
-    <header>
-      <h1>japan_gov_sites</h1>
-      <p>links to local goverments of each prefecture. (use a library "<a href="https://github.com/HemingwayLee/japan-map-js" target="_blank" rel="noopener noreferrer">japan-map-js</a>")</p>
-<select name="site" id="siteSelect">
-    <option value="wiki" selected>Wikipedia</option>
-    <option value="google">Google検索</option>
-</select>      
-      <div id="open">詳細を見る</div>
-    </header>
-    <main>
-      <div id="mask" class="hidden"></div>
-      <div id="my-map"></div>
-    </main>
-    <footer>
-
-    </footer>
+    <div class="navigation">
+      <ul>
+        <li class="navlist active">
+          <a href="#">
+            <span class="material-icons-outlined">
+              home
+              </span>
+            <span class="title">ホーム</span>
+          </a>
+        </li>
+        <li class="navlist">
+          <a href="#">
+            <span class="material-icons-round">
+              public
+              </span>
+            <span class="title">Wikipedia</span>
+          </a>
+        </li>
+        <li class="navlist">
+          <a href="#">
+            <span class="material-icons-outlined">
+              search
+              </span>
+            <span class="title">Google検索</span>
+          </a>
+        </li>
+      </ul>
+      <footer>
+      </footer>
+    </div>
+    <div class="contents">
+      <header>
+        <h1>japan_local_gov_sites</h1>
+        <p>links to local goverments of each prefecture. (use a library "<a href="https://github.com/HemingwayLee/japan-map-js" target="_blank" rel="noopener noreferrer">japan-map-js</a>")</p>
+        <div id="open">詳細を見る</div>
+      </header>
+      <main>
+        <div id="mask" class="hidden"></div>
+        <div id="my-map"></div>
+      </main>
+    </div>
   </div>
   <section id="modal" class="hidden">
     <p>
@@ -35,9 +71,9 @@
       閉じる
     </div>
   </section>
+  <!-- script for access japan-map-js -->
   <script type="text/javascript" src="https://unpkg.com/japan-map-js@1.0.1/dist/jpmap.min.js"></script>
   <script src="scripts/modal.js"></script>
-
   <script>
     var fontSize = (window.innerWidth > 1200 ? 12 : (window.innerWidth > 800 ? 10 : 8))
     var areas = [
@@ -95,22 +131,63 @@
         borderLineWidth: 0.25,
         borderLineColor: "#333",
         drawsBoxLine : false,
-        movesIslands : true,
         showsAreaName : true,
         width: window.innerWidth * 0.9,
+        movesIslands : true,
         font : "MS Mincho",
         // font : "Arial",
         fontSize : fontSize,
-        showsPrefectureName: true,
+        showsPrefectureName: true, //都道府県名を表示させる
         lang : "ja",
         // lang : "en",
         fontColor : "#000",
         fontShadowColor : "black",
         onSelect:function(data){
-            // alert(data.name);
-            click_prefectures(data);
+          // alert(data.name);
+          click_prefectures(data);
         },
       });
+  </script>
+  <!-- script for navigator -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const list = document.querySelectorAll(".navlist");
+      // console.log(list);
+      select_menu('ホーム');
+      // 
+      // local functions
+      function select_menu(active_menu) {
+        switch (active_menu) {
+          case "Wikipedia" : {
+            acc_site = "wiki";
+            modal_init_msg = modal_msg_wiki;
+            break;
+          }
+          case "Google検索" : {
+            acc_site = "google";
+            modal_init_msg = "各自治体のGoogle検索ページへリンクします。";
+            break;
+          }
+          default : { // ホーム
+            acc_site = "wiki";
+            modal_init_msg = "右側アイコンからメニューを選び、都道府県を指定してください。";
+            break;
+          }
+        }
+      }
+      function activeLink() {
+        list.forEach((item) =>
+          // console.log(item);
+          item.classList.remove("active")
+        );
+        this.classList.add("active");
+        console.log(this.querySelector('.title').textContent);
+        select_menu(this.querySelector('.title').textContent);
+      }
+      list.forEach((item) => {
+        item.addEventListener("click", activeLink);
+      });
+    });
   </script>
 </body>
 </html>
