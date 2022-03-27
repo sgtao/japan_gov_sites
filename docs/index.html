@@ -91,12 +91,12 @@
       {code : 12, name: "千葉",   color: "#7ecfea", hoverColor: "#b7e5f4", prefectures: [12]},
       {code : 13, name: "東京",   color: "#7ecfea", hoverColor: "#b7e5f4", prefectures: [13]},
       {code : 14, name: "神奈川",   color: "#7ecfea", hoverColor: "#b7e5f4", prefectures: [14]},
-      {code : 15, name: "新潟",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [15]},
+      {code : 15, name: "新潟",   color: "#7ecfc0", hoverColor: "#aceebb", prefectures: [15]},
       {code : 16, name: "富山",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [16]},
       {code : 17, name: "石川",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [17]},
       {code : 18, name: "福井",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [18]},
       {code : 19, name: "山梨",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [19]},
-      {code : 20, name: "長野",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [20]},
+      {code : 20, name: "長野",   color: "#7ecfc0", hoverColor: "#aceebb", prefectures: [20]},
       {code : 21, name: "岐阜",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [21]},
       {code : 22, name: "静岡",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [22]},
       {code : 23, name: "愛知",   color: "#7cdc92", hoverColor: "#aceebb", prefectures: [23]},
@@ -137,7 +137,7 @@
         font : "MS Mincho",
         // font : "Arial",
         fontSize : fontSize,
-        showsPrefectureName: true, //都道府県名を表示させる
+        showsPrefectureName: (window.innerWidth>=540?true:false), //都道府県名を表示させる
         lang : "ja",
         // lang : "en",
         fontColor : "#000",

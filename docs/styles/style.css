@@ -12,9 +12,8 @@ body {
   min-height: 100vh;
 }
 
-select {
-  font-size: .9rem;
-  padding: 2px 5px;
+.container h1 {
+  font-size: 1.4em;
 }
 
 /********************************
