@@ -5,114 +5,133 @@
       "prefCode": 32,
       "cityCode": "32201",
       "cityName": "松江市",
+      "wikiName": "松江市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32202",
       "cityName": "浜田市",
+      "wikiName": "浜田市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32203",
       "cityName": "出雲市",
+      "wikiName": "出雲市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32204",
       "cityName": "益田市",
+      "wikiName": "益田市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32205",
       "cityName": "大田市",
+      "wikiName": "大田市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32206",
       "cityName": "安来市",
+      "wikiName": "安来市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32207",
       "cityName": "江津市",
+      "wikiName": "江津市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32209",
       "cityName": "雲南市",
+      "wikiName": "雲南市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32343",
       "cityName": "奥出雲町",
+      "wikiName": "奥出雲町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32386",
       "cityName": "飯南町",
+      "wikiName": "飯南町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32441",
       "cityName": "川本町",
+      "wikiName": "川本町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32448",
       "cityName": "美郷町",
+      "wikiName": "美郷町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32449",
       "cityName": "邑南町",
+      "wikiName": "邑南町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32501",
       "cityName": "津和野町",
+      "wikiName": "津和野町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32505",
       "cityName": "吉賀町",
+      "wikiName": "吉賀町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32525",
       "cityName": "海士町",
+      "wikiName": "海士町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32526",
       "cityName": "西ノ島町",
+      "wikiName": "西ノ島町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32527",
       "cityName": "知夫村",
+      "wikiName": "知夫村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 32,
       "cityCode": "32528",
       "cityName": "隠岐の島町",
+      "wikiName": "隠岐の島町",
       "bigCityFlag": "0"
     }
   ]

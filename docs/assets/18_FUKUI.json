@@ -5,102 +5,119 @@
       "prefCode": 18,
       "cityCode": "18201",
       "cityName": "福井市",
+      "wikiName": "福井市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18202",
       "cityName": "敦賀市",
+      "wikiName": "敦賀市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18204",
       "cityName": "小浜市",
+      "wikiName": "小浜市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18205",
       "cityName": "大野市",
+      "wikiName": "大野市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18206",
       "cityName": "勝山市",
+      "wikiName": "勝山市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18207",
       "cityName": "鯖江市",
+      "wikiName": "鯖江市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18208",
       "cityName": "あわら市",
+      "wikiName": "あわら市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18209",
       "cityName": "越前市",
+      "wikiName": "越前市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18210",
       "cityName": "坂井市",
+      "wikiName": "坂井市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18322",
       "cityName": "永平寺町",
+      "wikiName": "永平寺町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18382",
       "cityName": "池田町",
+      "wikiName": "池田町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18404",
       "cityName": "南越前町",
+      "wikiName": "南越前町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18423",
       "cityName": "越前町",
+      "wikiName": "越前町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18442",
       "cityName": "美浜町",
+      "wikiName": "美浜町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18481",
       "cityName": "高浜町",
+      "wikiName": "高浜町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18483",
       "cityName": "おおい町",
+      "wikiName": "おおい町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 18,
       "cityCode": "18501",
       "cityName": "若狭町",
+      "wikiName": "若狭町",
       "bigCityFlag": "0"
     }
   ]

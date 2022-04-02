@@ -5,114 +5,133 @@
       "prefCode": 17,
       "cityCode": "17201",
       "cityName": "金沢市",
+      "wikiName": "金沢市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17202",
       "cityName": "七尾市",
+      "wikiName": "七尾市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17203",
       "cityName": "小松市",
+      "wikiName": "小松市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17204",
       "cityName": "輪島市",
+      "wikiName": "輪島市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17205",
       "cityName": "珠洲市",
+      "wikiName": "珠洲市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17206",
       "cityName": "加賀市",
+      "wikiName": "加賀市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17207",
       "cityName": "羽咋市",
+      "wikiName": "羽咋市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17209",
       "cityName": "かほく市",
+      "wikiName": "かほく市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17210",
       "cityName": "白山市",
+      "wikiName": "白山市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17211",
       "cityName": "能美市",
+      "wikiName": "能美市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17212",
       "cityName": "野々市市",
+      "wikiName": "野々市市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17324",
       "cityName": "川北町",
+      "wikiName": "川北町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17361",
       "cityName": "津幡町",
+      "wikiName": "津幡町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17365",
       "cityName": "内灘町",
+      "wikiName": "内灘町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17384",
       "cityName": "志賀町",
+      "wikiName": "志賀町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17386",
       "cityName": "宝達志水町",
+      "wikiName": "宝達志水町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17407",
       "cityName": "中能登町",
+      "wikiName": "中能登町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17461",
       "cityName": "穴水町",
+      "wikiName": "穴水町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 17,
       "cityCode": "17463",
       "cityName": "能登町",
+      "wikiName": "能登町",
       "bigCityFlag": "0"
     }
   ]

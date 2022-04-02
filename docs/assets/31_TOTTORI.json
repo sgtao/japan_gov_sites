@@ -5,114 +5,133 @@
       "prefCode": 31,
       "cityCode": "31201",
       "cityName": "鳥取市",
+      "wikiName": "鳥取市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31202",
       "cityName": "米子市",
+      "wikiName": "米子市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31203",
       "cityName": "倉吉市",
+      "wikiName": "倉吉市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31204",
       "cityName": "境港市",
+      "wikiName": "境港市",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31302",
       "cityName": "岩美町",
+      "wikiName": "岩美町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31325",
       "cityName": "若桜町",
+      "wikiName": "若桜町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31328",
       "cityName": "智頭町",
+      "wikiName": "智頭町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31329",
       "cityName": "八頭町",
+      "wikiName": "八頭町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31364",
       "cityName": "三朝町",
+      "wikiName": "三朝町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31370",
       "cityName": "湯梨浜町",
+      "wikiName": "湯梨浜町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31371",
       "cityName": "琴浦町",
+      "wikiName": "琴浦町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31372",
       "cityName": "北栄町",
+      "wikiName": "北栄町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31384",
       "cityName": "日吉津村",
+      "wikiName": "日吉津村",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31386",
       "cityName": "大山町",
+      "wikiName": "大山町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31389",
       "cityName": "南部町",
+      "wikiName": "南部町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31390",
       "cityName": "伯耆町",
+      "wikiName": "伯耆町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31401",
       "cityName": "日南町",
+      "wikiName": "日南町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31402",
       "cityName": "日野町",
+      "wikiName": "日野町",
       "bigCityFlag": "0"
     },
     {
       "prefCode": 31,
       "cityCode": "31403",
       "cityName": "江府町",
+      "wikiName": "江府町",
       "bigCityFlag": "0"
     }
   ]
