@@ -1,3 +1,5 @@
 README.txt
 *.css.map
 script
+venv
+get_city_pub_links/csvfiles
