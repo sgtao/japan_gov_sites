@@ -1,4 +1,4 @@
-﻿{
+{
   "message": null,
   "result": [
     {
@@ -278,7 +278,7 @@
       "prefCode": 22,
       "cityCode": "22341",
       "cityName": "清水町",
-      "wikiName": "清水町",
+      "wikiName": "清水町_(静岡県)",
       "bigCityFlag": "0"
     },
     {
@@ -313,7 +313,7 @@
       "prefCode": 22,
       "cityCode": "22461",
       "cityName": "森町",
-      "wikiName": "森町",
+      "wikiName": "森町_(静岡県)",
       "bigCityFlag": "0"
     }
   ]

@@ -207,6 +207,7 @@
     {
       "prefCode": 2,
       "cityCode": "02412",
+      "cityName": "おいらせ町",
       "wikiName": "おいらせ町",
       "bigCityFlag": "0"
     },
@@ -263,7 +264,7 @@
       "prefCode": 2,
       "cityCode": "02445",
       "cityName": "南部町",
-      "wikiName": "南部町",
+      "wikiName": "南部町_(青森県)",
       "bigCityFlag": "0"
     },
     {

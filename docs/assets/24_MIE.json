@@ -1,7 +1,6 @@
 {
   "message": null,
   "result": [
-[
     {
       "prefCode": 24,
       "cityCode": "24201",
@@ -125,7 +124,7 @@
       "prefCode": 24,
       "cityCode": "24343",
       "cityName": "朝日町",
-      "wikiName": "朝日町",
+      "wikiName": "朝日町_(三重県)",
       "bigCityFlag": "0"
     },
     {
@@ -146,7 +145,7 @@
       "prefCode": 24,
       "cityCode": "24442",
       "cityName": "明和町",
-      "wikiName": "明和町",
+      "wikiName": "明和町_(三重県)",
       "bigCityFlag": "0"
     },
     {

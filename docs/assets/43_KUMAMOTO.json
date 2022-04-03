@@ -1,4 +1,4 @@
-﻿{
+{
   "message": null,
   "result": [
     {
@@ -138,7 +138,7 @@
       "prefCode": 43,
       "cityCode": "43348",
       "cityName": "美里町",
-      "wikiName": "美里町",
+      "wikiName": "美里町_(熊本県)",
       "bigCityFlag": "0"
     },
     {
@@ -194,7 +194,7 @@
       "prefCode": 43,
       "cityCode": "43424",
       "cityName": "小国町",
-      "wikiName": "小国町",
+      "wikiName": "小国町_(熊本県)",
       "bigCityFlag": "0"
     },
     {
@@ -208,7 +208,7 @@
       "prefCode": 43,
       "cityCode": "43428",
       "cityName": "高森町",
-      "wikiName": "高森町",
+      "wikiName": "高森町_(熊本県)",
       "bigCityFlag": "0"
     },
     {
