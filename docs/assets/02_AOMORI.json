@@ -6,280 +6,320 @@
       "cityCode": "02201",
       "cityName": "青森市",
       "wikiName": "青森市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.aomori.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02202",
       "cityName": "弘前市",
       "wikiName": "弘前市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.hirosaki.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02203",
       "cityName": "八戸市",
       "wikiName": "八戸市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hachinohe.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02204",
       "cityName": "黒石市",
       "wikiName": "黒石市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kuroishi.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02205",
       "cityName": "五所川原市",
       "wikiName": "五所川原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.goshogawara.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02206",
       "cityName": "十和田市",
       "wikiName": "十和田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.towada.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02207",
       "cityName": "三沢市",
       "wikiName": "三沢市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.misawa.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02208",
       "cityName": "むつ市",
       "wikiName": "むつ市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.mutsu.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02209",
       "cityName": "つがる市",
       "wikiName": "つがる市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsugaru.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02210",
       "cityName": "平川市",
       "wikiName": "平川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hirakawa.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02301",
       "cityName": "平内町",
       "wikiName": "平内町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hiranai.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02303",
       "cityName": "今別町",
       "wikiName": "今別町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.imabetsu.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02304",
       "cityName": "蓬田村",
       "wikiName": "蓬田村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.yomogita.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02307",
       "cityName": "外ヶ浜町",
       "wikiName": "外ヶ浜町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.sotogahama.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02321",
       "cityName": "鰺ヶ沢町",
       "wikiName": "鰺ヶ沢町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ajigasawa.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02323",
       "cityName": "深浦町",
       "wikiName": "深浦町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.fukaura.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02343",
       "cityName": "西目屋村",
       "wikiName": "西目屋村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.nishimeya.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02361",
       "cityName": "藤崎町",
       "wikiName": "藤崎町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.fujisaki.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02362",
       "cityName": "大鰐町",
       "wikiName": "大鰐町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.owani.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02367",
       "cityName": "田舎館村",
       "wikiName": "田舎館村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.inakadate.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02381",
       "cityName": "板柳町",
       "wikiName": "板柳町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.itayanagi.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02384",
       "cityName": "鶴田町",
       "wikiName": "鶴田町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.tsuruta.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02387",
       "cityName": "中泊町",
       "wikiName": "中泊町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.nakadomari.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02401",
       "cityName": "野辺地町",
       "wikiName": "野辺地町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.noheji.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02402",
       "cityName": "七戸町",
       "wikiName": "七戸町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.shichinohe.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02405",
       "cityName": "六戸町",
       "wikiName": "六戸町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.rokunohe.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02406",
       "cityName": "横浜町",
       "wikiName": "横浜町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yokohama.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02408",
       "cityName": "東北町",
       "wikiName": "東北町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.tohoku.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02411",
       "cityName": "六ヶ所村",
       "wikiName": "六ヶ所村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.rokkasho.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02412",
       "cityName": "おいらせ町",
       "wikiName": "おいらせ町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.oirase.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02423",
       "cityName": "大間町",
       "wikiName": "大間町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ooma.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02424",
       "cityName": "東通村",
       "wikiName": "東通村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.higashidoori.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02425",
       "cityName": "風間浦村",
       "wikiName": "風間浦村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.kazamaura.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02426",
       "cityName": "佐井村",
       "wikiName": "佐井村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.sai.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02441",
       "cityName": "三戸町",
       "wikiName": "三戸町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.sannohe.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02442",
       "cityName": "五戸町",
       "wikiName": "五戸町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.gonohe.aomori.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02443",
       "cityName": "田子町",
       "wikiName": "田子町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.takko.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02445",
       "cityName": "南部町",
       "wikiName": "南部町_(青森県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.aomori-nanbu.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02446",
       "cityName": "階上町",
       "wikiName": "階上町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hashikami.lg.jp/"
     },
     {
       "prefCode": 2,
       "cityCode": "02450",
       "cityName": "新郷村",
       "wikiName": "新郷村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.shingo.aomori.jp/"
     }
   ]
 }

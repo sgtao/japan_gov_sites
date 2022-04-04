@@ -6,420 +6,480 @@
       "cityCode": "12100",
       "cityName": "千葉市",
       "wikiName": "千葉市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12101",
       "cityName": "千葉市中央区",
       "wikiName": "中央区_(千葉市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.chiba.jp/chuo/"
     },
     {
       "prefCode": 12,
       "cityCode": "12102",
       "cityName": "千葉市花見川区",
       "wikiName": "花見川区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.chiba.jp/hanamigawa/"
     },
     {
       "prefCode": 12,
       "cityCode": "12103",
       "cityName": "千葉市稲毛区",
       "wikiName": "稲毛区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.chiba.jp/inage/"
     },
     {
       "prefCode": 12,
       "cityCode": "12104",
       "cityName": "千葉市若葉区",
       "wikiName": "若葉区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.chiba.jp/wakaba/"
     },
     {
       "prefCode": 12,
       "cityCode": "12105",
       "cityName": "千葉市緑区",
       "wikiName": "緑区_(千葉市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.chiba.jp/midori/"
     },
     {
       "prefCode": 12,
       "cityCode": "12106",
       "cityName": "千葉市美浜区",
       "wikiName": "美浜区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.chiba.jp/mihama/"
     },
     {
       "prefCode": 12,
       "cityCode": "12202",
       "cityName": "銚子市",
       "wikiName": "銚子市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.choshi.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12203",
       "cityName": "市川市",
       "wikiName": "市川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ichikawa.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12204",
       "cityName": "船橋市",
       "wikiName": "船橋市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.funabashi.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12205",
       "cityName": "館山市",
       "wikiName": "館山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tateyama.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12206",
       "cityName": "木更津市",
       "wikiName": "木更津市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kisarazu.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12207",
       "cityName": "松戸市",
       "wikiName": "松戸市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.matsudo.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12208",
       "cityName": "野田市",
       "wikiName": "野田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.noda.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12210",
       "cityName": "茂原市",
       "wikiName": "茂原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.mobara.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12211",
       "cityName": "成田市",
       "wikiName": "成田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.narita.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12212",
       "cityName": "佐倉市",
       "wikiName": "佐倉市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sakura.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12213",
       "cityName": "東金市",
       "wikiName": "東金市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.togane.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12215",
       "cityName": "旭市",
       "wikiName": "旭市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.asahi.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12216",
       "cityName": "習志野市",
       "wikiName": "習志野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.narashino.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12217",
       "cityName": "柏市",
       "wikiName": "柏市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kashiwa.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12218",
       "cityName": "勝浦市",
       "wikiName": "勝浦市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.katsuura.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12219",
       "cityName": "市原市",
       "wikiName": "市原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ichihara.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12220",
       "cityName": "流山市",
       "wikiName": "流山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nagareyama.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12221",
       "cityName": "八千代市",
       "wikiName": "八千代市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yachiyo.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12222",
       "cityName": "我孫子市",
       "wikiName": "我孫子市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.abiko.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12223",
       "cityName": "鴨川市",
       "wikiName": "鴨川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kamogawa.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12224",
       "cityName": "鎌ケ谷市",
       "wikiName": "鎌ケ谷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kamagaya.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12225",
       "cityName": "君津市",
       "wikiName": "君津市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kimitsu.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12226",
       "cityName": "富津市",
       "wikiName": "富津市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.futtsu.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12227",
       "cityName": "浦安市",
       "wikiName": "浦安市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.urayasu.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12228",
       "cityName": "四街道市",
       "wikiName": "四街道市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yotsukaido.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12229",
       "cityName": "袖ケ浦市",
       "wikiName": "袖ケ浦市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sodegaura.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12230",
       "cityName": "八街市",
       "wikiName": "八街市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yachimata.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12231",
       "cityName": "印西市",
       "wikiName": "印西市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.inzai.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12232",
       "cityName": "白井市",
       "wikiName": "白井市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.shiroi.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12233",
       "cityName": "富里市",
       "wikiName": "富里市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tomisato.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12234",
       "cityName": "南房総市",
       "wikiName": "南房総市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minamiboso.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12235",
       "cityName": "匝瑳市",
       "wikiName": "匝瑳市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sosa.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12236",
       "cityName": "香取市",
       "wikiName": "香取市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.katori.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12237",
       "cityName": "山武市",
       "wikiName": "山武市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sammu.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12238",
       "cityName": "いすみ市",
       "wikiName": "いすみ市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.isumi.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12239",
       "cityName": "大網白里市",
       "wikiName": "大網白里市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.oamishirasato.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12322",
       "cityName": "酒々井町",
       "wikiName": "酒々井町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shisui.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12329",
       "cityName": "栄町",
       "wikiName": "栄町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.sakae.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12342",
       "cityName": "神崎町",
       "wikiName": "神崎町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kozaki.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12347",
       "cityName": "多古町",
       "wikiName": "多古町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tako.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12349",
       "cityName": "東庄町",
       "wikiName": "東庄町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tohnosho.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12403",
       "cityName": "九十九里町",
       "wikiName": "九十九里町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kujukuri.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12409",
       "cityName": "芝山町",
       "wikiName": "芝山町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shibayama.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12410",
       "cityName": "横芝光町",
       "wikiName": "横芝光町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yokoshibahikari.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12421",
       "cityName": "一宮町",
       "wikiName": "一宮町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ichinomiya.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12422",
       "cityName": "睦沢町",
       "wikiName": "睦沢町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.mutsuzawa.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12423",
       "cityName": "長生村",
       "wikiName": "長生村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.chosei.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12424",
       "cityName": "白子町",
       "wikiName": "白子町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shirako.lg.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12426",
       "cityName": "長柄町",
       "wikiName": "長柄町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nagara.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12427",
       "cityName": "長南町",
       "wikiName": "長南町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.chonan.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12441",
       "cityName": "大多喜町",
       "wikiName": "大多喜町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.otaki.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12443",
       "cityName": "御宿町",
       "wikiName": "御宿町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.onjuku.chiba.jp/"
     },
     {
       "prefCode": 12,
       "cityCode": "12463",
       "cityName": "鋸南町",
       "wikiName": "鋸南町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kyonan.chiba.jp/"
     }
   ]
 }

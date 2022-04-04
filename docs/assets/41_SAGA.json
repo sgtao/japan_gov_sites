@@ -6,140 +6,160 @@
       "cityCode": "41201",
       "cityName": "佐賀市",
       "wikiName": "佐賀市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.saga.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41202",
       "cityName": "唐津市",
       "wikiName": "唐津市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.karatsu.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41203",
       "cityName": "鳥栖市",
       "wikiName": "鳥栖市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tosu.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41204",
       "cityName": "多久市",
       "wikiName": "多久市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.taku.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41205",
       "cityName": "伊万里市",
       "wikiName": "伊万里市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.imari.saga.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41206",
       "cityName": "武雄市",
       "wikiName": "武雄市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.takeo.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41207",
       "cityName": "鹿島市",
       "wikiName": "鹿島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.saga-kashima.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41208",
       "cityName": "小城市",
       "wikiName": "小城市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ogi.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41209",
       "cityName": "嬉野市",
       "wikiName": "嬉野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ureshino.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41210",
       "cityName": "神埼市",
       "wikiName": "神埼市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kanzaki.saga.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41327",
       "cityName": "吉野ヶ里町",
       "wikiName": "吉野ヶ里町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yoshinogari.saga.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41341",
       "cityName": "基山町",
       "wikiName": "基山町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kiyama.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41345",
       "cityName": "上峰町",
       "wikiName": "上峰町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kamimine.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41346",
       "cityName": "みやき町",
       "wikiName": "みやき町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miyaki.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41387",
       "cityName": "玄海町",
       "wikiName": "玄海町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.genkai.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41401",
       "cityName": "有田町",
       "wikiName": "有田町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.arita.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41423",
       "cityName": "大町町",
       "wikiName": "大町町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.omachi.saga.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41424",
       "cityName": "江北町",
       "wikiName": "江北町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kouhoku.saga.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41425",
       "cityName": "白石町",
       "wikiName": "白石町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shiroishi.lg.jp/"
     },
     {
       "prefCode": 41,
       "cityCode": "41441",
       "cityName": "太良町",
       "wikiName": "太良町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tara.lg.jp/"
     }
   ]
 }

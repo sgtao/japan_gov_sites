@@ -6,273 +6,312 @@
       "cityCode": "29201",
       "cityName": "奈良市",
       "wikiName": "奈良市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nara.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29202",
       "cityName": "大和高田市",
       "wikiName": "大和高田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yamatotakada.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29203",
       "cityName": "大和郡山市",
       "wikiName": "大和郡山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yamatokoriyama.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29204",
       "cityName": "天理市",
       "wikiName": "天理市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tenri.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29205",
       "cityName": "橿原市",
       "wikiName": "橿原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kashihara.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29206",
       "cityName": "桜井市",
       "wikiName": "桜井市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sakurai.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29207",
       "cityName": "五條市",
       "wikiName": "五條市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.gojo.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29208",
       "cityName": "御所市",
       "wikiName": "御所市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.gose.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29209",
       "cityName": "生駒市",
       "wikiName": "生駒市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ikoma.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29210",
       "cityName": "香芝市",
       "wikiName": "香芝市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kashiba.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29211",
       "cityName": "葛城市",
       "wikiName": "葛城市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.katsuragi.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29212",
       "cityName": "宇陀市",
       "wikiName": "宇陀市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.uda.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29322",
       "cityName": "山添村",
       "wikiName": "山添村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.yamazoe.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29342",
       "cityName": "平群町",
       "wikiName": "平群町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.heguri.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29343",
       "cityName": "三郷町",
       "wikiName": "三郷町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.sango.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29344",
       "cityName": "斑鳩町",
       "wikiName": "斑鳩町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ikaruga.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29345",
       "cityName": "安堵町",
       "wikiName": "安堵町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ando.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29361",
       "cityName": "川西町",
       "wikiName": "川西町_(奈良県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nara-kawanishi.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29362",
       "cityName": "三宅町",
       "wikiName": "三宅町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miyake.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29363",
       "cityName": "田原本町",
       "wikiName": "田原本町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tawaramoto.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29385",
       "cityName": "曽爾村",
       "wikiName": "曽爾村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.soni.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29386",
       "cityName": "御杖村",
       "wikiName": "御杖村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.mitsue.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29401",
       "cityName": "高取町",
       "wikiName": "高取町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.takatori.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29402",
       "cityName": "明日香村",
       "wikiName": "明日香村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://asukamura.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29424",
       "cityName": "上牧町",
       "wikiName": "上牧町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kanmaki.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29425",
       "cityName": "王寺町",
       "wikiName": "王寺町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.oji.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29426",
       "cityName": "広陵町",
       "wikiName": "広陵町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.koryo.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29427",
       "cityName": "河合町",
       "wikiName": "河合町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kawai.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29441",
       "cityName": "吉野町",
       "wikiName": "吉野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yoshino.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29442",
       "cityName": "大淀町",
       "wikiName": "大淀町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.oyodo.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29443",
       "cityName": "下市町",
       "wikiName": "下市町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shimoichi.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29444",
       "cityName": "黒滝村",
       "wikiName": "黒滝村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.kurotaki.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29446",
       "cityName": "天川村",
       "wikiName": "天川村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.tenkawa.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29447",
       "cityName": "野迫川村",
       "wikiName": "野迫川村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.nosegawa.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29449",
       "cityName": "十津川村",
       "wikiName": "十津川村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.totsukawa.lg.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29450",
       "cityName": "下北山村",
       "wikiName": "下北山村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.shimokitayama.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29451",
       "cityName": "上北山村",
       "wikiName": "上北山村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://vill.kamikitayama.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29452",
       "cityName": "川上村",
       "wikiName": "川上村_(奈良県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.kawakami.nara.jp/"
     },
     {
       "prefCode": 29,
       "cityCode": "29453",
       "cityName": "東吉野村",
       "wikiName": "東吉野村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.higashiyoshino.nara.jp/"
     }
   ]
 }

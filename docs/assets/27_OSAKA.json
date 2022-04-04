@@ -6,518 +6,592 @@
       "cityCode": "27100",
       "cityName": "大阪市",
       "wikiName": "大阪市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.osaka.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27102",
       "cityName": "大阪市都島区",
       "wikiName": "都島区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/miyakojima/"
     },
     {
       "prefCode": 27,
       "cityCode": "27103",
       "cityName": "大阪市福島区",
       "wikiName": "福島区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/fukushima/"
     },
     {
       "prefCode": 27,
       "cityCode": "27104",
       "cityName": "大阪市此花区",
       "wikiName": "此花区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/konohana/"
     },
     {
       "prefCode": 27,
       "cityCode": "27106",
       "cityName": "大阪市西区",
       "wikiName": "西区_(大阪市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/nishi/"
     },
     {
       "prefCode": 27,
       "cityCode": "27107",
       "cityName": "大阪市港区",
       "wikiName": "港区_(大阪市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/minato/"
     },
     {
       "prefCode": 27,
       "cityCode": "27108",
       "cityName": "大阪市大正区",
       "wikiName": "大正区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/taisho/"
     },
     {
       "prefCode": 27,
       "cityCode": "27109",
       "cityName": "大阪市天王寺区",
       "wikiName": "天王寺区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/tennoji/"
     },
     {
       "prefCode": 27,
       "cityCode": "27111",
       "cityName": "大阪市浪速区",
       "wikiName": "浪速区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/naniwa/"
     },
     {
       "prefCode": 27,
       "cityCode": "27113",
       "cityName": "大阪市西淀川区",
       "wikiName": "西淀川区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/nishiyodogawa/"
     },
     {
       "prefCode": 27,
       "cityCode": "27114",
       "cityName": "大阪市東淀川区",
       "wikiName": "東淀川区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/higashiyodogawa/"
     },
     {
       "prefCode": 27,
       "cityCode": "27115",
       "cityName": "大阪市東成区",
       "wikiName": "東成区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/higashinari/"
     },
     {
       "prefCode": 27,
       "cityCode": "27116",
       "cityName": "大阪市生野区",
       "wikiName": "生野区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/ikuno/"
     },
     {
       "prefCode": 27,
       "cityCode": "27117",
       "cityName": "大阪市旭区",
       "wikiName": "旭区_(大阪市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/asahi/"
     },
     {
       "prefCode": 27,
       "cityCode": "27118",
       "cityName": "大阪市城東区",
       "wikiName": "城東区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/joto/"
     },
     {
       "prefCode": 27,
       "cityCode": "27119",
       "cityName": "大阪市阿倍野区",
       "wikiName": "阿倍野区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/abeno/"
     },
     {
       "prefCode": 27,
       "cityCode": "27120",
       "cityName": "大阪市住吉区",
       "wikiName": "住吉区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/sumiyoshi/"
     },
     {
       "prefCode": 27,
       "cityCode": "27121",
       "cityName": "大阪市東住吉区",
       "wikiName": "東住吉区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/higashisumiyoshi/"
     },
     {
       "prefCode": 27,
       "cityCode": "27122",
       "cityName": "大阪市西成区",
       "wikiName": "西成区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/nishinari/"
     },
     {
       "prefCode": 27,
       "cityCode": "27123",
       "cityName": "大阪市淀川区",
       "wikiName": "淀川区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/yodogawa/"
     },
     {
       "prefCode": 27,
       "cityCode": "27124",
       "cityName": "大阪市鶴見区",
       "wikiName": "鶴見区_(大阪市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/tsurumi/"
     },
     {
       "prefCode": 27,
       "cityCode": "27125",
       "cityName": "大阪市住之江区",
       "wikiName": "住之江区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/suminoe/"
     },
     {
       "prefCode": 27,
       "cityCode": "27126",
       "cityName": "大阪市平野区",
       "wikiName": "平野区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/hirano/"
     },
     {
       "prefCode": 27,
       "cityCode": "27127",
       "cityName": "大阪市北区",
       "wikiName": "北区_(大阪市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/kita/"
     },
     {
       "prefCode": 27,
       "cityCode": "27128",
       "cityName": "大阪市中央区",
       "wikiName": "中央区_(大阪市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.osaka.lg.jp/chuo/"
     },
     {
       "prefCode": 27,
       "cityCode": "27140",
       "cityName": "堺市",
       "wikiName": "堺市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.sakai.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27141",
       "cityName": "堺市堺区",
       "wikiName": "堺区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "http://www.city.sakai.lg.jp/sakai/"
     },
     {
       "prefCode": 27,
       "cityCode": "27142",
       "cityName": "堺市中区",
       "wikiName": "中区_(堺市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "http://www.city.sakai.lg.jp/sakai/"
     },
     {
       "prefCode": 27,
       "cityCode": "27143",
       "cityName": "堺市東区",
       "wikiName": "東区_(堺市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "http://www.city.sakai.lg.jp/higashi/"
     },
     {
       "prefCode": 27,
       "cityCode": "27144",
       "cityName": "堺市西区",
       "wikiName": "西区_(堺市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "http://www.city.sakai.lg.jp/nishi/"
     },
     {
       "prefCode": 27,
       "cityCode": "27145",
       "cityName": "堺市南区",
       "wikiName": "南区_(堺市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "http://www.city.sakai.lg.jp/minami/"
     },
     {
       "prefCode": 27,
       "cityCode": "27146",
       "cityName": "堺市北区",
       "wikiName": "北区_(堺市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "http://www.city.sakai.lg.jp/kita/"
     },
     {
       "prefCode": 27,
       "cityCode": "27147",
       "cityName": "堺市美原区",
       "wikiName": "美原区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.sakai.lg.jp/mihara/"
     },
     {
       "prefCode": 27,
       "cityCode": "27202",
       "cityName": "岸和田市",
       "wikiName": "岸和田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kishiwada.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27203",
       "cityName": "豊中市",
       "wikiName": "豊中市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.toyonaka.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27204",
       "cityName": "池田市",
       "wikiName": "池田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.ikeda.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27205",
       "cityName": "吹田市",
       "wikiName": "吹田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.suita.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27206",
       "cityName": "泉大津市",
       "wikiName": "泉大津市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.izumiotsu.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27207",
       "cityName": "高槻市",
       "wikiName": "高槻市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.takatsuki.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27208",
       "cityName": "貝塚市",
       "wikiName": "貝塚市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kaizuka.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27209",
       "cityName": "守口市",
       "wikiName": "守口市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.moriguchi.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27210",
       "cityName": "枚方市",
       "wikiName": "枚方市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hirakata.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27211",
       "cityName": "茨木市",
       "wikiName": "茨木市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ibaraki.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27212",
       "cityName": "八尾市",
       "wikiName": "八尾市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yao.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27213",
       "cityName": "泉佐野市",
       "wikiName": "泉佐野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.izumisano.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27214",
       "cityName": "富田林市",
       "wikiName": "富田林市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tondabayashi.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27215",
       "cityName": "寝屋川市",
       "wikiName": "寝屋川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.neyagawa.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27216",
       "cityName": "河内長野市",
       "wikiName": "河内長野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kawachinagano.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27217",
       "cityName": "松原市",
       "wikiName": "松原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.matsubara.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27218",
       "cityName": "大東市",
       "wikiName": "大東市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.daito.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27219",
       "cityName": "和泉市",
       "wikiName": "和泉市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.osaka-izumi.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27220",
       "cityName": "箕面市",
       "wikiName": "箕面市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minoh.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27221",
       "cityName": "柏原市",
       "wikiName": "柏原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kashiwara.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27222",
       "cityName": "羽曳野市",
       "wikiName": "羽曳野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.habikino.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27223",
       "cityName": "門真市",
       "wikiName": "門真市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kadoma.osaka.jp"
     },
     {
       "prefCode": 27,
       "cityCode": "27224",
       "cityName": "摂津市",
       "wikiName": "摂津市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.settsu.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27225",
       "cityName": "高石市",
       "wikiName": "高石市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.takaishi.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27226",
       "cityName": "藤井寺市",
       "wikiName": "藤井寺市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fujiidera.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27227",
       "cityName": "東大阪市",
       "wikiName": "東大阪市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.higashiosaka.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27228",
       "cityName": "泉南市",
       "wikiName": "泉南市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sennan.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27229",
       "cityName": "四條畷市",
       "wikiName": "四條畷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shijonawate.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27230",
       "cityName": "交野市",
       "wikiName": "交野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.katano.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27231",
       "cityName": "大阪狭山市",
       "wikiName": "大阪狭山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.osakasayama.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27232",
       "cityName": "阪南市",
       "wikiName": "阪南市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.hannan.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27301",
       "cityName": "島本町",
       "wikiName": "島本町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shimamoto.lg.jp"
     },
     {
       "prefCode": 27,
       "cityCode": "27321",
       "cityName": "豊能町",
       "wikiName": "豊能町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.toyono.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27322",
       "cityName": "能勢町",
       "wikiName": "能勢町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nose.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27341",
       "cityName": "忠岡町",
       "wikiName": "忠岡町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tadaoka.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27361",
       "cityName": "熊取町",
       "wikiName": "熊取町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kumatori.lg.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27362",
       "cityName": "田尻町",
       "wikiName": "田尻町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.tajiri.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27366",
       "cityName": "岬町",
       "wikiName": "岬町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.misaki.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27381",
       "cityName": "太子町",
       "wikiName": "太子町_(大阪府)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.taishi.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27382",
       "cityName": "河南町",
       "wikiName": "河南町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kanan.osaka.jp/"
     },
     {
       "prefCode": 27,
       "cityCode": "27383",
       "cityName": "千早赤阪村",
       "wikiName": "千早赤阪村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.chihayaakasaka.osaka.jp/"
     }
   ]
 }

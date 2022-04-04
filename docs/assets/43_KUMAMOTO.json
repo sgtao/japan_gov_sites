@@ -6,350 +6,400 @@
       "cityCode": "43100",
       "cityName": "熊本市",
       "wikiName": "熊本市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43101",
       "cityName": "熊本市中央区",
       "wikiName": "中央区_(熊本市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kumamoto.jp/chuo/"
     },
     {
       "prefCode": 43,
       "cityCode": "43102",
       "cityName": "熊本市東区",
       "wikiName": "東区_(熊本市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kumamoto.jp/higashi/"
     },
     {
       "prefCode": 43,
       "cityCode": "43103",
       "cityName": "熊本市西区",
       "wikiName": "西区_(熊本市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kumamoto.jp/nishi/"
     },
     {
       "prefCode": 43,
       "cityCode": "43104",
       "cityName": "熊本市南区",
       "wikiName": "南区_(熊本市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kumamoto.jp/minami/"
     },
     {
       "prefCode": 43,
       "cityCode": "43105",
       "cityName": "熊本市北区",
       "wikiName": "北区_(熊本市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kumamoto.jp/kita/"
     },
     {
       "prefCode": 43,
       "cityCode": "43202",
       "cityName": "八代市",
       "wikiName": "八代市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yatsushiro.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43203",
       "cityName": "人吉市",
       "wikiName": "人吉市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hitoyoshi.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43204",
       "cityName": "荒尾市",
       "wikiName": "荒尾市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.arao.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43205",
       "cityName": "水俣市",
       "wikiName": "水俣市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minamata.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43206",
       "cityName": "玉名市",
       "wikiName": "玉名市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tamana.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43208",
       "cityName": "山鹿市",
       "wikiName": "山鹿市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yamaga.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43210",
       "cityName": "菊池市",
       "wikiName": "菊池市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kikuchi.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43211",
       "cityName": "宇土市",
       "wikiName": "宇土市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.uto.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43212",
       "cityName": "上天草市",
       "wikiName": "上天草市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kamiamakusa.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43213",
       "cityName": "宇城市",
       "wikiName": "宇城市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.uki.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43214",
       "cityName": "阿蘇市",
       "wikiName": "阿蘇市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.aso.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43215",
       "cityName": "天草市",
       "wikiName": "天草市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.amakusa.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43216",
       "cityName": "合志市",
       "wikiName": "合志市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.koshi.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43348",
       "cityName": "美里町",
       "wikiName": "美里町_(熊本県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kumamoto-misato.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43364",
       "cityName": "玉東町",
       "wikiName": "玉東町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.gyokuto.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43367",
       "cityName": "南関町",
       "wikiName": "南関町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nankan.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43368",
       "cityName": "長洲町",
       "wikiName": "長洲町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nagasu.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43369",
       "cityName": "和水町",
       "wikiName": "和水町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nagomi.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43403",
       "cityName": "大津町",
       "wikiName": "大津町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ozu.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43404",
       "cityName": "菊陽町",
       "wikiName": "菊陽町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kikuyo.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43423",
       "cityName": "南小国町",
       "wikiName": "南小国町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.minamioguni.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43424",
       "cityName": "小国町",
       "wikiName": "小国町_(熊本県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kumamoto-oguni.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43425",
       "cityName": "産山村",
       "wikiName": "産山村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.ubuyama-v.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43428",
       "cityName": "高森町",
       "wikiName": "高森町_(熊本県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.takamori.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43432",
       "cityName": "西原村",
       "wikiName": "西原村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.nishihara.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43433",
       "cityName": "南阿蘇村",
       "wikiName": "南阿蘇村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.minamiaso.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43441",
       "cityName": "御船町",
       "wikiName": "御船町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.mifune.kumamoto.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43442",
       "cityName": "嘉島町",
       "wikiName": "嘉島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kumamoto-kashima.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43443",
       "cityName": "益城町",
       "wikiName": "益城町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.mashiki.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43444",
       "cityName": "甲佐町",
       "wikiName": "甲佐町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kosa.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43447",
       "cityName": "山都町",
       "wikiName": "山都町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kumamoto-yamato.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43468",
       "cityName": "氷川町",
       "wikiName": "氷川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.hikawacyou.hinokuni-net.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43482",
       "cityName": "芦北町",
       "wikiName": "芦北町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.ashikita-t.kumamoto-sgn.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43484",
       "cityName": "津奈木町",
       "wikiName": "津奈木町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.tsunagi.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43501",
       "cityName": "錦町",
       "wikiName": "錦町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.nishiki-machi.com/"
     },
     {
       "prefCode": 43,
       "cityCode": "43505",
       "cityName": "多良木町",
       "wikiName": "多良木町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.taragi.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43506",
       "cityName": "湯前町",
       "wikiName": "湯前町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yunomae.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43507",
       "cityName": "水上村",
       "wikiName": "水上村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.mizukami.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43510",
       "cityName": "相良村",
       "wikiName": "相良村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.sagara.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43511",
       "cityName": "五木村",
       "wikiName": "五木村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.itsuki.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43512",
       "cityName": "山江村",
       "wikiName": "山江村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.yamae.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43513",
       "cityName": "球磨村",
       "wikiName": "球磨村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.kumamura.com/"
     },
     {
       "prefCode": 43,
       "cityCode": "43514",
       "cityName": "あさぎり町",
       "wikiName": "あさぎり町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.asagiri.lg.jp/"
     },
     {
       "prefCode": 43,
       "cityCode": "43531",
       "cityName": "苓北町",
       "wikiName": "苓北町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://reihoku-kumamoto.jp/"
     }
   ]
 }

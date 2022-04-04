@@ -6,308 +6,352 @@
       "cityCode": "08201",
       "cityName": "水戸市",
       "wikiName": "水戸市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.mito.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08202",
       "cityName": "日立市",
       "wikiName": "日立市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hitachi.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08203",
       "cityName": "土浦市",
       "wikiName": "土浦市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsuchiura.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08204",
       "cityName": "古河市",
       "wikiName": "古河市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ibaraki-koga.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08205",
       "cityName": "石岡市",
       "wikiName": "石岡市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ishioka.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08207",
       "cityName": "結城市",
       "wikiName": "結城市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yuki.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08208",
       "cityName": "龍ケ崎市",
       "wikiName": "龍ケ崎市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ryugasaki.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08210",
       "cityName": "下妻市",
       "wikiName": "下妻市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shimotsuma.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08211",
       "cityName": "常総市",
       "wikiName": "常総市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.joso.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08212",
       "cityName": "常陸太田市",
       "wikiName": "常陸太田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.hitachiota.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08214",
       "cityName": "高萩市",
       "wikiName": "高萩市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.takahagi.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08215",
       "cityName": "北茨城市",
       "wikiName": "北茨城市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kitaibaraki.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08216",
       "cityName": "笠間市",
       "wikiName": "笠間市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kasama.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08217",
       "cityName": "取手市",
       "wikiName": "取手市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.toride.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08219",
       "cityName": "牛久市",
       "wikiName": "牛久市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.ushiku.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08220",
       "cityName": "つくば市",
       "wikiName": "つくば市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsukuba.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08221",
       "cityName": "ひたちなか市",
       "wikiName": "ひたちなか市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hitachinaka.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08222",
       "cityName": "鹿嶋市",
       "wikiName": "鹿嶋市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kashima.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08223",
       "cityName": "潮来市",
       "wikiName": "潮来市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.itako.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08224",
       "cityName": "守谷市",
       "wikiName": "守谷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.moriya.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08225",
       "cityName": "常陸大宮市",
       "wikiName": "常陸大宮市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.hitachiomiya.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08226",
       "cityName": "那珂市",
       "wikiName": "那珂市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.naka.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08227",
       "cityName": "筑西市",
       "wikiName": "筑西市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.chikusei.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08228",
       "cityName": "坂東市",
       "wikiName": "坂東市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.bando.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08229",
       "cityName": "稲敷市",
       "wikiName": "稲敷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.inashiki.lg.jp/index.html"
     },
     {
       "prefCode": 8,
       "cityCode": "08230",
       "cityName": "かすみがうら市",
       "wikiName": "かすみがうら市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kasumigaura.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08231",
       "cityName": "桜川市",
       "wikiName": "桜川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.sakuragawa.lg.jp/index.html"
     },
     {
       "prefCode": 8,
       "cityCode": "08232",
       "cityName": "神栖市",
       "wikiName": "神栖市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kamisu.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08233",
       "cityName": "行方市",
       "wikiName": "行方市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.namegata.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08234",
       "cityName": "鉾田市",
       "wikiName": "鉾田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hokota.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08235",
       "cityName": "つくばみらい市",
       "wikiName": "つくばみらい市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsukubamirai.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08236",
       "cityName": "小美玉市",
       "wikiName": "小美玉市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.omitama.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08302",
       "cityName": "茨城町",
       "wikiName": "茨城町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ibaraki.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08309",
       "cityName": "大洗町",
       "wikiName": "大洗町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.oarai.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08310",
       "cityName": "城里町",
       "wikiName": "城里町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shirosato.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08341",
       "cityName": "東海村",
       "wikiName": "東海村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.tokai.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08364",
       "cityName": "大子町",
       "wikiName": "大子町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.daigo.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08442",
       "cityName": "美浦村",
       "wikiName": "美浦村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.miho.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08443",
       "cityName": "阿見町",
       "wikiName": "阿見町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ami.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08447",
       "cityName": "河内町",
       "wikiName": "河内町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ibaraki-kawachi.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08521",
       "cityName": "八千代町",
       "wikiName": "八千代町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ibaraki-yachiyo.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08542",
       "cityName": "五霞町",
       "wikiName": "五霞町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.goka.lg.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08546",
       "cityName": "境町",
       "wikiName": "境町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.sakai.ibaraki.jp/"
     },
     {
       "prefCode": 8,
       "cityCode": "08564",
       "cityName": "利根町",
       "wikiName": "利根町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.tone.ibaraki.jp/"
     }
   ]
 }

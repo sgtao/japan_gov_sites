@@ -6,350 +6,400 @@
       "cityCode": "28100",
       "cityName": "神戸市",
       "wikiName": "神戸市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.kobe.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28101",
       "cityName": "神戸市東灘区",
       "wikiName": "東灘区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/higashinadaku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28102",
       "cityName": "神戸市灘区",
       "wikiName": "灘区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/nadaku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28105",
       "cityName": "神戸市兵庫区",
       "wikiName": "兵庫区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/hyogoku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28106",
       "cityName": "神戸市長田区",
       "wikiName": "長田区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/nagataku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28107",
       "cityName": "神戸市須磨区",
       "wikiName": "須磨区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/sumaku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28108",
       "cityName": "神戸市垂水区",
       "wikiName": "垂水区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/tarumiku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28109",
       "cityName": "神戸市北区",
       "wikiName": "北区_(神戸市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/kitaku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28110",
       "cityName": "神戸市中央区",
       "wikiName": "中央区_(神戸市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/chuoku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28111",
       "cityName": "神戸市西区",
       "wikiName": "西区_(神戸市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.kobe.lg.jp/kuyakusho/nishiku/"
     },
     {
       "prefCode": 28,
       "cityCode": "28201",
       "cityName": "姫路市",
       "wikiName": "姫路市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.himeji.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28202",
       "cityName": "尼崎市",
       "wikiName": "尼崎市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.amagasaki.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28203",
       "cityName": "明石市",
       "wikiName": "明石市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.akashi.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28204",
       "cityName": "西宮市",
       "wikiName": "西宮市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.nishi.or.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28205",
       "cityName": "洲本市",
       "wikiName": "洲本市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sumoto.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28206",
       "cityName": "芦屋市",
       "wikiName": "芦屋市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ashiya.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28207",
       "cityName": "伊丹市",
       "wikiName": "伊丹市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.itami.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28208",
       "cityName": "相生市",
       "wikiName": "相生市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.aioi.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28209",
       "cityName": "豊岡市",
       "wikiName": "豊岡市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.toyooka.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28210",
       "cityName": "加古川市",
       "wikiName": "加古川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kakogawa.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28212",
       "cityName": "赤穂市",
       "wikiName": "赤穂市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ako.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28213",
       "cityName": "西脇市",
       "wikiName": "西脇市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nishiwaki.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28214",
       "cityName": "宝塚市",
       "wikiName": "宝塚市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.takarazuka.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28215",
       "cityName": "三木市",
       "wikiName": "三木市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.miki.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28216",
       "cityName": "高砂市",
       "wikiName": "高砂市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.takasago.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28217",
       "cityName": "川西市",
       "wikiName": "川西市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kawanishi.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28218",
       "cityName": "小野市",
       "wikiName": "小野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ono.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28219",
       "cityName": "三田市",
       "wikiName": "三田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sanda.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28220",
       "cityName": "加西市",
       "wikiName": "加西市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kasai.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28221",
       "cityName": "丹波篠山市",
       "wikiName": "丹波篠山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sasayama.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28222",
       "cityName": "養父市",
       "wikiName": "養父市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yabu.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28223",
       "cityName": "丹波市",
       "wikiName": "丹波市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tamba.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28224",
       "cityName": "南あわじ市",
       "wikiName": "南あわじ市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minamiawaji.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28225",
       "cityName": "朝来市",
       "wikiName": "朝来市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.asago.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28226",
       "cityName": "淡路市",
       "wikiName": "淡路市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.awaji.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28227",
       "cityName": "宍粟市",
       "wikiName": "宍粟市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shiso.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28228",
       "cityName": "加東市",
       "wikiName": "加東市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kato.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28229",
       "cityName": "たつの市",
       "wikiName": "たつの市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tatsuno.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28301",
       "cityName": "猪名川町",
       "wikiName": "猪名川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.inagawa.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28365",
       "cityName": "多可町",
       "wikiName": "多可町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.taka.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28381",
       "cityName": "稲美町",
       "wikiName": "稲美町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hyogo-inami.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28382",
       "cityName": "播磨町",
       "wikiName": "播磨町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.harima.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28442",
       "cityName": "市川町",
       "wikiName": "市川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ichikawa.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28443",
       "cityName": "福崎町",
       "wikiName": "福崎町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.fukusaki.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28446",
       "cityName": "神河町",
       "wikiName": "神河町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kamikawa.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28464",
       "cityName": "太子町",
       "wikiName": "太子町_(兵庫県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.hyogo-taishi.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28481",
       "cityName": "上郡町",
       "wikiName": "上郡町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kamigori.hyogo.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28501",
       "cityName": "佐用町",
       "wikiName": "佐用町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.sayo.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28585",
       "cityName": "香美町",
       "wikiName": "香美町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.mikata-kami.lg.jp/"
     },
     {
       "prefCode": 28,
       "cityCode": "28586",
       "cityName": "新温泉町",
       "wikiName": "新温泉町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shinonsen.hyogo.jp/"
     }
   ]
 }

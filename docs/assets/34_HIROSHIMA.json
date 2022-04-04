@@ -6,217 +6,248 @@
       "cityCode": "34100",
       "cityName": "広島市",
       "wikiName": "広島市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.hiroshima.lg.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34101",
       "cityName": "広島市中区",
       "wikiName": "中区_(広島市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/nakaku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34102",
       "cityName": "広島市東区",
       "wikiName": "東区_(広島市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/higashiku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34103",
       "cityName": "広島市南区",
       "wikiName": "南区_(広島市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/minamiku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34104",
       "cityName": "広島市西区",
       "wikiName": "西区_(広島市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/nishiku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34105",
       "cityName": "広島市安佐南区",
       "wikiName": "安佐南区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/asaminamiku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34106",
       "cityName": "広島市安佐北区",
       "wikiName": "安佐北区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/asakitaku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34107",
       "cityName": "広島市安芸区",
       "wikiName": "安芸区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/akiku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34108",
       "cityName": "広島市佐伯区",
       "wikiName": "佐伯区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.hiroshima.lg.jp/site/saekiku/"
     },
     {
       "prefCode": 34,
       "cityCode": "34202",
       "cityName": "呉市",
       "wikiName": "呉市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kure.lg.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34203",
       "cityName": "竹原市",
       "wikiName": "竹原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.takehara.lg.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34204",
       "cityName": "三原市",
       "wikiName": "三原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.mihara.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34205",
       "cityName": "尾道市",
       "wikiName": "尾道市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.onomichi.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34207",
       "cityName": "福山市",
       "wikiName": "福山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fukuyama.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34208",
       "cityName": "府中市",
       "wikiName": "府中市_(広島県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fuchu.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34209",
       "cityName": "三次市",
       "wikiName": "三次市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.miyoshi.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34210",
       "cityName": "庄原市",
       "wikiName": "庄原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shobara.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34211",
       "cityName": "大竹市",
       "wikiName": "大竹市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.otake.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34212",
       "cityName": "東広島市",
       "wikiName": "東広島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.higashihiroshima.lg.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34213",
       "cityName": "廿日市市",
       "wikiName": "廿日市市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hatsukaichi.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34214",
       "cityName": "安芸高田市",
       "wikiName": "安芸高田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.akitakata.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34215",
       "cityName": "江田島市",
       "wikiName": "江田島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.etajima.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34302",
       "cityName": "府中町",
       "wikiName": "府中町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.fuchu.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34304",
       "cityName": "海田町",
       "wikiName": "海田町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kaita.lg.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34307",
       "cityName": "熊野町",
       "wikiName": "熊野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kumano.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34309",
       "cityName": "坂町",
       "wikiName": "坂町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.saka.lg.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34368",
       "cityName": "安芸太田町",
       "wikiName": "安芸太田町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.akiota.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34369",
       "cityName": "北広島町",
       "wikiName": "北広島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kitahiroshima.lg.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34431",
       "cityName": "大崎上島町",
       "wikiName": "大崎上島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.osakikamijima.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34462",
       "cityName": "世羅町",
       "wikiName": "世羅町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.sera.hiroshima.jp/"
     },
     {
       "prefCode": 34,
       "cityCode": "34545",
       "cityName": "神石高原町",
       "wikiName": "神石高原町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.jinsekigun.jp/"
     }
   ]
 }

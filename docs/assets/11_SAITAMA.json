@@ -6,511 +6,584 @@
       "cityCode": "11100",
       "cityName": "さいたま市",
       "wikiName": "さいたま市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11101",
       "cityName": "さいたま市西区",
       "wikiName": "西区_(さいたま市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/nishi/"
     },
     {
       "prefCode": 11,
       "cityCode": "11102",
       "cityName": "さいたま市北区",
       "wikiName": "北区_(さいたま市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/kita/"
     },
     {
       "prefCode": 11,
       "cityCode": "11103",
       "cityName": "さいたま市大宮区",
       "wikiName": "大宮区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/omiya/"
     },
     {
       "prefCode": 11,
       "cityCode": "11104",
       "cityName": "さいたま市見沼区",
       "wikiName": "見沼区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/minuma/"
     },
     {
       "prefCode": 11,
       "cityCode": "11105",
       "cityName": "さいたま市中央区",
       "wikiName": "中央区_(さいたま市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/chuo/"
     },
     {
       "prefCode": 11,
       "cityCode": "11106",
       "cityName": "さいたま市桜区",
       "wikiName": "桜区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/sakura/"
     },
     {
       "prefCode": 11,
       "cityCode": "11107",
       "cityName": "さいたま市浦和区",
       "wikiName": "浦和区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/urawa/"
     },
     {
       "prefCode": 11,
       "cityCode": "11108",
       "cityName": "さいたま市南区",
       "wikiName": "南区_(さいたま市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/minami/"
     },
     {
       "prefCode": 11,
       "cityCode": "11109",
       "cityName": "さいたま市緑区",
       "wikiName": "緑区_(さいたま市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/midori/"
     },
     {
       "prefCode": 11,
       "cityCode": "11110",
       "cityName": "さいたま市岩槻区",
       "wikiName": "岩槻区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.saitama.jp/iwatsuki/"
     },
     {
       "prefCode": 11,
       "cityCode": "11201",
       "cityName": "川越市",
       "wikiName": "川越市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kawagoe.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11202",
       "cityName": "熊谷市",
       "wikiName": "熊谷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kumagaya.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11203",
       "cityName": "川口市",
       "wikiName": "川口市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kawaguchi.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11206",
       "cityName": "行田市",
       "wikiName": "行田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.gyoda.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11207",
       "cityName": "秩父市",
       "wikiName": "秩父市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.chichibu.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11208",
       "cityName": "所沢市",
       "wikiName": "所沢市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tokorozawa.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11209",
       "cityName": "飯能市",
       "wikiName": "飯能市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hanno.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11210",
       "cityName": "加須市",
       "wikiName": "加須市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kazo.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11211",
       "cityName": "本庄市",
       "wikiName": "本庄市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.honjo.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11212",
       "cityName": "東松山市",
       "wikiName": "東松山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.higashimatsuyama.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11214",
       "cityName": "春日部市",
       "wikiName": "春日部市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kasukabe.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11215",
       "cityName": "狭山市",
       "wikiName": "狭山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sayama.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11216",
       "cityName": "羽生市",
       "wikiName": "羽生市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hanyu.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11217",
       "cityName": "鴻巣市",
       "wikiName": "鴻巣市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kounosu.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11218",
       "cityName": "深谷市",
       "wikiName": "深谷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.fukaya.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11219",
       "cityName": "上尾市",
       "wikiName": "上尾市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ageo.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11221",
       "cityName": "草加市",
       "wikiName": "草加市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.soka.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11222",
       "cityName": "越谷市",
       "wikiName": "越谷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.koshigaya.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11223",
       "cityName": "蕨市",
       "wikiName": "蕨市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.warabi.saitama.jp/index.htm"
     },
     {
       "prefCode": 11,
       "cityCode": "11224",
       "cityName": "戸田市",
       "wikiName": "戸田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.toda.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11225",
       "cityName": "入間市",
       "wikiName": "入間市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.iruma.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11227",
       "cityName": "朝霞市",
       "wikiName": "朝霞市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.asaka.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11228",
       "cityName": "志木市",
       "wikiName": "志木市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shiki.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11229",
       "cityName": "和光市",
       "wikiName": "和光市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.wako.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11230",
       "cityName": "新座市",
       "wikiName": "新座市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.niiza.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11231",
       "cityName": "桶川市",
       "wikiName": "桶川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.okegawa.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11232",
       "cityName": "久喜市",
       "wikiName": "久喜市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kuki.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11233",
       "cityName": "北本市",
       "wikiName": "北本市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kitamoto.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11234",
       "cityName": "八潮市",
       "wikiName": "八潮市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yashio.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11235",
       "cityName": "富士見市",
       "wikiName": "富士見市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fujimi.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11237",
       "cityName": "三郷市",
       "wikiName": "三郷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.misato.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11238",
       "cityName": "蓮田市",
       "wikiName": "蓮田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hasuda.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11239",
       "cityName": "坂戸市",
       "wikiName": "坂戸市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sakado.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11240",
       "cityName": "幸手市",
       "wikiName": "幸手市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.satte.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11241",
       "cityName": "鶴ヶ島市",
       "wikiName": "鶴ヶ島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsurugashima.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11242",
       "cityName": "日高市",
       "wikiName": "日高市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hidaka.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11243",
       "cityName": "吉川市",
       "wikiName": "吉川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yoshikawa.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11245",
       "cityName": "ふじみ野市",
       "wikiName": "ふじみ野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fujimino.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11246",
       "cityName": "白岡市",
       "wikiName": "白岡市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.shiraoka.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11301",
       "cityName": "伊奈町",
       "wikiName": "伊奈町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.saitama-ina.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11324",
       "cityName": "三芳町",
       "wikiName": "三芳町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.saitama-miyoshi.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11326",
       "cityName": "毛呂山町",
       "wikiName": "毛呂山町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.moroyama.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11327",
       "cityName": "越生町",
       "wikiName": "越生町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ogose.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11341",
       "cityName": "滑川町",
       "wikiName": "滑川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.namegawa.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11342",
       "cityName": "嵐山町",
       "wikiName": "嵐山町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ranzan.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11343",
       "cityName": "小川町",
       "wikiName": "小川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ogawa.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11346",
       "cityName": "川島町",
       "wikiName": "川島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kawajima.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11347",
       "cityName": "吉見町",
       "wikiName": "吉見町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yoshimi.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11348",
       "cityName": "鳩山町",
       "wikiName": "鳩山町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.hatoyama.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11349",
       "cityName": "ときがわ町",
       "wikiName": "ときがわ町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tokigawa.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11361",
       "cityName": "横瀬町",
       "wikiName": "横瀬町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yokoze.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11362",
       "cityName": "皆野町",
       "wikiName": "皆野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.minano.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11363",
       "cityName": "長瀞町",
       "wikiName": "長瀞町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nagatoro.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11365",
       "cityName": "小鹿野町",
       "wikiName": "小鹿野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ogano.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11369",
       "cityName": "東秩父村",
       "wikiName": "東秩父村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.higashichichibu.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11381",
       "cityName": "美里町",
       "wikiName": "美里町_(埼玉県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.saitama-misato.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11383",
       "cityName": "神川町",
       "wikiName": "神川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kamikawa.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11385",
       "cityName": "上里町",
       "wikiName": "上里町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kamisato.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11408",
       "cityName": "寄居町",
       "wikiName": "寄居町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yorii.saitama.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11442",
       "cityName": "宮代町",
       "wikiName": "宮代町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miyashiro.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11464",
       "cityName": "杉戸町",
       "wikiName": "杉戸町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.sugito.lg.jp/"
     },
     {
       "prefCode": 11,
       "cityCode": "11465",
       "cityName": "松伏町",
       "wikiName": "松伏町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.matsubushi.lg.jp/"
     }
   ]
 }

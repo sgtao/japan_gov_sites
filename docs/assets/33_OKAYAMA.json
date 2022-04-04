@@ -6,217 +6,248 @@
       "cityCode": "33100",
       "cityName": "岡山市",
       "wikiName": "岡山市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33101",
       "cityName": "岡山市北区",
       "wikiName": "北区_(岡山市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.okayama.jp/kitaku/"
     },
     {
       "prefCode": 33,
       "cityCode": "33102",
       "cityName": "岡山市中区",
       "wikiName": "中区_(岡山市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.okayama.jp/nakaku/"
     },
     {
       "prefCode": 33,
       "cityCode": "33103",
       "cityName": "岡山市東区",
       "wikiName": "東区_(岡山市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.okayama.jp/higashiku/"
     },
     {
       "prefCode": 33,
       "cityCode": "33104",
       "cityName": "岡山市南区",
       "wikiName": "南区_(岡山市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.okayama.jp/minamiku/"
     },
     {
       "prefCode": 33,
       "cityCode": "33202",
       "cityName": "倉敷市",
       "wikiName": "倉敷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kurashiki.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33203",
       "cityName": "津山市",
       "wikiName": "津山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsuyama.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33204",
       "cityName": "玉野市",
       "wikiName": "玉野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tamano.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33205",
       "cityName": "笠岡市",
       "wikiName": "笠岡市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kasaoka.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33207",
       "cityName": "井原市",
       "wikiName": "井原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.ibara.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33208",
       "cityName": "総社市",
       "wikiName": "総社市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.soja.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33209",
       "cityName": "高梁市",
       "wikiName": "高梁市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.takahashi.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33210",
       "cityName": "新見市",
       "wikiName": "新見市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.niimi.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33211",
       "cityName": "備前市",
       "wikiName": "備前市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.bizen.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33212",
       "cityName": "瀬戸内市",
       "wikiName": "瀬戸内市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.setouchi.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33213",
       "cityName": "赤磐市",
       "wikiName": "赤磐市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.akaiwa.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33214",
       "cityName": "真庭市",
       "wikiName": "真庭市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.maniwa.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33215",
       "cityName": "美作市",
       "wikiName": "美作市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.mimasaka.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33216",
       "cityName": "浅口市",
       "wikiName": "浅口市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.asakuchi.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33346",
       "cityName": "和気町",
       "wikiName": "和気町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.wake.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33423",
       "cityName": "早島町",
       "wikiName": "早島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.hayashima.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33445",
       "cityName": "里庄町",
       "wikiName": "里庄町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.satosho.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33461",
       "cityName": "矢掛町",
       "wikiName": "矢掛町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yakage.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33586",
       "cityName": "新庄村",
       "wikiName": "新庄村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.shinjo.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33606",
       "cityName": "鏡野町",
       "wikiName": "鏡野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kagamino.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33622",
       "cityName": "勝央町",
       "wikiName": "勝央町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.shoo.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33623",
       "cityName": "奈義町",
       "wikiName": "奈義町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nagi.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33643",
       "cityName": "西粟倉村",
       "wikiName": "西粟倉村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.nishiawakura.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33663",
       "cityName": "久米南町",
       "wikiName": "久米南町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kumenan.lg.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33666",
       "cityName": "美咲町",
       "wikiName": "美咲町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.misaki.okayama.jp/"
     },
     {
       "prefCode": 33,
       "cityCode": "33681",
       "cityName": "吉備中央町",
       "wikiName": "吉備中央町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kibichuo.lg.jp/"
     }
   ]
 }

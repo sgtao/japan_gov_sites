@@ -6,301 +6,344 @@
       "cityCode": "46201",
       "cityName": "鹿児島市",
       "wikiName": "鹿児島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kagoshima.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46203",
       "cityName": "鹿屋市",
       "wikiName": "鹿屋市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kanoya.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46204",
       "cityName": "枕崎市",
       "wikiName": "枕崎市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.makurazaki.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46206",
       "cityName": "阿久根市",
       "wikiName": "阿久根市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.akune.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46208",
       "cityName": "出水市",
       "wikiName": "出水市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kagoshima-izumi.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46210",
       "cityName": "指宿市",
       "wikiName": "指宿市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ibusuki.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46213",
       "cityName": "西之表市",
       "wikiName": "西之表市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.nishinoomote.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46214",
       "cityName": "垂水市",
       "wikiName": "垂水市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tarumizu.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46215",
       "cityName": "薩摩川内市",
       "wikiName": "薩摩川内市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.satsumasendai.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46216",
       "cityName": "日置市",
       "wikiName": "日置市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hioki.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46217",
       "cityName": "曽於市",
       "wikiName": "曽於市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.soo.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46218",
       "cityName": "霧島市",
       "wikiName": "霧島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city-kirishima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46219",
       "cityName": "いちき串木野市",
       "wikiName": "いちき串木野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ichikikushikino.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46220",
       "cityName": "南さつま市",
       "wikiName": "南さつま市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.minamisatsuma.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46221",
       "cityName": "志布志市",
       "wikiName": "志布志市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.shibushi.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46222",
       "cityName": "奄美市",
       "wikiName": "奄美市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.amami.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46223",
       "cityName": "南九州市",
       "wikiName": "南九州市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minamikyushu.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46224",
       "cityName": "伊佐市",
       "wikiName": "伊佐市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.isa.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46225",
       "cityName": "姶良市",
       "wikiName": "姶良市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.aira.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46303",
       "cityName": "三島村",
       "wikiName": "三島村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://mishimamura.com/"
     },
     {
       "prefCode": 46,
       "cityCode": "46304",
       "cityName": "十島村",
       "wikiName": "十島村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.tokara.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46392",
       "cityName": "さつま町",
       "wikiName": "さつま町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.satsuma-net.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46404",
       "cityName": "長島町",
       "wikiName": "長島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nagashima.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46452",
       "cityName": "湧水町",
       "wikiName": "湧水町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yusui.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46468",
       "cityName": "大崎町",
       "wikiName": "大崎町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kagoshima-osaki.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46482",
       "cityName": "東串良町",
       "wikiName": "東串良町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.higashikushira.com/"
     },
     {
       "prefCode": 46,
       "cityCode": "46490",
       "cityName": "錦江町",
       "wikiName": "錦江町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kinko.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46491",
       "cityName": "南大隅町",
       "wikiName": "南大隅町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.minamiosumi.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46492",
       "cityName": "肝付町",
       "wikiName": "肝付町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://kimotsuki-town.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46501",
       "cityName": "中種子町",
       "wikiName": "中種子町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://town.nakatane.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46502",
       "cityName": "南種子町",
       "wikiName": "南種子町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.minamitane.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46505",
       "cityName": "屋久島町",
       "wikiName": "屋久島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yakushima.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46523",
       "cityName": "大和村",
       "wikiName": "大和村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.yamato.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46524",
       "cityName": "宇検村",
       "wikiName": "宇検村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.uken.net/"
     },
     {
       "prefCode": 46,
       "cityCode": "46525",
       "cityName": "瀬戸内町",
       "wikiName": "瀬戸内町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.setouchi.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46527",
       "cityName": "龍郷町",
       "wikiName": "龍郷町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tatsugo.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46529",
       "cityName": "喜界町",
       "wikiName": "喜界町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kikai.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46530",
       "cityName": "徳之島町",
       "wikiName": "徳之島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.tokunoshima-town.org/"
     },
     {
       "prefCode": 46,
       "cityCode": "46531",
       "cityName": "天城町",
       "wikiName": "天城町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.amagi.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46532",
       "cityName": "伊仙町",
       "wikiName": "伊仙町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.isen.kagoshima.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46533",
       "cityName": "和泊町",
       "wikiName": "和泊町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.wadomari.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46534",
       "cityName": "知名町",
       "wikiName": "知名町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.china.lg.jp/"
     },
     {
       "prefCode": 46,
       "cityCode": "46535",
       "cityName": "与論町",
       "wikiName": "与論町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.yoron.jp/"
     }
   ]
 }

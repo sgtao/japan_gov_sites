@@ -6,119 +6,136 @@
       "cityCode": "37201",
       "cityName": "高松市",
       "wikiName": "高松市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.takamatsu.kagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37202",
       "cityName": "丸亀市",
       "wikiName": "丸亀市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.marugame.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37203",
       "cityName": "坂出市",
       "wikiName": "坂出市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sakaide.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37204",
       "cityName": "善通寺市",
       "wikiName": "善通寺市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.zentsuji.kagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37205",
       "cityName": "観音寺市",
       "wikiName": "観音寺市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kanonji.kagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37206",
       "cityName": "さぬき市",
       "wikiName": "さぬき市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sanuki.kagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37207",
       "cityName": "東かがわ市",
       "wikiName": "東かがわ市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.higashikagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37208",
       "cityName": "三豊市",
       "wikiName": "三豊市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.mitoyo.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37322",
       "cityName": "土庄町",
       "wikiName": "土庄町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tonosho.kagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37324",
       "cityName": "小豆島町",
       "wikiName": "小豆島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shodoshima.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37341",
       "cityName": "三木町",
       "wikiName": "三木町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miki.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37364",
       "cityName": "直島町",
       "wikiName": "直島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.naoshima.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37386",
       "cityName": "宇多津町",
       "wikiName": "宇多津町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.utazu.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37387",
       "cityName": "綾川町",
       "wikiName": "綾川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ayagawa.lg.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37403",
       "cityName": "琴平町",
       "wikiName": "琴平町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kotohira.kagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37404",
       "cityName": "多度津町",
       "wikiName": "多度津町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tadotsu.kagawa.jp/"
     },
     {
       "prefCode": 37,
       "cityCode": "37406",
       "cityName": "まんのう町",
       "wikiName": "まんのう町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.manno.lg.jp/"
     }
   ]
 }

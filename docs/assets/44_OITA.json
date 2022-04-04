@@ -6,126 +6,144 @@
       "cityCode": "44201",
       "cityName": "大分市",
       "wikiName": "大分市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.oita.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44202",
       "cityName": "別府市",
       "wikiName": "別府市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.beppu.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44203",
       "cityName": "中津市",
       "wikiName": "中津市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city-nakatsu.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44204",
       "cityName": "日田市",
       "wikiName": "日田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hita.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44205",
       "cityName": "佐伯市",
       "wikiName": "佐伯市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.saiki.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44206",
       "cityName": "臼杵市",
       "wikiName": "臼杵市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.usuki.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44207",
       "cityName": "津久見市",
       "wikiName": "津久見市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsukumi.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44208",
       "cityName": "竹田市",
       "wikiName": "竹田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.taketa.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44209",
       "cityName": "豊後高田市",
       "wikiName": "豊後高田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.bungotakada.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44210",
       "cityName": "杵築市",
       "wikiName": "杵築市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kitsuki.lg.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44211",
       "cityName": "宇佐市",
       "wikiName": "宇佐市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.usa.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44212",
       "cityName": "豊後大野市",
       "wikiName": "豊後大野市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.bungo-ohno.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44213",
       "cityName": "由布市",
       "wikiName": "由布市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yufu.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44214",
       "cityName": "国東市",
       "wikiName": "国東市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kunisaki.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44322",
       "cityName": "姫島村",
       "wikiName": "姫島村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.himeshima.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44341",
       "cityName": "日出町",
       "wikiName": "日出町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hiji.lg.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44461",
       "cityName": "九重町",
       "wikiName": "九重町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kokonoe.oita.jp/"
     },
     {
       "prefCode": 44,
       "cityCode": "44462",
       "cityName": "玖珠町",
       "wikiName": "玖珠町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kusu.oita.jp/"
     }
   ]
 }

@@ -6,280 +6,320 @@
       "cityCode": "04100",
       "cityName": "仙台市",
       "wikiName": "仙台市",
-      "bigCityFlag": "2"
+      "bigCityFlag": "2",
+      "cityURL": "https://www.city.sendai.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04101",
       "cityName": "仙台市青葉区",
       "wikiName": "青葉区_(仙台市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.sendai.jp/aobaku/"
     },
     {
       "prefCode": 4,
       "cityCode": "04102",
       "cityName": "仙台市宮城野区",
       "wikiName": "宮城野区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.sendai.jp/miyaginoku/"
     },
     {
       "prefCode": 4,
       "cityCode": "04103",
       "cityName": "仙台市若林区",
       "wikiName": "若林区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.sendai.jp/wakabayashiku/"
     },
     {
       "prefCode": 4,
       "cityCode": "04104",
       "cityName": "仙台市太白区",
       "wikiName": "太白区",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.sendai.jp/taihakuku/"
     },
     {
       "prefCode": 4,
       "cityCode": "04105",
       "cityName": "仙台市泉区",
       "wikiName": "泉区_(仙台市)",
-      "bigCityFlag": "1"
+      "bigCityFlag": "1",
+      "cityURL": "https://www.city.sendai.jp/izumiku/"
     },
     {
       "prefCode": 4,
       "cityCode": "04202",
       "cityName": "石巻市",
       "wikiName": "石巻市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ishinomaki.lg.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04203",
       "cityName": "塩竈市",
       "wikiName": "塩竈市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shiogama.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04205",
       "cityName": "気仙沼市",
       "wikiName": "気仙沼市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.kesennuma.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04206",
       "cityName": "白石市",
       "wikiName": "白石市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shiroishi.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04207",
       "cityName": "名取市",
       "wikiName": "名取市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.natori.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04208",
       "cityName": "角田市",
       "wikiName": "角田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kakuda.lg.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04209",
       "cityName": "多賀城市",
       "wikiName": "多賀城市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tagajo.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04211",
       "cityName": "岩沼市",
       "wikiName": "岩沼市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.iwanuma.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04212",
       "cityName": "登米市",
       "wikiName": "登米市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tome.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04213",
       "cityName": "栗原市",
       "wikiName": "栗原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.kuriharacity.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04214",
       "cityName": "東松島市",
       "wikiName": "東松島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.higashimatsushima.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04215",
       "cityName": "大崎市",
       "wikiName": "大崎市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.osaki.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04216",
       "cityName": "富谷市",
       "wikiName": "富谷市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.tomiya-city.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04301",
       "cityName": "蔵王町",
       "wikiName": "蔵王町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.zao.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04302",
       "cityName": "七ヶ宿町",
       "wikiName": "七ヶ宿町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://town.shichikashuku.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04321",
       "cityName": "大河原町",
       "wikiName": "大河原町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ogawara.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04322",
       "cityName": "村田町",
       "wikiName": "村田町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.murata.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04323",
       "cityName": "柴田町",
       "wikiName": "柴田町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shibata.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04324",
       "cityName": "川崎町",
       "wikiName": "川崎町_(宮城県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kawasaki.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04341",
       "cityName": "丸森町",
       "wikiName": "丸森町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.marumori.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04361",
       "cityName": "亘理町",
       "wikiName": "亘理町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.watari.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04362",
       "cityName": "山元町",
       "wikiName": "山元町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.yamamoto.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04401",
       "cityName": "松島町",
       "wikiName": "松島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miyagi-matsushima.lg.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04404",
       "cityName": "七ヶ浜町",
       "wikiName": "七ヶ浜町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.shichigahama.com/"
     },
     {
       "prefCode": 4,
       "cityCode": "04406",
       "cityName": "利府町",
       "wikiName": "利府町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.rifu.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04421",
       "cityName": "大和町",
       "wikiName": "大和町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.taiwa.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04422",
       "cityName": "大郷町",
       "wikiName": "大郷町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miyagi-osato.lg.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04424",
       "cityName": "大衡村",
       "wikiName": "大衡村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.village.ohira.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04444",
       "cityName": "色麻町",
       "wikiName": "色麻町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.shikama.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04445",
       "cityName": "加美町",
       "wikiName": "加美町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kami.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04501",
       "cityName": "涌谷町",
       "wikiName": "涌谷町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.wakuya.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04505",
       "cityName": "美里町",
       "wikiName": "美里町_(宮城県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.misato.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04581",
       "cityName": "女川町",
       "wikiName": "女川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.onagawa.miyagi.jp/"
     },
     {
       "prefCode": 4,
       "cityCode": "04606",
       "cityName": "南三陸町",
       "wikiName": "南三陸町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.minamisanriku.miyagi.jp/"
     }
   ]
 }

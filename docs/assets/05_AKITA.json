@@ -6,175 +6,200 @@
       "cityCode": "05201",
       "cityName": "秋田市",
       "wikiName": "秋田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.akita.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05202",
       "cityName": "能代市",
       "wikiName": "能代市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.noshiro.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05203",
       "cityName": "横手市",
       "wikiName": "横手市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yokote.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05204",
       "cityName": "大館市",
       "wikiName": "大館市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.odate.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05206",
       "cityName": "男鹿市",
       "wikiName": "男鹿市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.oga.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05207",
       "cityName": "湯沢市",
       "wikiName": "湯沢市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city-yuzawa.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05209",
       "cityName": "鹿角市",
       "wikiName": "鹿角市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kazuno.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05210",
       "cityName": "由利本荘市",
       "wikiName": "由利本荘市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yurihonjo.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05211",
       "cityName": "潟上市",
       "wikiName": "潟上市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.katagami.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05212",
       "cityName": "大仙市",
       "wikiName": "大仙市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.daisen.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05213",
       "cityName": "北秋田市",
       "wikiName": "北秋田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kitaakita.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05214",
       "cityName": "にかほ市",
       "wikiName": "にかほ市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nikaho.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05215",
       "cityName": "仙北市",
       "wikiName": "仙北市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.semboku.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05303",
       "cityName": "小坂町",
       "wikiName": "小坂町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kosaka.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05327",
       "cityName": "上小阿仁村",
       "wikiName": "上小阿仁村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.kamikoani.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05346",
       "cityName": "藤里町",
       "wikiName": "藤里町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.fujisato.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05348",
       "cityName": "三種町",
       "wikiName": "三種町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.mitane.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05349",
       "cityName": "八峰町",
       "wikiName": "八峰町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.happou.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05361",
       "cityName": "五城目町",
       "wikiName": "五城目町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.gojome.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05363",
       "cityName": "八郎潟町",
       "wikiName": "八郎潟町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hachirogata.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05366",
       "cityName": "井川町",
       "wikiName": "井川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ikawa.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05368",
       "cityName": "大潟村",
       "wikiName": "大潟村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.ogata.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05434",
       "cityName": "美郷町",
       "wikiName": "美郷町_(秋田県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.misato.akita.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05463",
       "cityName": "羽後町",
       "wikiName": "羽後町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ugo.lg.jp/"
     },
     {
       "prefCode": 5,
       "cityCode": "05464",
       "cityName": "東成瀬村",
       "wikiName": "東成瀬村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.higashinaruse.com/"
     }
   ]
 }

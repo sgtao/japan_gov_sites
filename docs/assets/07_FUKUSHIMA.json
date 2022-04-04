@@ -6,413 +6,472 @@
       "cityCode": "07201",
       "cityName": "福島市",
       "wikiName": "福島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fukushima.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07202",
       "cityName": "会津若松市",
       "wikiName": "会津若松市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.aizuwakamatsu.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07203",
       "cityName": "郡山市",
       "wikiName": "郡山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.koriyama.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07204",
       "cityName": "いわき市",
       "wikiName": "いわき市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.iwaki.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07205",
       "cityName": "白河市",
       "wikiName": "白河市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.shirakawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07207",
       "cityName": "須賀川市",
       "wikiName": "須賀川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sukagawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07208",
       "cityName": "喜多方市",
       "wikiName": "喜多方市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kitakata.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07209",
       "cityName": "相馬市",
       "wikiName": "相馬市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.soma.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07210",
       "cityName": "二本松市",
       "wikiName": "二本松市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nihonmatsu.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07211",
       "cityName": "田村市",
       "wikiName": "田村市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tamura.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07212",
       "cityName": "南相馬市",
       "wikiName": "南相馬市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minamisoma.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07213",
       "cityName": "伊達市",
       "wikiName": "伊達市_(福島県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fukushima-date.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07214",
       "cityName": "本宮市",
       "wikiName": "本宮市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.motomiya.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07301",
       "cityName": "桑折町",
       "wikiName": "桑折町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.koori.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07303",
       "cityName": "国見町",
       "wikiName": "国見町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kunimi.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07308",
       "cityName": "川俣町",
       "wikiName": "川俣町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kawamata.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07322",
       "cityName": "大玉村",
       "wikiName": "大玉村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.otama.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07342",
       "cityName": "鏡石町",
       "wikiName": "鏡石町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kagamiishi.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07344",
       "cityName": "天栄村",
       "wikiName": "天栄村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.tenei.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07362",
       "cityName": "下郷町",
       "wikiName": "下郷町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shimogo.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07364",
       "cityName": "檜枝岐村",
       "wikiName": "檜枝岐村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.hinoemata.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07367",
       "cityName": "只見町",
       "wikiName": "只見町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tadami.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07368",
       "cityName": "南会津町",
       "wikiName": "南会津町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.minamiaizu.org/"
     },
     {
       "prefCode": 7,
       "cityCode": "07402",
       "cityName": "北塩原村",
       "wikiName": "北塩原村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.kitashiobara.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07405",
       "cityName": "西会津町",
       "wikiName": "西会津町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nishiaizu.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07407",
       "cityName": "磐梯町",
       "wikiName": "磐梯町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.bandai.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07408",
       "cityName": "猪苗代町",
       "wikiName": "猪苗代町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.inawashiro.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07421",
       "cityName": "会津坂下町",
       "wikiName": "会津坂下町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.aizubange.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07422",
       "cityName": "湯川村",
       "wikiName": "湯川村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.yugawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07423",
       "cityName": "柳津町",
       "wikiName": "柳津町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yanaizu.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07444",
       "cityName": "三島町",
       "wikiName": "三島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.mishima.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07445",
       "cityName": "金山町",
       "wikiName": "金山町_(福島県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kaneyama.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07446",
       "cityName": "昭和村",
       "wikiName": "昭和村_(福島県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.showa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07447",
       "cityName": "会津美里町",
       "wikiName": "会津美里町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.aizumisato.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07461",
       "cityName": "西郷村",
       "wikiName": "西郷村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.nishigo.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07464",
       "cityName": "泉崎村",
       "wikiName": "泉崎村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.izumizaki.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07465",
       "cityName": "中島村",
       "wikiName": "中島村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill-nakajima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07466",
       "cityName": "矢吹町",
       "wikiName": "矢吹町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yabuki.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07481",
       "cityName": "棚倉町",
       "wikiName": "棚倉町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.tanagura.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07482",
       "cityName": "矢祭町",
       "wikiName": "矢祭町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yamatsuri.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07483",
       "cityName": "塙町",
       "wikiName": "塙町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.hanawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07484",
       "cityName": "鮫川村",
       "wikiName": "鮫川村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.samegawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07501",
       "cityName": "石川町",
       "wikiName": "石川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ishikawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07502",
       "cityName": "玉川村",
       "wikiName": "玉川村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.tamakawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07503",
       "cityName": "平田村",
       "wikiName": "平田村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.hirata.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07504",
       "cityName": "浅川町",
       "wikiName": "浅川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.asakawa.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07505",
       "cityName": "古殿町",
       "wikiName": "古殿町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.furudono.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07521",
       "cityName": "三春町",
       "wikiName": "三春町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miharu.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07522",
       "cityName": "小野町",
       "wikiName": "小野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ono.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07541",
       "cityName": "広野町",
       "wikiName": "広野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hirono.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07542",
       "cityName": "楢葉町",
       "wikiName": "楢葉町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.naraha.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07543",
       "cityName": "富岡町",
       "wikiName": "富岡町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.tomioka-town.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07544",
       "cityName": "川内村",
       "wikiName": "川内村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.kawauchimura.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07545",
       "cityName": "大熊町",
       "wikiName": "大熊町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.okuma.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07546",
       "cityName": "双葉町",
       "wikiName": "双葉町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.fukushima-futaba.lg.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07547",
       "cityName": "浪江町",
       "wikiName": "浪江町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.namie.fukushima.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07548",
       "cityName": "葛尾村",
       "wikiName": "葛尾村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.katsurao.org/"
     },
     {
       "prefCode": 7,
       "cityCode": "07561",
       "cityName": "新地町",
       "wikiName": "新地町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.shinchi-town.jp/"
     },
     {
       "prefCode": 7,
       "cityCode": "07564",
       "cityName": "飯舘村",
       "wikiName": "飯舘村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.iitate.fukushima.jp/"
     }
   ]
 }

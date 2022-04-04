@@ -6,147 +6,168 @@
       "cityCode": "42201",
       "cityName": "長崎市",
       "wikiName": "長崎市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nagasaki.lg.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42202",
       "cityName": "佐世保市",
       "wikiName": "佐世保市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.sasebo.lg.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42203",
       "cityName": "島原市",
       "wikiName": "島原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shimabara.lg.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42204",
       "cityName": "諫早市",
       "wikiName": "諫早市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.isahaya.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42205",
       "cityName": "大村市",
       "wikiName": "大村市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.omura.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42207",
       "cityName": "平戸市",
       "wikiName": "平戸市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hirado.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42208",
       "cityName": "松浦市",
       "wikiName": "松浦市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city-matsuura.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42209",
       "cityName": "対馬市",
       "wikiName": "対馬市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.tsushima.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42210",
       "cityName": "壱岐市",
       "wikiName": "壱岐市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.iki.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42211",
       "cityName": "五島市",
       "wikiName": "五島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.goto.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42212",
       "cityName": "西海市",
       "wikiName": "西海市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.saikai.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42213",
       "cityName": "雲仙市",
       "wikiName": "雲仙市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.unzen.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42214",
       "cityName": "南島原市",
       "wikiName": "南島原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minamishimabara.lg.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42307",
       "cityName": "長与町",
       "wikiName": "長与町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://webtown.nagayo.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42308",
       "cityName": "時津町",
       "wikiName": "時津町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.togitsu.nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42321",
       "cityName": "東彼杵町",
       "wikiName": "東彼杵町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.higashisonogi.lg.jp/index.html"
     },
     {
       "prefCode": 42,
       "cityCode": "42322",
       "cityName": "川棚町",
       "wikiName": "川棚町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://kawatana.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42323",
       "cityName": "波佐見町",
       "wikiName": "波佐見町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hasami.lg.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42383",
       "cityName": "小値賀町",
       "wikiName": "小値賀町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://ojika.net/"
     },
     {
       "prefCode": 42,
       "cityCode": "42391",
       "cityName": "佐々町",
       "wikiName": "佐々町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.sazacho-nagasaki.jp/"
     },
     {
       "prefCode": 42,
       "cityCode": "42411",
       "cityName": "新上五島町",
       "wikiName": "新上五島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://official.shinkamigoto.net/"
     }
   ]
 }

@@ -6,182 +6,208 @@
       "cityCode": "45201",
       "cityName": "宮崎市",
       "wikiName": "宮崎市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.miyazaki.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45202",
       "cityName": "都城市",
       "wikiName": "都城市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.miyakonojo.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45203",
       "cityName": "延岡市",
       "wikiName": "延岡市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.nobeoka.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45204",
       "cityName": "日南市",
       "wikiName": "日南市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nichinan.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45205",
       "cityName": "小林市",
       "wikiName": "小林市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kobayashi.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45206",
       "cityName": "日向市",
       "wikiName": "日向市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.hyugacity.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45207",
       "cityName": "串間市",
       "wikiName": "串間市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kushima.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45208",
       "cityName": "西都市",
       "wikiName": "西都市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.saito-city.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45209",
       "cityName": "えびの市",
       "wikiName": "えびの市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ebino.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45341",
       "cityName": "三股町",
       "wikiName": "三股町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.mimata.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45361",
       "cityName": "高原町",
       "wikiName": "高原町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.takaharu.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45382",
       "cityName": "国富町",
       "wikiName": "国富町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kunitomi.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45383",
       "cityName": "綾町",
       "wikiName": "綾町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.aya.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45401",
       "cityName": "高鍋町",
       "wikiName": "高鍋町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.takanabe.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45402",
       "cityName": "新富町",
       "wikiName": "新富町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.shintomi.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45403",
       "cityName": "西米良村",
       "wikiName": "西米良村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.nishimera.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45404",
       "cityName": "木城町",
       "wikiName": "木城町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.kijo.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45405",
       "cityName": "川南町",
       "wikiName": "川南町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kawaminami.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45406",
       "cityName": "都農町",
       "wikiName": "都農町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tsuno.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45421",
       "cityName": "門川町",
       "wikiName": "門川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kadogawa.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45429",
       "cityName": "諸塚村",
       "wikiName": "諸塚村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.morotsuka.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45430",
       "cityName": "椎葉村",
       "wikiName": "椎葉村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.shiiba.miyazaki.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45431",
       "cityName": "美郷町",
       "wikiName": "美郷町_(宮崎県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.miyazaki-misato.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45441",
       "cityName": "高千穂町",
       "wikiName": "高千穂町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town-takachiho.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45442",
       "cityName": "日之影町",
       "wikiName": "日之影町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.hinokage.lg.jp/"
     },
     {
       "prefCode": 45,
       "cityCode": "45443",
       "cityName": "五ヶ瀬町",
       "wikiName": "五ヶ瀬町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.gokase.miyazaki.jp/"
     }
   ]
 }

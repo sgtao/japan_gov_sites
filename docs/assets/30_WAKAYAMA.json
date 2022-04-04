@@ -6,210 +6,240 @@
       "cityCode": "30201",
       "cityName": "和歌山市",
       "wikiName": "和歌山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.wakayama.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30202",
       "cityName": "海南市",
       "wikiName": "海南市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kainan.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30203",
       "cityName": "橋本市",
       "wikiName": "橋本市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hashimoto.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30204",
       "cityName": "有田市",
       "wikiName": "有田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.arida.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30205",
       "cityName": "御坊市",
       "wikiName": "御坊市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.gobo.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30206",
       "cityName": "田辺市",
       "wikiName": "田辺市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.tanabe.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30207",
       "cityName": "新宮市",
       "wikiName": "新宮市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shingu.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30208",
       "cityName": "紀の川市",
       "wikiName": "紀の川市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.kinokawa.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30209",
       "cityName": "岩出市",
       "wikiName": "岩出市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.iwade.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30304",
       "cityName": "紀美野町",
       "wikiName": "紀美野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kimino.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30341",
       "cityName": "かつらぎ町",
       "wikiName": "かつらぎ町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.katsuragi.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30343",
       "cityName": "九度山町",
       "wikiName": "九度山町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kudoyama.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30344",
       "cityName": "高野町",
       "wikiName": "高野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.koya.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30361",
       "cityName": "湯浅町",
       "wikiName": "湯浅町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yuasa.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30362",
       "cityName": "広川町",
       "wikiName": "広川町_(和歌山県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hirogawa.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30366",
       "cityName": "有田川町",
       "wikiName": "有田川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.aridagawa.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30381",
       "cityName": "美浜町",
       "wikiName": "美浜町_(和歌山県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.mihama.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30382",
       "cityName": "日高町",
       "wikiName": "日高町_(和歌山県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.wakayama-hidaka.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30383",
       "cityName": "由良町",
       "wikiName": "由良町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.yura.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30390",
       "cityName": "印南町",
       "wikiName": "印南町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.wakayama-inami.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30391",
       "cityName": "みなべ町",
       "wikiName": "みなべ町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.minabe.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30392",
       "cityName": "日高川町",
       "wikiName": "日高川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.hidakagawa.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30401",
       "cityName": "白浜町",
       "wikiName": "白浜町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.shirahama.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30404",
       "cityName": "上富田町",
       "wikiName": "上富田町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kamitonda.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30406",
       "cityName": "すさみ町",
       "wikiName": "すさみ町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.susami.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30421",
       "cityName": "那智勝浦町",
       "wikiName": "那智勝浦町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nachikatsuura.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30422",
       "cityName": "太地町",
       "wikiName": "太地町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.taiji.lg.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30424",
       "cityName": "古座川町",
       "wikiName": "古座川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kozagawa.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30427",
       "cityName": "北山村",
       "wikiName": "北山村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.kitayama.wakayama.jp/"
     },
     {
       "prefCode": 30,
       "cityCode": "30428",
       "cityName": "串本町",
       "wikiName": "串本町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kushimoto.wakayama.jp/"
     }
   ]
 }

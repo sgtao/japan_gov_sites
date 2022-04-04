@@ -6,189 +6,216 @@
       "cityCode": "19201",
       "cityName": "甲府市",
       "wikiName": "甲府市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kofu.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19202",
       "cityName": "富士吉田市",
       "wikiName": "富士吉田市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fujiyoshida.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19204",
       "cityName": "都留市",
       "wikiName": "都留市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tsuru.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19205",
       "cityName": "山梨市",
       "wikiName": "山梨市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yamanashi.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19206",
       "cityName": "大月市",
       "wikiName": "大月市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.otsuki.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19207",
       "cityName": "韮崎市",
       "wikiName": "韮崎市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.nirasaki.lg.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19208",
       "cityName": "南アルプス市",
       "wikiName": "南アルプス市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.minami-alps.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19209",
       "cityName": "北杜市",
       "wikiName": "北杜市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.hokuto.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19210",
       "cityName": "甲斐市",
       "wikiName": "甲斐市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.kai.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19211",
       "cityName": "笛吹市",
       "wikiName": "笛吹市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.fuefuki.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19212",
       "cityName": "上野原市",
       "wikiName": "上野原市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.uenohara.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19213",
       "cityName": "甲州市",
       "wikiName": "甲州市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.koshu.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19214",
       "cityName": "中央市",
       "wikiName": "中央市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.chuo.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19346",
       "cityName": "市川三郷町",
       "wikiName": "市川三郷町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.ichikawamisato.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19364",
       "cityName": "早川町",
       "wikiName": "早川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.hayakawa.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19365",
       "cityName": "身延町",
       "wikiName": "身延町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.minobu.lg.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19366",
       "cityName": "南部町",
       "wikiName": "南部町_(山梨県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nanbu.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19368",
       "cityName": "富士川町",
       "wikiName": "富士川町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.fujikawa.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19384",
       "cityName": "昭和町",
       "wikiName": "昭和町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.showa.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19422",
       "cityName": "道志村",
       "wikiName": "道志村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.doshi.lg.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19423",
       "cityName": "西桂町",
       "wikiName": "西桂町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.nishikatsura.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19424",
       "cityName": "忍野村",
       "wikiName": "忍野村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.oshino.lg.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19425",
       "cityName": "山中湖村",
       "wikiName": "山中湖村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.yamanakako.lg.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19429",
       "cityName": "鳴沢村",
       "wikiName": "鳴沢村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.narusawa.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19430",
       "cityName": "富士河口湖町",
       "wikiName": "富士河口湖町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.fujikawaguchiko.lg.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19442",
       "cityName": "小菅村",
       "wikiName": "小菅村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.vill.kosuge.yamanashi.jp/"
     },
     {
       "prefCode": 19,
       "cityCode": "19443",
       "cityName": "丹波山村",
       "wikiName": "丹波山村",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.tabayama.yamanashi.jp/"
     }
   ]
 }

@@ -6,140 +6,160 @@
       "cityCode": "38201",
       "cityName": "松山市",
       "wikiName": "松山市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.matsuyama.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38202",
       "cityName": "今治市",
       "wikiName": "今治市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.imabari.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38203",
       "cityName": "宇和島市",
       "wikiName": "宇和島市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.uwajima.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38204",
       "cityName": "八幡浜市",
       "wikiName": "八幡浜市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.yawatahama.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38205",
       "cityName": "新居浜市",
       "wikiName": "新居浜市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.niihama.lg.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38206",
       "cityName": "西条市",
       "wikiName": "西条市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.saijo.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38207",
       "cityName": "大洲市",
       "wikiName": "大洲市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.ozu.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38210",
       "cityName": "伊予市",
       "wikiName": "伊予市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.iyo.lg.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38213",
       "cityName": "四国中央市",
       "wikiName": "四国中央市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.shikokuchuo.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38214",
       "cityName": "西予市",
       "wikiName": "西予市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.seiyo.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38215",
       "cityName": "東温市",
       "wikiName": "東温市",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.toon.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38356",
       "cityName": "上島町",
       "wikiName": "上島町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kamijima.lg.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38386",
       "cityName": "久万高原町",
       "wikiName": "久万高原町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.kumakogen.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38401",
       "cityName": "松前町",
       "wikiName": "松前町_(愛媛県)",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.masaki.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38402",
       "cityName": "砥部町",
       "wikiName": "砥部町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tobe.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38422",
       "cityName": "内子町",
       "wikiName": "内子町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.uchiko.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38442",
       "cityName": "伊方町",
       "wikiName": "伊方町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ikata.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38484",
       "cityName": "松野町",
       "wikiName": "松野町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.matsuno.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38488",
       "cityName": "鬼北町",
       "wikiName": "鬼北町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kihoku.ehime.jp/"
     },
     {
       "prefCode": 38,
       "cityCode": "38506",
       "cityName": "愛南町",
       "wikiName": "愛南町",
-      "bigCityFlag": "0"
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ainan.ehime.jp/"
     }
   ]
 }
