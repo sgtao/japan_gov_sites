@@ -54,6 +54,14 @@
             <span class="title">Google検索</span>
           </p>
         </li>
+        <li class="navlist">
+          <p>
+            <span class="material-icons-outlined">
+              find_in_page
+            </span>
+            <span class="title">Google_サイト内検索</span>
+          </p>
+        </li>
         <div>
           <p class="label">⇩Google検索のワード追加</p>
           <p><input type="text" name="Google_keyword" id="googleKeyword" value="" placeholder="追加検索ワード"></p>
@@ -186,6 +194,11 @@
           case "Google検索" : {
             acc_site = "google";
             modal_init_msg = "各自治体のGoogle検索ページへリンクします。";
+            break;
+          }
+          case "Google_サイト内検索" : {
+            acc_site = "site_google";
+            modal_init_msg = "自治体公式ページ内をGoogle検索します。";
             break;
           }
           default : { // ホーム

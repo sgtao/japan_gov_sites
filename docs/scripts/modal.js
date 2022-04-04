@@ -84,12 +84,16 @@ if (acc_site === "google") {
       } else { // wiki
       }
       switch (acc_site) {
+        case "local_govs" : {
+          link_url = item.cityURL;
+          break; 
+        }
         case "google" : {
           link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
           break; 
         }
-        case "local_govs" : {
-          link_url = item.cityURL;
+        case "site_google" : {
+          link_url = "https://www.google.com/search?q=" + "site::" + item.cityURL + add_keyword;
           break; 
         }
         default : { // wiki
