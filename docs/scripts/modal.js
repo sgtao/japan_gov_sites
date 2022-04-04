@@ -17,7 +17,6 @@
     // Google検索のときは追加キーワードも表示する
     if (acc_site === "google") {
       if (get_add_keyword() === "") {
-        modal_text.textContent += "（検索ワード：「市区町村名」）"
       } else {
         modal_text.textContent += "（検索ワード：「市区町村名」" + get_add_keyword() +"）"
       }
@@ -57,7 +56,7 @@ async function click_prefectures(data) {
   // console.log('show info. of ', data);
   const modal_text = document.querySelector('#modal > p');
   let link_url;
-  if (acc_site === "google") {
+if (acc_site === "google") {
     link_url = "https://www.google.com/search?q=" + data.name;
   } else { // wiki 
     link_url = "https://ja.wikipedia.org/wiki/" + data.name;
@@ -83,13 +82,26 @@ async function click_prefectures(data) {
       if (acc_site === "google") {
         link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
       } else { // wiki
-        if (typeof item.wikiName === 'undefined') {
-          link_url = "https://ja.wikipedia.org/wiki/" + item.cityName;
-        } else {
-          link_url = "https://ja.wikipedia.org/wiki/"  + item.wikiName;
+      }
+      switch (acc_site) {
+        case "google" : {
+          link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
+          break; 
+        }
+        case "local_govs" : {
+          link_url = item.cityURL;
+          break; 
+        }
+        default : { // wiki
+          if (typeof item.wikiName === 'undefined') {
+            link_url = "https://ja.wikipedia.org/wiki/" + item.cityName;
+          } else {
+            link_url = "https://ja.wikipedia.org/wiki/"  + item.wikiName;
+          }
+          break; 
         }
       }
-      append_html += 
+          append_html += 
         '<a href="' + link_url + '" target="_blank">'
         + item.cityName + '</a>' + '、';
     });

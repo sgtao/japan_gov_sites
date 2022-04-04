@@ -41,6 +41,14 @@
         <li class="navlist">
           <p>
             <span class="material-icons-outlined">
+              assured_workload
+            </span>
+            <span class="title">自治体サイト</span>
+          </p>
+        </li>
+        <li class="navlist">
+          <p>
+            <span class="material-icons-outlined">
               search
               </span>
             <span class="title">Google検索</span>
@@ -168,6 +176,11 @@
           case "Wikipedia" : {
             acc_site = "wiki";
             modal_init_msg = modal_msg_wiki;
+            break;
+          }
+          case "自治体サイト" : {
+            acc_site = "local_govs";
+            modal_init_msg = "各自治体の公式ページへリンクします。";
             break;
           }
           case "Google検索" : {
