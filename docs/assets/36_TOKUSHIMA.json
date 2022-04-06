@@ -2,117 +2,147 @@
   "message": null,
   "result": [
     {
-      "prefCode": 35,
-      "cityCode": "35201",
-      "cityName": "下関市",
+      "prefCode": 36,
+      "cityCode": "36201",
+      "cityName": "徳島市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35202",
-      "cityName": "宇部市",
+      "prefCode": 36,
+      "cityCode": "36202",
+      "cityName": "鳴門市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35203",
-      "cityName": "山口市",
+      "prefCode": 36,
+      "cityCode": "36203",
+      "cityName": "小松島市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35204",
-      "cityName": "萩市",
+      "prefCode": 36,
+      "cityCode": "36204",
+      "cityName": "阿南市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35206",
-      "cityName": "防府市",
+      "prefCode": 36,
+      "cityCode": "36205",
+      "cityName": "吉野川市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35207",
-      "cityName": "下松市",
+      "prefCode": 36,
+      "cityCode": "36206",
+      "cityName": "阿波市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35208",
-      "cityName": "岩国市",
+      "prefCode": 36,
+      "cityCode": "36207",
+      "cityName": "美馬市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35210",
-      "cityName": "光市",
+      "prefCode": 36,
+      "cityCode": "36208",
+      "cityName": "三好市",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35211",
-      "cityName": "長門市",
+      "prefCode": 36,
+      "cityCode": "36301",
+      "cityName": "勝浦町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35212",
-      "cityName": "柳井市",
+      "prefCode": 36,
+      "cityCode": "36302",
+      "cityName": "上勝町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35213",
-      "cityName": "美祢市",
+      "prefCode": 36,
+      "cityCode": "36321",
+      "cityName": "佐那河内村",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35215",
-      "cityName": "周南市",
+      "prefCode": 36,
+      "cityCode": "36341",
+      "cityName": "石井町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35216",
-      "cityName": "山陽小野田市",
+      "prefCode": 36,
+      "cityCode": "36342",
+      "cityName": "神山町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35305",
-      "cityName": "周防大島町",
+      "prefCode": 36,
+      "cityCode": "36368",
+      "cityName": "那賀町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35321",
-      "cityName": "和木町",
+      "prefCode": 36,
+      "cityCode": "36383",
+      "cityName": "牟岐町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35341",
-      "cityName": "上関町",
+      "prefCode": 36,
+      "cityCode": "36387",
+      "cityName": "美波町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35343",
-      "cityName": "田布施町",
+      "prefCode": 36,
+      "cityCode": "36388",
+      "cityName": "海陽町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35344",
-      "cityName": "平生町",
+      "prefCode": 36,
+      "cityCode": "36401",
+      "cityName": "松茂町",
       "bigCityFlag": "0"
     },
     {
-      "prefCode": 35,
-      "cityCode": "35502",
-      "cityName": "阿武町",
+      "prefCode": 36,
+      "cityCode": "36402",
+      "cityName": "北島町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 36,
+      "cityCode": "36403",
+      "cityName": "藍住町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 36,
+      "cityCode": "36404",
+      "cityName": "板野町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 36,
+      "cityCode": "36405",
+      "cityName": "上板町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 36,
+      "cityCode": "36468",
+      "cityName": "つるぎ町",
+      "bigCityFlag": "0"
+    },
+    {
+      "prefCode": 36,
+      "cityCode": "36489",
+      "cityName": "東みよし町",
       "bigCityFlag": "0"
     }
   ]
