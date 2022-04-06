@@ -5,145 +5,193 @@
       "prefCode": 36,
       "cityCode": "36201",
       "cityName": "徳島市",
-      "bigCityFlag": "0"
+      "wikiName": "徳島市",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.tokushima.tokushima.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36202",
       "cityName": "鳴門市",
-      "bigCityFlag": "0"
+      "wikiName": "鳴門市",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.naruto.tokushima.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36203",
       "cityName": "小松島市",
-      "bigCityFlag": "0"
+      "wikiName": "小松島市",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.komatsushima.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36204",
       "cityName": "阿南市",
-      "bigCityFlag": "0"
+      "wikiName": "阿南市",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.anan.tokushima.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36205",
       "cityName": "吉野川市",
-      "bigCityFlag": "0"
+      "wikiName": "吉野川市",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.yoshinogawa.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36206",
       "cityName": "阿波市",
-      "bigCityFlag": "0"
+      "wikiName": "阿波市",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.city.awa.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36207",
       "cityName": "美馬市",
-      "bigCityFlag": "0"
+      "wikiName": "美馬市",
+      "bigCityFlag": "0",
+      "cityURL": "http://www.city.mima.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36208",
       "cityName": "三好市",
-      "bigCityFlag": "0"
+      "wikiName": "三好市",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.miyoshi.i-tokushima.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36301",
       "cityName": "勝浦町",
-      "bigCityFlag": "0"
+      "wikiName": "勝浦町",
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.katsuura.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36302",
       "cityName": "上勝町",
-      "bigCityFlag": "0"
+      "wikiName": "上勝町",
+      "bigCityFlag": "0",
+      "cityURL": "http://www.kamikatsu.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36321",
       "cityName": "佐那河内村",
-      "bigCityFlag": "0"
+      "wikiName": "佐那河内村",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.vill.sanagochi.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36341",
       "cityName": "石井町",
-      "bigCityFlag": "0"
+      "wikiName": "石井町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.ishii.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36342",
       "cityName": "神山町",
-      "bigCityFlag": "0"
+      "wikiName": "神山町",
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.kamiyama.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36368",
       "cityName": "那賀町",
-      "bigCityFlag": "0"
+      "wikiName": "那賀町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tokushima-naka.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36383",
       "cityName": "牟岐町",
-      "bigCityFlag": "0"
+      "wikiName": "牟岐町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tokushima-mugi.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36387",
       "cityName": "美波町",
-      "bigCityFlag": "0"
+      "wikiName": "美波町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.minami.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36388",
       "cityName": "海陽町",
-      "bigCityFlag": "0"
+      "wikiName": "海陽町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kaiyo.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36401",
       "cityName": "松茂町",
-      "bigCityFlag": "0"
+      "wikiName": "松茂町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.matsushige.tokushima.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36402",
       "cityName": "北島町",
-      "bigCityFlag": "0"
+      "wikiName": "北島町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.kitajima.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36403",
       "cityName": "藍住町",
-      "bigCityFlag": "0"
+      "wikiName": "藍住町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.aizumi.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36404",
       "cityName": "板野町",
-      "bigCityFlag": "0"
+      "wikiName": "板野町",
+      "bigCityFlag": "0",
+      "cityURL": "http://www.town.itano.tokushima.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36405",
       "cityName": "上板町",
-      "bigCityFlag": "0"
+      "wikiName": "上板町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.townkamiita.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36468",
       "cityName": "つるぎ町",
-      "bigCityFlag": "0"
+      "wikiName": "つるぎ町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.tokushima-tsurugi.lg.jp/"
     },
     {
       "prefCode": 36,
       "cityCode": "36489",
       "cityName": "東みよし町",
-      "bigCityFlag": "0"
+      "wikiName": "東みよし町",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.town.higashimiyoshi.lg.jp/"
     }
   ]
 }
