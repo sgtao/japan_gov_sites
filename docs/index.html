@@ -155,7 +155,7 @@
         drawsBoxLine : false,
         showsAreaName : true,
         width: window.innerWidth * 0.9,
-        movesIslands : true,
+        movesIslands: true,
         font : "MS Mincho",
         // font : "Arial",
         fontSize : fontSize,
@@ -176,10 +176,10 @@
       console.log('page loaded. window.width : ' + window.innerWidth);
       const list = document.querySelectorAll(".navlist");
       // console.log(list);
-      select_menu('ホーム');
+      _select_menu('ホーム');
       // 
       // local functions
-      function select_menu(active_menu) {
+      function _select_menu(active_menu) {
         switch (active_menu) {
           case "Wikipedia" : {
             acc_site = "wiki";
@@ -215,7 +215,7 @@
         );
         this.classList.add("active");
         console.log(this.querySelector('.title').textContent);
-        select_menu(this.querySelector('.title').textContent);
+        _select_menu(this.querySelector('.title').textContent);
       }
       list.forEach((item) => {
         item.addEventListener("click", activeLink);

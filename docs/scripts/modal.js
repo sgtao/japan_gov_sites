@@ -56,10 +56,21 @@ async function click_prefectures(data) {
   // console.log('show info. of ', data);
   const modal_text = document.querySelector('#modal > p');
   let link_url;
-if (acc_site === "google") {
-    link_url = "https://www.google.com/search?q=" + data.name;
-  } else { // wiki 
-    link_url = "https://ja.wikipedia.org/wiki/" + data.name;
+  // set link_url of target prefecture
+  switch (acc_site) {
+    case "google" :
+    case "site_google" : {
+      link_url = "https://www.google.com/search?q=" + data.name + get_add_keyword();
+      break; 
+    }
+    default : { // wiki
+      if (typeof item.wikiName === 'undefined') {
+        link_url = "https://ja.wikipedia.org/wiki/" + data.name;
+      } else {
+        link_url = "https://ja.wikipedia.org/wiki/"  + data.name;
+      }
+      break; 
+    }
   }
   // google検索時のワード表示
   let append_msg_google = "";
