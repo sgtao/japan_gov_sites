@@ -1,193 +1,381 @@
 {
   "message": null,
   "result": [
-      {
-          "prefCode": 1,
-          "prefName": "北海道"
-      },
-      {
-          "prefCode": 2,
-          "prefName": "青森県"
-      },
-      {
-          "prefCode": 3,
-          "prefName": "岩手県"
-      },
-      {
-          "prefCode": 4,
-          "prefName": "宮城県"
-      },
-      {
-          "prefCode": 5,
-          "prefName": "秋田県"
-      },
-      {
-          "prefCode": 6,
-          "prefName": "山形県"
-      },
-      {
-          "prefCode": 7,
-          "prefName": "福島県"
-      },
-      {
-          "prefCode": 8,
-          "prefName": "茨城県"
-      },
-      {
-          "prefCode": 9,
-          "prefName": "栃木県"
-      },
-      {
-          "prefCode": 10,
-          "prefName": "群馬県"
-      },
-      {
-          "prefCode": 11,
-          "prefName": "埼玉県"
-      },
-      {
-          "prefCode": 12,
-          "prefName": "千葉県"
-      },
-      {
-          "prefCode": 13,
-          "prefName": "東京都"
-      },
-      {
-          "prefCode": 14,
-          "prefName": "神奈川県"
-      },
-      {
-          "prefCode": 15,
-          "prefName": "新潟県"
-      },
-      {
-          "prefCode": 16,
-          "prefName": "富山県"
-      },
-      {
-          "prefCode": 17,
-          "prefName": "石川県"
-      },
-      {
-          "prefCode": 18,
-          "prefName": "福井県"
-      },
-      {
-          "prefCode": 19,
-          "prefName": "山梨県"
-      },
-      {
-          "prefCode": 20,
-          "prefName": "長野県"
-      },
-      {
-          "prefCode": 21,
-          "prefName": "岐阜県"
-      },
-      {
-          "prefCode": 22,
-          "prefName": "静岡県"
-      },
-      {
-          "prefCode": 23,
-          "prefName": "愛知県"
-      },
-      {
-          "prefCode": 24,
-          "prefName": "三重県"
-      },
-      {
-          "prefCode": 25,
-          "prefName": "滋賀県"
-      },
-      {
-          "prefCode": 26,
-          "prefName": "京都府"
-      },
-      {
-          "prefCode": 27,
-          "prefName": "大阪府"
-      },
-      {
-          "prefCode": 28,
-          "prefName": "兵庫県"
-      },
-      {
-          "prefCode": 29,
-          "prefName": "奈良県"
-      },
-      {
-          "prefCode": 30,
-          "prefName": "和歌山県"
-      },
-      {
-          "prefCode": 31,
-          "prefName": "鳥取県"
-      },
-      {
-          "prefCode": 32,
-          "prefName": "島根県"
-      },
-      {
-          "prefCode": 33,
-          "prefName": "岡山県"
-      },
-      {
-          "prefCode": 34,
-          "prefName": "広島県"
-      },
-      {
-          "prefCode": 35,
-          "prefName": "山口県"
-      },
-      {
-          "prefCode": 36,
-          "prefName": "徳島県"
-      },
-      {
-          "prefCode": 37,
-          "prefName": "香川県"
-      },
-      {
-          "prefCode": 38,
-          "prefName": "愛媛県"
-      },
-      {
-          "prefCode": 39,
-          "prefName": "高知県"
-      },
-      {
-          "prefCode": 40,
-          "prefName": "福岡県"
-      },
-      {
-          "prefCode": 41,
-          "prefName": "佐賀県"
-      },
-      {
-          "prefCode": 42,
-          "prefName": "長崎県"
-      },
-      {
-          "prefCode": 43,
-          "prefName": "熊本県"
-      },
-      {
-          "prefCode": 44,
-          "prefName": "大分県"
-      },
-      {
-          "prefCode": 45,
-          "prefName": "宮崎県"
-      },
-      {
-          "prefCode": 46,
-          "prefName": "鹿児島県"
-      },
-      {
-          "prefCode": 47,
-          "prefName": "沖縄県"
-      }
+    {
+      "prefCode": 1,
+      "cityCode": "1",
+      "cityName": "北海道",
+      "wikiName": "北海道",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.hokkaido.lg.jp/"
+    },
+    {
+      "prefCode": 2,
+      "cityCode": "2",
+      "cityName": "青森県",
+      "wikiName": "青森県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.aomori.lg.jp/"
+    },
+    {
+      "prefCode": 3,
+      "cityCode": "3",
+      "cityName": "岩手県",
+      "wikiName": "岩手県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.iwate.jp/"
+    },
+    {
+      "prefCode": 4,
+      "cityCode": "4",
+      "cityName": "宮城県",
+      "wikiName": "宮城県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.miyagi.jp/"
+    },
+    {
+      "prefCode": 5,
+      "cityCode": "5",
+      "cityName": "秋田県",
+      "wikiName": "秋田県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.akita.lg.jp/"
+    },
+    {
+      "prefCode": 6,
+      "cityCode": "6",
+      "cityName": "山形県",
+      "wikiName": "山形県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.yamagata.jp/"
+    },
+    {
+      "prefCode": 7,
+      "cityCode": "7",
+      "cityName": "福島県",
+      "wikiName": "福島県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.fukushima.lg.jp"
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "8",
+      "cityName": "茨城県",
+      "wikiName": "茨城県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.ibaraki.jp/"
+    },
+    {
+      "prefCode": 9,
+      "cityCode": "9",
+      "cityName": "栃木県",
+      "wikiName": "栃木県",
+      "bigCityFlag": "0",
+      "cityURL": "http://www.pref.tochigi.lg.jp/"
+    },
+    {
+      "prefCode": 10,
+      "cityCode": "10",
+      "cityName": "群馬県",
+      "wikiName": "群馬県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.gunma.jp/"
+    },
+    {
+      "prefCode": 11,
+      "cityCode": "11",
+      "cityName": "埼玉県",
+      "wikiName": "埼玉県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.saitama.lg.jp/"
+    },
+    {
+      "prefCode": 12,
+      "cityCode": "12",
+      "cityName": "千葉県",
+      "wikiName": "千葉県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.chiba.lg.jp/"
+    },
+    {
+      "prefCode": 13,
+      "cityCode": "13",
+      "cityName": "東京都",
+      "wikiName": "東京都",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.metro.tokyo.lg.jp/"
+    },
+    {
+      "prefCode": 14,
+      "cityCode": "14",
+      "cityName": "神奈川県",
+      "wikiName": "神奈川県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.kanagawa.jp/"
+    },
+    {
+      "prefCode": 15,
+      "cityCode": "15",
+      "cityName": "新潟県",
+      "wikiName": "新潟県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.niigata.lg.jp/"
+    },
+    {
+      "prefCode": 16,
+      "cityCode": "16",
+      "cityName": "富山県",
+      "wikiName": "富山県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.toyama.jp/"
+    },
+    {
+      "prefCode": 17,
+      "cityCode": "17",
+      "cityName": "石川県",
+      "wikiName": "石川県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.ishikawa.lg.jp/"
+    },
+    {
+      "prefCode": 18,
+      "cityCode": "18",
+      "cityName": "福井県",
+      "wikiName": "福井県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.fukui.lg.jp/"
+    },
+    {
+      "prefCode": 19,
+      "cityCode": "19",
+      "cityName": "山梨県",
+      "wikiName": "山梨県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.yamanashi.jp/"
+    },
+    {
+      "prefCode": 20,
+      "cityCode": "20",
+      "cityName": "長野県",
+      "wikiName": "長野県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.nagano.lg.jp/"
+    },
+    {
+      "prefCode": 21,
+      "cityCode": "21",
+      "cityName": "岐阜県",
+      "wikiName": "岐阜県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.gifu.lg.jp/"
+    },
+    {
+      "prefCode": 22,
+      "cityCode": "22",
+      "cityName": "静岡県",
+      "wikiName": "静岡県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.shizuoka.jp"
+    },
+    {
+      "prefCode": 23,
+      "cityCode": "23",
+      "cityName": "愛知県",
+      "wikiName": "愛知県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.aichi.jp/"
+    },
+    {
+      "prefCode": 24,
+      "cityCode": "24",
+      "cityName": "三重県",
+      "wikiName": "三重県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.mie.lg.jp/"
+    },
+    {
+      "prefCode": 25,
+      "cityCode": "25",
+      "cityName": "滋賀県",
+      "wikiName": "滋賀県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.shiga.lg.jp/"
+    },
+    {
+      "prefCode": 26,
+      "cityCode": "26",
+      "cityName": "京都府",
+      "wikiName": "京都府",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.kyoto.jp/"
+    },
+    {
+      "prefCode": 27,
+      "cityCode": "27",
+      "cityName": "大阪府",
+      "wikiName": "大阪府",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.osaka.lg.jp/"
+    },
+    {
+      "prefCode": 28,
+      "cityCode": "28",
+      "cityName": "兵庫県",
+      "wikiName": "兵庫県",
+      "bigCityFlag": "0",
+      "cityURL": "https://web.pref.hyogo.lg.jp/"
+    },
+    {
+      "prefCode": 29,
+      "cityCode": "29",
+      "cityName": "奈良県",
+      "wikiName": "奈良県",
+      "bigCityFlag": "0",
+      "cityURL": "http://www.pref.nara.jp"
+    },
+    {
+      "prefCode": 30,
+      "cityCode": "30",
+      "cityName": "和歌山県",
+      "wikiName": "和歌山県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.wakayama.lg.jp/"
+    },
+    {
+      "prefCode": 31,
+      "cityCode": "31",
+      "cityName": "鳥取県",
+      "wikiName": "鳥取県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.tottori.lg.jp/"
+    },
+    {
+      "prefCode": 32,
+      "cityCode": "32",
+      "cityName": "島根県",
+      "wikiName": "島根県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.shimane.lg.jp/"
+    },
+    {
+      "prefCode": 33,
+      "cityCode": "33",
+      "cityName": "岡山県",
+      "wikiName": "岡山県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.okayama.jp/"
+    },
+    {
+      "prefCode": 34,
+      "cityCode": "34",
+      "cityName": "広島県",
+      "wikiName": "広島県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.hiroshima.lg.jp/"
+    },
+    {
+      "prefCode": 35,
+      "cityCode": "35",
+      "cityName": "山口県",
+      "wikiName": "山口県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.yamaguchi.lg.jp/"
+    },
+    {
+      "prefCode": 36,
+      "cityCode": "36",
+      "cityName": "徳島県",
+      "wikiName": "徳島県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.tokushima.lg.jp/"
+    },
+    {
+      "prefCode": 37,
+      "cityCode": "37",
+      "cityName": "香川県",
+      "wikiName": "香川県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.kagawa.lg.jp/"
+    },
+    {
+      "prefCode": 38,
+      "cityCode": "38",
+      "cityName": "愛媛県",
+      "wikiName": "愛媛県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.ehime.jp"
+    },
+    {
+      "prefCode": 39,
+      "cityCode": "39",
+      "cityName": "高知県",
+      "wikiName": "高知県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.kochi.lg.jp/"
+    },
+    {
+      "prefCode": 40,
+      "cityCode": "40",
+      "cityName": "福岡県",
+      "wikiName": "福岡県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.fukuoka.lg.jp/"
+    },
+    {
+      "prefCode": 41,
+      "cityCode": "41",
+      "cityName": "佐賀県",
+      "wikiName": "佐賀県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.saga.lg.jp/"
+    },
+    {
+      "prefCode": 42,
+      "cityCode": "42",
+      "cityName": "長崎県",
+      "wikiName": "長崎県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.nagasaki.jp/"
+    },
+    {
+      "prefCode": 43,
+      "cityCode": "43",
+      "cityName": "熊本県",
+      "wikiName": "熊本県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.kumamoto.jp/"
+    },
+    {
+      "prefCode": 44,
+      "cityCode": "44",
+      "cityName": "大分県",
+      "wikiName": "大分県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.oita.jp/"
+    },
+    {
+      "prefCode": 45,
+      "cityCode": "45",
+      "cityName": "宮崎県",
+      "wikiName": "宮崎県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.miyazaki.lg.jp/"
+    },
+    {
+      "prefCode": 46,
+      "cityCode": "46",
+      "cityName": "鹿児島県",
+      "wikiName": "鹿児島県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.kagoshima.jp/"
+    },
+    {
+      "prefCode": 47,
+      "cityCode": "47",
+      "cityName": "沖縄県",
+      "wikiName": "沖縄県",
+      "bigCityFlag": "0",
+      "cityURL": "https://www.pref.okinawa.lg.jp/"
+    }
   ]
 }
