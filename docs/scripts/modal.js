@@ -37,6 +37,15 @@
     close.click();
   });
   // 
+  // fetch prefecture json
+  async function load_prefectures(path) {
+    let res = await fetch(path)
+    let prefectures = await res.json();
+    return prefectures;
+  }
+  // console.log(load_prefectures('assets/00_prefecture.json'));
+  // var prefectures = load_prefectures('assets/00_prefecture.json');
+  // console.log(prefectures);
 }
 // google検索のワード追加
 function get_add_keyword() {
@@ -64,11 +73,7 @@ async function click_prefectures(data) {
       break; 
     }
     default : { // wiki
-      if (typeof item.wikiName === 'undefined') {
-        link_url = "https://ja.wikipedia.org/wiki/" + data.name;
-      } else {
-        link_url = "https://ja.wikipedia.org/wiki/"  + data.name;
-      }
+      link_url = "https://ja.wikipedia.org/wiki/" + data.name;
       break; 
     }
   }
