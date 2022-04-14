@@ -1,4 +1,6 @@
 'use strict';
+
+var prefectures;
 {
   const open = document.querySelector('#open');
   const mask = document.querySelector('#mask');
@@ -15,10 +17,11 @@
     const modal_text = document.querySelector('#modal > p');
     modal_text.textContent = modal_init_msg;
     // Google検索のときは追加キーワードも表示する
-    if (acc_site === "google") {
-      if (get_add_keyword() === "") {
-      } else {
+    if (get_add_keyword() !== "") {
+      if (acc_site === "google") {
         modal_text.textContent += "（検索ワード：「市区町村名」" + get_add_keyword() +"）"
+      } else if (acc_site === "site_google") {
+        modal_text.textContent += "（検索ワード：「市区町村名」URL" + get_add_keyword() +"）"
       }
     }
     modal.classList.remove('hidden');
@@ -39,13 +42,12 @@
   // 
   // fetch prefecture json
   async function load_prefectures(path) {
-    let res = await fetch(path)
-    let prefectures = await res.json();
-    return prefectures;
+    const response = await fetch(path);
+    // var prefectures = await response.json();
+    prefectures = await response.json();
+    await console.dir(prefectures);
   }
-  // console.log(load_prefectures('assets/00_prefecture.json'));
-  // var prefectures = load_prefectures('assets/00_prefecture.json');
-  // console.log(prefectures);
+  load_prefectures('assets/00_prefecture.json');
 }
 // google検索のワード追加
 function get_add_keyword() {
@@ -64,12 +66,22 @@ function get_add_keyword() {
 async function click_prefectures(data) {
   // console.log('show info. of ', data);
   const modal_text = document.querySelector('#modal > p');
+  let add_keyword=get_add_keyword();
   let link_url;
   // set link_url of target prefecture
+  // console.log(prefectures.result[data.code - 1]);
+  let prefecture = prefectures.result[data.code - 1];
   switch (acc_site) {
-    case "google" :
+    case "local_govs" : {
+      link_url = prefecture.cityURL;
+      break; 
+    }
     case "site_google" : {
-      link_url = "https://www.google.com/search?q=" + data.name + get_add_keyword();
+      link_url = "https://www.google.com/search?q=" + "site::" + prefecture.cityURL + add_keyword;
+      break; 
+    }
+    case "google" : {
+      link_url = "https://www.google.com/search?q=" + data.name + add_keyword;
       break; 
     }
     default : { // wiki
@@ -79,11 +91,11 @@ async function click_prefectures(data) {
   }
   // google検索時のワード表示
   let append_msg_google = "";
-  if (acc_site === "google") {
-    if (get_add_keyword() === "") {
+  if ((acc_site === "google")||(acc_site === "site_google")) {
+    if (add_keyword !== "") {
       append_msg_google = "（検索ワード：「市区町村名」）"
     } else {
-      append_msg_google = "（検索ワード：「市区町村名」" + get_add_keyword() +"）"
+      append_msg_google = "（検索ワード：「市区町村名」URL" + add_keyword +"）"
     }
   }
 
@@ -93,7 +105,6 @@ async function click_prefectures(data) {
   async function append_modal_text(data) {
     let append_html = "(リンク数＝" + data.result.length + ')：'
     // google検索のワード追加
-    let add_keyword=get_add_keyword();
     await data.result.forEach(item => {
       if (acc_site === "google") {
         link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
