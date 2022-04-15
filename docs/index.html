@@ -172,8 +172,10 @@
   </script>
   <!-- script for navigator -->
   <script>
+    var winWidth;
     document.addEventListener('DOMContentLoaded', function () {
-      console.log('page loaded. window.width : ' + window.innerWidth);
+      winWidth = window.innerWidth;
+      console.log('page loaded. window.width : ' + winWidth);
       const list = document.querySelectorAll(".navlist");
       // console.log(list);
       _select_menu('ホーム');
@@ -203,7 +205,7 @@
           }
           default : { // ホーム
             acc_site = "wiki";
-            modal_init_msg = "右側アイコンからメニューを選び、都道府県を指定してください。";
+            modal_init_msg = "右側アイコンからメニューを選び、都道府県を指定してください。（注意：ウィンドウ幅を大きく変えるとリロードします）";
             break;
           }
         }
@@ -221,11 +223,12 @@
         item.addEventListener("click", activeLink);
       });
     });
-  </script>
-  <!-- script for reload at window resize event -->
-  <script>
+    <!-- script for reload at window resize event -->
     window.addEventListener('resize', function(){
-      location.reload();
+      let resize_threshold = 0.15; // +/- 15%
+      if ((window.innerWidth > winWidth * (1 + resize_threshold)) ||
+          (window.innerWidth < winWidth * (1 - resize_threshold)))
+        location.reload();
     });
   </script>
 </body>
