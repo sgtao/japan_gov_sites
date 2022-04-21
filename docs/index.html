@@ -50,7 +50,7 @@
           <p>
             <span class="material-icons-outlined">
               search
-              </span>
+            </span>
             <span class="title">Google検索</span>
           </p>
         </li>
@@ -97,6 +97,11 @@
       閉じる
     </div>
   </section>
+  <div id="search-city">
+    <input type="text" value="　　（機能未実装）市区町村名で検索します" name="" id="search-text">
+    <!-- <form role="search" method="get" action="">
+    </form> -->
+  <!--/search-city--></div>
   <!-- script for access japan-map-js -->
   <script type="text/javascript" src="https://unpkg.com/japan-map-js@1.0.1/dist/jpmap.min.js"></script>
   <script src="scripts/modal.js"></script>
@@ -227,7 +232,7 @@
         item.addEventListener("click", activeLink);
       });
     });
-    <!-- script for reload at window resize event -->
+    // <!-- script for reload at window resize event -->
     window.addEventListener('resize', function(){
       let resize_threshold = 0.15; // +/- 15%
       if ((window.innerWidth > winWidth * (1 + resize_threshold)) ||
