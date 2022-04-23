@@ -17,8 +17,8 @@ if [ ! -d $CSVDIR ] ; then
   mkdir $CSVDIR;
 fi
 #
-for jsonfile in ../docs/assets/3[1-2]_*.json ; do
-#for jsonfile in ../docs/assets/*.json ; do
+# for jsonfile in ../docs/assets/3[1-2]_*.json ; do
+for jsonfile in ../docs/assets/*.json ; do
   echo "convert $jsonfile";
   convert_csvfile_with_cityURLs $jsonfile $CSVDIR;
 done
