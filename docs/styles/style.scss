@@ -211,20 +211,62 @@ body {
 #search-city {
   position: absolute;
   /*絶対配置にして*/
-  z-index: 2000;
+  z-index: 100;
   /*最前面に設定。数字は変更可*/
   bottom: 10px;
   left: 10px;
+
+  & .fukidashi {
+    color: white;
+    font-weight: bold;
+    padding: 10px 5px 10px 5px;
+    background-color: #c74;
+    opacity: 0;
+    transition: all 1s;
+    /* アイコンを下に表示 */
+    &::before{
+      content: '';
+      position: absolute;
+      display: block;
+      width: 0;
+      height: 0;
+      left: 20px;
+      bottom: -15px;
+      border-top: 15px solid #c74;
+      border-right: 15px solid transparent;
+      border-left: 15px solid transparent;
+    }
+    &::after{
+      content: '';
+      position: absolute;
+      display: block;
+      width: 0;
+      height: 0;
+      left: 20px;
+      bottom: -12px;
+      border-top: 15px solid #c74;
+      border-right: 15px solid transparent;
+      border-left: 15px solid transparent;
+    }  
+  }
+  &:hover .fukidashi {
+    opacity: 1;
+    transform: scale(0.92, 0.88);
+  }
+
   /*テキスト入力input設定*/
-  #search-text {
+  #search-city-text {
     -webkit-appearance: none;
     /*SafariやChromeのデフォルトの設定を無効*/
+    height: 60px;
     width: 60px;
     /*テキスト入力エリアが伸びる前の横幅*/
-    height: 60px;
-    padding: 20px;
+    color: #333;
+    padding: 20px 0px 20px 60px;
     border: none;
+    border-radius: 5px;
     background: #fff url("../img/icon_search.svg") no-repeat 17px center;
+    background-color: #eee;
     /*虫眼鏡アイコンを背景に表示*/
     background-size: 25px 25px;
     transition: all 0.5s;
@@ -233,9 +275,8 @@ body {
     cursor: pointer;
     /*カーソルを指マークに*/
   }
-
   /*テキスト入力inputにフォーカスした時の形状*/
-  #search-text:focus {
+  #search-city-text:focus {
     width: 360px;
     /*テキスト入力エリアが伸びる後の横幅*/
     padding: 20px 0 20px 60px;
