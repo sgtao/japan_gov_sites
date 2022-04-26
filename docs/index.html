@@ -99,7 +99,7 @@
   </section>
   <div id="search-city">
     <p class="fukidashi">市区町村名で検索します（未完成です）</p>
-    <input type="text" value="名称+ENTERで検索します" onkeypress="search_city_press()" id="search-city-text">
+    <input type="text" value="名称+ENTERで検索します" onkeyup="search_city_keyup()" id="search-city-text">
   </div>    
   <!-- script for access japan-map-js -->
   <script type="text/javascript" src="https://unpkg.com/japan-map-js@1.0.1/dist/jpmap.min.js"></script>
@@ -241,16 +241,16 @@
   </script>
   <!-- script for search-city-text -->
   <script>
-    function search_city_press() {
-      let keyCode = window.event.keyCode;
+    function search_city_keyup() {
+      let key = window.event.key;
       let search_city_text;
-      console.log(keyCode);
-      // if(keyCode === 'Enter') {
-      if(keyCode === 13) {
+      console.log(key);
+      // if(keyCode === 13) {
+      if(key === 'Enter') {
         console.log('Enterキーが押されました。');
         search_city_text = document.querySelector('#search-city-text').value;
         // console.dir(search_city_text);
-        console.log('検索名：' + search_city_text);
+        console.log('検索名：' + search_city_text.trim());
         search_city_name(search_city_text.trim());
       }
     }    

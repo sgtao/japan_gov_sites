@@ -137,9 +137,21 @@ async function click_prefectures(data) {
     });
     modal_text.innerHTML += append_html;
   }
+  // fetch json file
+  let json_file = get_json_name(data.code);
+  const res = await fetch('assets/' + json_file);
+  const json = await res.json();
+  console.log(json);
+  append_modal_text(json);
 
+  // modal-openを実行する
+  modal.classList.remove('hidden');
+  mask.classList.remove('hidden');
+}
+// get json filename
+function get_json_name(data_code) {
   let json_file;
-  switch (data.code) {
+  switch (data_code) {
     case 1: json_file = '01_HOKKAIDO.json'; break;
     case 2: json_file = '02_AOMORI.json'; break;
     case 3: json_file = '03_IWATE.json'; break;
@@ -187,19 +199,12 @@ async function click_prefectures(data) {
     case 45: json_file = '45_MIYAZAKI.json'; break;
     case 46: json_file = '46_KAGOSHIMA.json'; break;
     case 47: json_file = '47_OKINAWA.json'; break;
-    default: fetch_path = '01_HOKKAIDO.json';
+    default: json_file = '01_HOKKAIDO.json';
   }
-  const res = await fetch('assets/' + json_file);
-  const json = await res.json();
-  console.log(json);
-  append_modal_text(json);
-
-  // modal-openを実行する
-  modal.classList.remove('hidden');
-  mask.classList.remove('hidden');
+  return json_file;
 }
 // append modal window with searched cities
-function search_city_name(city_name) {
+async function search_city_name(city_name) {
   const modal_text = document.querySelector('#modal > p');
   let add_keyword = city_name + get_add_keyword();
   modal_text.innerHTML = modal_init_msg + add_keyword;
