@@ -17,11 +17,13 @@ var prefectures;
     const modal_text = document.querySelector('#modal > p');
     modal_text.textContent = modal_init_msg;
     // Google検索のときは追加キーワードも表示する
-    if (get_add_keyword() !== "") {
+    let add_keyword = get_add_keyword();
+    console.log('add keyword : ' + add_keyword);
+    if (add_keyword !== "") {
       if (acc_site === "google") {
-        modal_text.textContent += "（検索ワード：「市区町村名」" + get_add_keyword() + "）"
+        modal_text.textContent += "（検索ワード：「市区町村名」" + add_keyword + "）"
       } else if (acc_site === "site_google") {
-        modal_text.textContent += "（検索ワード：「市区町村名」URL" + get_add_keyword() + "）"
+        modal_text.textContent += "（検索ワード：「市区町村名」URL" + add_keyword + "）"
       }
     }
     modal.classList.remove('hidden');
@@ -91,12 +93,11 @@ async function click_prefectures(data) {
   }
   // google検索時のワード表示
   let append_msg_google = "";
-  if ((acc_site === "google") || (acc_site === "site_google")) {
-    if (add_keyword !== "") {
-      append_msg_google = "（検索ワード：「市区町村名」）"
-    } else {
-      append_msg_google = "（検索ワード：「市区町村名」URL" + add_keyword + "）"
-    }
+  if (acc_site === "google") {
+    append_msg_google = "（検索ワード：「市区町村名」" + 
+      ((add_keyword !== "") ? (add_keyword + "）") : ("）"));
+  } else if (acc_site === "site_google") {
+    append_msg_google = "（検索ワード：「市区町村名」URL" + ((add_keyword !== "") ? (add_keyword + "）") : ("）"));
   }
   modal_text.innerHTML = modal_init_msg + '<p><a href="' + link_url + '" target="_blank">'
     + data.name + '</a>：' + append_msg_google + '</p>';
