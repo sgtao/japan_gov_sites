@@ -83,24 +83,24 @@
         <div id="open">詳細を見る</div>
       </header>
       <main>
-        <div id="mask" class="hidden"></div>
         <div id="my-map"></div>
       </main>
     </div>
+    <div id="mask" class="hidden"></div>
+    <section id="modal" class="hidden">
+      <p>
+        <!-- modal.js 内でメッセージを生成 -->
+        都道府県をクリックすると、その自治体の市区町村Wikipediaを表示します。(一部、リンク先がない可能性があります)
+      </p>
+      <div id="close">
+        閉じる
+      </div>
+    </section>
+    <div id="search-city">
+      <p class="fukidashi">市区町村名で検索します（未完成です）</p>
+      <input type="text" value="名称+ENTERで検索します" onkeyup="search_city_keyup()" id="search-city-text">
+    </div>    
   </div>
-  <section id="modal" class="hidden">
-    <p>
-      <!-- modal.js 内でメッセージを生成 -->
-      都道府県をクリックすると、その自治体の市区町村Wikipediaを表示します。(一部、リンク先がない可能性があります)
-    </p>
-    <div id="close">
-      閉じる
-    </div>
-  </section>
-  <div id="search-city">
-    <p class="fukidashi">市区町村名で検索します（未完成です）</p>
-    <input type="text" value="名称+ENTERで検索します" onkeyup="search_city_keyup()" id="search-city-text">
-  </div>    
   <!-- script for access japan-map-js -->
   <script type="text/javascript" src="https://unpkg.com/japan-map-js@1.0.1/dist/jpmap.min.js"></script>
   <script src="scripts/modal.js"></script>
