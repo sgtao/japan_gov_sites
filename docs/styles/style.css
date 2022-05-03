@@ -72,18 +72,16 @@ body {
 }
 
 /* マスクを隠すスタイル */
+/* モーダルウィンドウを隠すスタイル（上に隠す） */
 #mask.hidden {
   display: none;
 }
 
-/* モーダルウィンドウを隠すスタイル（上に隠す） */
 #modal.hidden {
-  -webkit-transform: translateY(-2500px);
-          transform: translateY(-2500px);
-  -webkit-transition: -webkit-transform .4s;
-  transition: -webkit-transform .4s;
-  transition: transform .4s;
-  transition: transform .4s, -webkit-transform .4s;
+  -webkit-transform: translateY(-500px);
+          transform: translateY(-500px);
+  opacity: 0;
+  z-index: -10;
 }
 
 /********************************

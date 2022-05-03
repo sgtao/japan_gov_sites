@@ -64,13 +64,16 @@ body {
   font-weight: bold;
 }
 /* マスクを隠すスタイル */
+/* モーダルウィンドウを隠すスタイル（上に隠す） */
 #mask.hidden {
   display: none;
 }
-/* モーダルウィンドウを隠すスタイル（上に隠す） */
 #modal.hidden {
-  transform: translateY(-2500px);
-  transition: transform .4s;
+  transform: translateY(-500px);
+  opacity: 0;
+  z-index: -10;
+  // display: none;
+  // transition: transform .4s;
 }
 /********************************
   navigation_slidebar:
