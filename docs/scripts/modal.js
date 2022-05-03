@@ -94,7 +94,7 @@ async function click_prefectures(data) {
   // google検索時のワード表示
   let append_msg_google = "";
   if (acc_site === "google") {
-    append_msg_google = "（検索ワード：「市区町村名」" + 
+    append_msg_google = "（検索ワード：「市区町村名」" +
       ((add_keyword !== "") ? (add_keyword + "）") : ("）"));
   } else if (acc_site === "site_google") {
     append_msg_google = "（検索ワード：「市区町村名」URL" + ((add_keyword !== "") ? (add_keyword + "）") : ("）"));
@@ -145,7 +145,7 @@ function make_link_url(acc_site, city_name, city_url, wiki_name, add_keyword) {
       break;
     }
   }
-  return '<a href="' + link_url + '" target="_blank">'+ city_name + '</a>' + '、'; 
+  return '<a href="' + link_url + '" target="_blank">' + city_name + '</a>' + '、';
 }
 // get json filename
 function get_json_name(data_code) {
@@ -205,21 +205,46 @@ function get_json_name(data_code) {
 // append modal window with searched cities
 async function search_city_name(city_name) {
   const modal_text = document.querySelector('#modal > p');
-  let add_keyword = "<p>検索ワード：" + city_name + get_add_keyword() + "</p>";
+  let add_keyword = get_add_keyword();
+  let search_word = "<p>検索ワード：" + city_name + add_keyword + "</p>";
   let append_links;
   // modal-openを実行する
   modal.classList.remove('hidden');
   mask.classList.remove('hidden');
   append_links = "";
-  for (let code = 1; code <= 47; code++) {
-    let json_file = get_json_name(code);
-    const res = await fetch('assets/' + json_file);
-    const json = await res.json();
-    console.log(json);
+  let results;
+  if (city_name !== "") {
+    for (let code = 1; code <= 47; code++) {
+      let json_file = get_json_name(code);
+      const res = await fetch('assets/' + json_file);
+      const json = await res.json();
+      // console.log(json);
+      // results = json.result;
+      results = json.result.filter(check_CityName);
+      if (results.length > 0) {
+        console.log(json_file, results);
+        let append_html = "<p>in " + json_file + "(リンク数＝" + results.length + ')：'
+        results.forEach(item => {
+          append_html += make_link_url(acc_site, item.cityName, item.cityURL, item.wikiName, add_keyword);
+        });
+        append_html += "</p>";
+        append_links += append_html;
+      }
+      // append child elements to modal text
+      modal_text.innerHTML = modal_init_msg + search_word;
+      modal_text.innerHTML += append_links;
+      modal_text.innerHTML += "<p>searching ... </p>";
+    }
+  } else {
+    append_links = "<p>市区町村名を入力してください。</p>"
   }
   // append child elements to modal text
-  modal_text.innerHTML = modal_init_msg + add_keyword;
+  modal_text.innerHTML = modal_init_msg + search_word;
   modal_text.innerHTML += append_links;
-  modal_text.innerHTML += "<p>searching ... </p>";
+  function check_CityName(item) {
+    let cityName = item.cityName;
+    // console.log(cityName);
+    return (cityName.match(city_name));
+  }
 }
 // EOF
