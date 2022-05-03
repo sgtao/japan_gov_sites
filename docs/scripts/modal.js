@@ -102,52 +102,50 @@ async function click_prefectures(data) {
   modal_text.innerHTML = modal_init_msg + '<p><a href="' + link_url + '" target="_blank">'
     + data.name + '</a>：' + append_msg_google + '</p>';
   // console.log('to ', modal_text.textContent);
-  async function append_modal_text(data) {
-    let append_html = "(リンク数＝" + data.result.length + ')：'
-    // google検索のワード追加
-    await data.result.forEach(item => {
-      if (acc_site === "google") {
-        link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
-      } else { // wiki
-      }
-      switch (acc_site) {
-        case "local_govs": {
-          link_url = item.cityURL;
-          break;
-        }
-        case "google": {
-          link_url = "https://www.google.com/search?q=" + item.cityName + add_keyword;
-          break;
-        }
-        case "site_google": {
-          link_url = "https://www.google.com/search?q=" + "site::" + item.cityURL + add_keyword;
-          break;
-        }
-        default: { // wiki
-          if (typeof item.wikiName === 'undefined') {
-            link_url = "https://ja.wikipedia.org/wiki/" + item.cityName;
-          } else {
-            link_url = "https://ja.wikipedia.org/wiki/" + item.wikiName;
-          }
-          break;
-        }
-      }
-      append_html +=
-        '<a href="' + link_url + '" target="_blank">'
-        + item.cityName + '</a>' + '、';
-    });
-    modal_text.innerHTML += append_html;
-  }
   // fetch json file
   let json_file = get_json_name(data.code);
   const res = await fetch('assets/' + json_file);
   const json = await res.json();
   console.log(json);
-  append_modal_text(json);
+  await append_modal_text(json);
 
   // modal-openを実行する
   modal.classList.remove('hidden');
   mask.classList.remove('hidden');
+  async function append_modal_text(data) {
+    let append_html = "(リンク数＝" + data.result.length + ')：'
+    // google検索のワード追加
+    await data.result.forEach(item => {
+      append_html += make_link_url(acc_site, item.cityName, item.cityURL, item.wikiName, add_keyword);
+    });
+    modal_text.innerHTML += append_html;
+  }
+}
+function make_link_url(acc_site, city_name, city_url, wiki_name, add_keyword) {
+  let link_url = "";
+  switch (acc_site) {
+    case "local_govs": {
+      link_url = city_url;
+      break;
+    }
+    case "google": {
+      link_url = "https://www.google.com/search?q=" + city_name + add_keyword;
+      break;
+    }
+    case "site_google": {
+      link_url = "https://www.google.com/search?q=" + "site::" + city_url + add_keyword;
+      break;
+    }
+    default: { // wiki
+      if (typeof wiki_name === 'undefined') {
+        link_url = "https://ja.wikipedia.org/wiki/" + city_name;
+      } else {
+        link_url = "https://ja.wikipedia.org/wiki/" + wiki_name;
+      }
+      break;
+    }
+  }
+  return '<a href="' + link_url + '" target="_blank">'+ city_name + '</a>' + '、'; 
 }
 // get json filename
 function get_json_name(data_code) {
