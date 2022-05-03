@@ -9,6 +9,7 @@ body {
 }
 
 .container {
+  z-index: 1;
   min-height: 100vh;
 }
 
@@ -82,6 +83,15 @@ body {
           transform: translateY(-500px);
   opacity: 0;
   z-index: -10;
+  height: 100px;
+  -webkit-transition: -webkit-transform .4s;
+  transition: -webkit-transform .4s;
+  transition: transform .4s;
+  transition: transform .4s, -webkit-transform .4s;
+}
+
+#modal.hidden p {
+  display: none;
 }
 
 /********************************

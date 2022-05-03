@@ -7,6 +7,7 @@ body {
   font-size: 14px;
 }
 .container {
+  z-index: 1;
   min-height: 100vh;
   // display: flex;
   h1 {
@@ -72,8 +73,11 @@ body {
   transform: translateY(-500px);
   opacity: 0;
   z-index: -10;
-  // display: none;
-  // transition: transform .4s;
+  height: 100px;
+  transition: transform .4s;
+  p {
+    display: none;
+  }
 }
 /********************************
   navigation_slidebar:

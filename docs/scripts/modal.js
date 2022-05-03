@@ -232,8 +232,8 @@ async function search_city_name(city_name) {
       }
       // append child elements to modal text
       modal_text.innerHTML = modal_init_msg + search_word;
-      modal_text.innerHTML += append_links;
       modal_text.innerHTML += "<p>searching ... </p>";
+      modal_text.innerHTML += append_links;
     }
   } else {
     append_links = "<p>市区町村名を入力してください。</p>"
