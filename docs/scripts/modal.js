@@ -207,11 +207,21 @@ function get_json_name(data_code) {
 // append modal window with searched cities
 async function search_city_name(city_name) {
   const modal_text = document.querySelector('#modal > p');
-  let add_keyword = city_name + get_add_keyword();
-  modal_text.innerHTML = modal_init_msg + add_keyword;
-
+  let add_keyword = "<p>検索ワード：" + city_name + get_add_keyword() + "</p>";
+  let append_links;
   // modal-openを実行する
   modal.classList.remove('hidden');
   mask.classList.remove('hidden');
+  append_links = "";
+  for (let code = 1; code <= 47; code++) {
+    let json_file = get_json_name(code);
+    const res = await fetch('assets/' + json_file);
+    const json = await res.json();
+    console.log(json);
+  }
+  // append child elements to modal text
+  modal_text.innerHTML = modal_init_msg + add_keyword;
+  modal_text.innerHTML += append_links;
+  modal_text.innerHTML += "<p>searching ... </p>";
 }
 // EOF
