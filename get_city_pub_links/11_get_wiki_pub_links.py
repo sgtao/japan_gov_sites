@@ -79,7 +79,18 @@ for row in df.itertuples():
     print(row.cityName)
     # print(row.wikiURL)
     _getCityURL = get_wiki_pub_url(row.cityURL)
+    # check getCityURL
+    try:
+      res = requests.get(_getCityURL)
+      soup = bs4(res.content,'lxml')
+      title_text = soup.find('title').get_text()
+      print(title_text)
+    except:
+      print('# ERROR!! アクセス中、何かのエラーが起きました')
+      _getCityURL += '_#checkURL'
+    # set to DataFrame
     df.loc[row.cityCode, 'cityURL'] = _getCityURL
+    # wait next
     time.sleep(1)
 #
 print(df)
